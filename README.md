@@ -71,8 +71,6 @@ Submit you solution to you specific branch:
 ## 💡 Tips for Competitors
 
 - **Choose Your LLM Strategically:**
-  - Gemini = fast, limited context  
-  - LLaMA = more context, slower  
 - **Master the Knowledge Architecture:**  
   You may choose one or all five different knowledge sources, but be aware of the complications of different knowledge sources inside the same solution  
 - **Prove the Value:**  
