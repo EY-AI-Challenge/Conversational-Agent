@@ -4,7 +4,7 @@
 
 ## 🧠 Description
 
-In this strategic consulting challenge, your team will design and develop an intelligent conversational assistant that revolutionizes how relevant information is accessed, navigated and leveraged by EY profesisonals. 
+In this strategic consulting challenge, your team will design and develop an intelligent conversational assistant that revolutionizes how relevant information is accessed, navigated and leveraged by EY professionals. 
 
 Your solution will harness information extracted from multiple sources to create an intuitive, responsive interface that enhances professional productivity and knowledge accessibility.
 
@@ -61,7 +61,7 @@ For EY internal information, a dataset on EY information is provided, representi
 <h2 align="center"> ⚠️ **Important Submission Requirement** ⚠️ </h2>
 <h3> ✅ Before the 14h00 deadline</h3>
 
-Submit you solution to you specific branch:
+Submit you solution to your specific branch:
 - Repository with the code of the solution developed
   - The solution must be ready to run
 - A README file with the context of the solution and how to run it
@@ -72,7 +72,7 @@ Submit you solution to you specific branch:
 
 - **Choose Your LLM Strategically:**
 - **Master the Knowledge Architecture:**  
-  You may choose one or all five different knowledge sources, but be aware of the complications of different knowledge sources inside the same solution  
+  You may choose one or all five different knowledge sources, but be aware of the challenges of having different knowledge sources inside the same solution  
 - **Prove the Value:**  
   Use metrics to show value — time saved, accuracy improved, fewer support queries, faster onboarding  
 - **Innovate with Purpose:**  
