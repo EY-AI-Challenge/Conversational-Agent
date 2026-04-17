@@ -57,6 +57,12 @@ For EY internal information, a dataset on EY information is provided, representi
 
 🔹 **Optional Enhancements**:  
 - Performance analysis vs traditional knowledge access methods
+- Citations and source attribution in responses
+- Streaming responses for improved user experience
+- Speech-to-text and/or text-to-speech capabilities
+- Multi-agent architectures
+- Integration with external tools or data sources (e.g., SQL via MCP)
+- Any other advanced features that improve usability, robustness, or innovation
 
 <h2 align="center"> ⚠️ **Important Submission Requirement** ⚠️ </h2>
 <h3> ✅ Before the 14h00 deadline</h3>
