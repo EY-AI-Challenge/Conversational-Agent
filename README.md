@@ -1,5 +1,74 @@
 ![alt text](https://github.com/EYAIChallenge/Overview/blob/main/Banner-EY-1280x640.jpg "EY AI Challenge")
 
+## Integrated Chatbot Backend
+
+The backend is now wired as a complete retrieval chatbot pipeline:
+
+- `scraper.py` downloads Banco de Portugal bulletins into `bdp/` and extracts page-aware `.txt` files.
+- `context.py` indexes the scraped BdP content together with EY documents in `Data/` (`.txt`, `.pdf`, `.xlsx`) and retrieves cited context chunks.
+- `chatbot.py` exposes a frontend-ready HTTP API and can also answer one-off terminal questions.
+
+### Run it
+
+```bash
+pip install -r requirements.txt
+python chatbot.py --host 127.0.0.1 --port 8000
+```
+
+In another terminal, run the Streamlit frontend:
+
+```bash
+streamlit run app.py
+```
+
+For a faster local smoke test that skips PDF indexing:
+
+```bash
+python chatbot.py --ask "Que informacao existe sobre FraudRadar?" --offline --no-pdfs
+```
+
+To refresh the BdP scraping before serving:
+
+```bash
+python chatbot.py --scrape-first
+```
+
+### Frontend contract
+
+The frontend can call:
+
+```http
+POST http://127.0.0.1:8000/chat
+Content-Type: application/json
+
+{
+  "message": "Que sinais de risco aparecem nos boletins mais recentes?",
+  "area": "risco",
+  "top_k": 5
+}
+```
+
+Response shape:
+
+```json
+{
+  "answer": "...",
+  "sources": [
+    {
+      "label": "Fonte 1",
+      "citation": "Boletim Economico - marco 2026, p. 10",
+      "source_file": "C:/.../bdp/boletim_01_2026-03.txt",
+      "excerpt": "..."
+    }
+  ],
+  "used_llm": false,
+  "warnings": [],
+  "prompt": "..."
+}
+```
+
+If `OPENAI_API_KEY` is present in `.env` or the environment, `chatbot.py` will call the configured LLM. Set `OPENAI_MODEL` if you want a specific model. Without a key, the API still returns an extractive answer with citations, which is useful for demos and frontend integration.
+
 <h1 align="center"> <img src="https://github.com/EYAIChallenge/Overview/blob/main/EY_Logo_Beam_RGB_White_Yellow.png" width="40" alt="Logo"/> AI Challenge 2026 | Conversational Agent Challenge </h1>
 
 ## 🧠 Description

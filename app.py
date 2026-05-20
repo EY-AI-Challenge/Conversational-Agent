@@ -1,120 +1,179 @@
-import streamlit as st
-import time
+from __future__ import annotations
 
-# Configuração da página da EY
+import os
+import time
+from typing import Any
+
+import requests
+import streamlit as st
+
+
+DEFAULT_API_URL = os.environ.get("CHATBOT_API_URL", "http://127.0.0.1:8000/chat")
+
+AREA_OPTIONS = {
+    "Sem filtro": None,
+    "Macroeconomia / inflacao": "inflacao",
+    "Credito e PMEs": "credito",
+    "Energia": "energia",
+    "Risco e fraude": "risco",
+    "EY interno": "ey",
+    "Inteligencia artificial": "ia",
+}
+
+
+def call_chatbot(
+    api_url: str,
+    message: str,
+    *,
+    area: str | None,
+    history: list[dict[str, str]],
+) -> dict[str, Any]:
+    payload: dict[str, Any] = {
+        "message": message,
+        "area": area,
+        "top_k": 5,
+        "history": history[-8:],
+    }
+    response = requests.post(api_url, json=payload, timeout=90)
+    response.raise_for_status()
+    return response.json()
+
+
+def check_health(api_url: str) -> dict[str, Any] | None:
+    health_url = api_url.rstrip("/")
+    if health_url.endswith("/chat"):
+        health_url = health_url[: -len("/chat")] + "/health"
+    elif health_url.endswith("/api/chat"):
+        health_url = health_url[: -len("/api/chat")] + "/api/health"
+
+    try:
+        response = requests.get(health_url, timeout=5)
+        response.raise_for_status()
+        return response.json()
+    except requests.RequestException:
+        return None
+
+
 st.set_page_config(
     page_title="Smart Supervision - EY AI Challenge",
-    page_icon="🔎",
-    layout="wide"
+    layout="wide",
 )
 
-# Estilo visual para as cores da EY (Preto e Amarelo)
-st.markdown("""
+st.markdown(
+    """
     <style>
-    .main-title { color: #FFE600; background-color: #1E1E1E; padding: 20px; border-radius: 10px; text-align: center; font-weight: bold; }
-    .stButton>button { background-color: #FFE600; color: black; border-radius: 5px; }
+    .main-title {
+        color: #FFE600;
+        background-color: #1E1E1E;
+        padding: 18px 22px;
+        border-radius: 8px;
+        font-weight: 700;
+    }
+    .main-title h1 {
+        margin: 0;
+        font-size: 2rem;
+        letter-spacing: 0;
+    }
+    .stButton>button {
+        background-color: #FFE600;
+        color: #111111;
+        border-radius: 5px;
+        border: 0;
+    }
     </style>
-""", unsafe_allow_html=True)
-
-st.markdown("<div class='main-title'><h1>🔎 Smart Supervision</h1></div>", unsafe_allow_html=True)
-st.caption("Estratégia EY: Centralização de Inteligência para o Banco de Portugal")
-
-# --- SIDEBAR: FOCO EXCLUSIVO NO BANCO DE PORTUGAL ---
-st.sidebar.markdown("## 🌐 EY | Smart Supervision")
-st.sidebar.header("🎯 Painel de Controlo")
-
-# Filtragem de informação (A tua Ideia Original de filtrar por áreas)
-area_selecionada = st.sidebar.selectbox(
-    "Âmbito da Supervisão:",
-    ["Análise Macro (Boletins)", "Riscos de Crédito PMEs", "Monitorização de Inflação", "Estabilidade Financeira"]
+    """,
+    unsafe_allow_html=True,
 )
 
-st.sidebar.subheader("📊 Fontes BdP Ativas")
-st.sidebar.success("✅ Boletins Económicos Mensais")
-st.sidebar.success("✅ Relatórios de Estabilidade")
-st.sidebar.success("✅ Estatísticas de Crédito")
+st.markdown("<div class='main-title'><h1>Smart Supervision</h1></div>", unsafe_allow_html=True)
+st.caption("EY knowledge assistant for BdP and internal information")
 
-st.sidebar.markdown("---")
-st.sidebar.info("💡 **A nossa tese:** 'Se a EY automatiza a sua inteligência interna, o Smart Supervision permite ao BdP modernizar anos de relatórios num único motor de decisão.'")
+with st.sidebar:
+    st.markdown("## EY | Smart Supervision")
+    api_url = st.text_input("Backend URL", value=DEFAULT_API_URL)
+    selected_area_label = st.selectbox("Area", list(AREA_OPTIONS.keys()))
+    selected_area = AREA_OPTIONS[selected_area_label]
 
-# --- CONTEXTO DO PROBLEMA (A tua estrutura de Pitch) ---
-with st.expander("📌 Porquê o Smart Supervision?"):
-    st.markdown("""
-    * **O Problema:** Os profissionais perdem cerca de 2 semanas a navegar em centenas de PDFs do BdP para detetar um único risco.
-    * **A Solução:** O Smart Supervision organiza dados de supervisão e responde a questões complexas de forma clara e filtrada por área.
-    * **Impacto:** Redução do tempo de análise e clarificação imediata da resiliência dos bancos face a riscos climáticos e digitais.
-    """)
+    health = check_health(api_url)
+    if health:
+        st.success(f"{health.get('chunks', 0)} chunks | {health.get('sources', 0)} sources")
+        st.caption("LLM active" if health.get("llm_configured") else "Extractive mode")
+    else:
+        st.error("Backend unavailable")
+        st.caption("Start it with: python chatbot.py --host 127.0.0.1 --port 8000")
 
-# --- HISTÓRICO DO CHAT ---
+    if st.button("Limpar conversa"):
+        st.session_state.messages = []
+        st.rerun()
+
 if "messages" not in st.session_state:
     st.session_state.messages = [
-        {"role": "assistant", "content": "Olá! Sou o Smart Supervision, o motor de inteligência desenhado pela EY para o Banco de Portugal. Que dados de supervisão queres analisar agora?"}
+        {
+            "role": "assistant",
+            "content": (
+                "Ola. Sou o Smart Supervision, ligado ao contexto EY e aos boletins BdP. "
+                "Que informacao queres analisar?"
+            ),
+        }
     ]
 
 for message in st.session_state.messages:
     with st.chat_message(message["role"]):
         st.markdown(message["content"])
+        for source in message.get("sources", []):
+            with st.expander(source.get("citation", "Fonte")):
+                st.caption(source.get("source_file", ""))
+                st.write(source.get("excerpt", ""))
 
-# --- LÓGICA DE INTERAÇÃO (Foco BdP e perguntas do teu rascunho) ---
-if prompt := st.chat_input("Como está a tendência da inflação ou o risco das PMEs?"):
+if prompt := st.chat_input("Pergunta sobre BdP, risco, equipas EY, IA ou servicos internos"):
     with st.chat_message("user"):
         st.markdown(prompt)
     st.session_state.messages.append({"role": "user", "content": prompt})
 
     with st.chat_message("assistant"):
-        message_placeholder = st.empty()
-        p_lower = prompt.lower()
-        
-        # Respostas inteligentes baseadas nos teus rascunhos da Fase 4
-        if "inflação" in p_lower or "tendência" in p_lower:
-            response = """
-### 📈 Análise de Supervisão: Tendência de Inflação
-Com base nos últimos 3 Boletins Económicos do BdP, detetámos uma convergência da inflação para o objetivo de 2%, embora a inflação nos serviços permaneça sob vigilância devido ao dinamismo do mercado de trabalho.
+        placeholder = st.empty()
+        try:
+            result = call_chatbot(
+                api_url,
+                prompt,
+                area=selected_area,
+                history=[
+                    {"role": item["role"], "content": item["content"]}
+                    for item in st.session_state.messages
+                    if item["role"] in {"user", "assistant"}
+                ],
+            )
+            answer = result.get("answer", "")
+            rendered = ""
+            for line in answer.splitlines():
+                rendered += line + "\n"
+                placeholder.markdown(rendered)
+                time.sleep(0.015)
 
-**Dados Críticos para o BdP:**
-* **HICP Recente:** 2.3% (em linha com as projeções macroeconómicas).
-* **Risco Detetado:** Persistência de pressões salariais no setor de serviços e turismo.
-* **Fonte:** *Boletim Económico BdP - Secção 2: Evolução Macroeconómica, pág. 12.*
-            """
-        elif "crédito" in p_lower or "pme" in p_lower or "endividamento" in p_lower:
-            response = """
-### 🏢 Análise de Supervisão: Resiliência Empresarial
-O Smart Supervision identificou que o rácio de endividamento das PMEs portuguesas continua a baixar, mas a capacidade de serviço da dívida está sob pressão em setores dependentes de taxas variáveis.
+            sources = result.get("sources", [])
+            for source in sources:
+                with st.expander(source.get("citation", "Fonte")):
+                    st.caption(source.get("source_file", ""))
+                    st.write(source.get("excerpt", ""))
 
-**Foco de Supervisão:**
-* **Alerta de Risco:** Deterioração do rácio de cobertura de juros em 15% das PMEs industriais analisadas.
-* **Recomendação EY:** Aumentar preventivamente as provisões para risco de crédito nestes clusters específicos.
-* **Fonte:** *Relatório de Estabilidade Financeira BdP - Capítulo de Resiliência do Setor Privado, pág. 45.*
-            """
-        elif "partner" in p_lower or "equipa" in p_lower or "alocação" in p_lower or "sócio" in p_lower:
-            response = """
-### 💼 2ª Solução: Alocação e Disponibilidade de Especialistas EY
-Para operacionalizar estes dados e apresentar a solução ao conselho do BdP, o sistema identificou os perfis ideais na nossa matriz de competências interna (baseada no ficheiro Excel da EY):
+            warnings = result.get("warnings", [])
+            for warning in warnings:
+                st.warning(warning)
 
-| Sócio / Partner | Service Line | Especialidade | Disponibilidade Atual |
-| :--- | :--- | :--- | :--- |
-| **Partner Gonçalo Matos** | Consulting - FSO | Inteligência Artificial & Arquitetura de Dados | 🟢 Alta (Disponível de imediato) |
-| **Partner Alexandra Silva** | Assurance / Risk | Regulação Bancária & Compliance BdP | 🟡 Média (Livre a partir de sexta-feira) |
-| **Partner Manuel Santos** | Strategy and Transactions | Transição Verde & Sustentabilidade (ESG) | 🟢 Alta (Disponível de imediato) |
+            st.caption("Resposta gerada com LLM" if result.get("used_llm") else "Resposta em modo extractivo")
 
-*Fonte: EY Internal Information - Mapeamento de Service Lines e Partners 2026.*
-            """
-        else:
-            response = """
-### 🔍 Smart Supervision - Processamento de Informação
-O sistema cruzou com sucesso a sua questão com os dados carregados do Banco de Portugal.
-
-Para uma demonstração detalhada no vosso Pitch, experimente perguntar especificamente por:
-1. **"Qual é a tendência da inflação?"** (Testar o Agente Macroeconómico)
-2. **"Como está o endividamento das PMEs?"** (Testar o Agente de Supervisão de Risco)
-3. **"Quem é a equipa de partners alocada?"** (Testar a 2ª Solução de Alocação da EY)
-            """
-        
-        # Efeito visual de digitação (Streaming)
-        full_res = ""
-        for line in response.split("\n"):
-            full_res += line + "\n"
-            message_placeholder.markdown(full_res)
-            time.sleep(0.04)
-            
-        st.session_state.messages.append({"role": "assistant", "content": response})
+            st.session_state.messages.append(
+                {
+                    "role": "assistant",
+                    "content": answer,
+                    "sources": sources,
+                }
+            )
+        except requests.RequestException as exc:
+            error = (
+                "Nao consegui contactar o backend do chatbot. "
+                "Confirma que `chatbot.py` esta a correr e que o URL no painel lateral esta correto.\n\n"
+                f"Detalhe: `{exc}`"
+            )
+            placeholder.error(error)
+            st.session_state.messages.append({"role": "assistant", "content": error})
