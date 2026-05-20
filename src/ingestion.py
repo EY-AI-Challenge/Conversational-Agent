@@ -1,4 +1,3 @@
-import os
 import pandas as pd
 from pathlib import Path
 from langchain_core.documents import Document
@@ -7,7 +6,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_ollama import OllamaEmbeddings
 from langchain_chroma import Chroma
 
-DATA_DIR  = Path("./Data")
+DATA_DIR = Path("./Data")
 CHROMA_DIR = "./chroma_db"
 EMBED_MODEL = "nomic-embed-text"
 COLLECTION  = "ey_knowledge"

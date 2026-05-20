@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+venv
+.venv/
+
+# Local svector database
+chroma_db/
+
+# Streamlit
+.streamlit/
+
+# OS files
+.DS_Store

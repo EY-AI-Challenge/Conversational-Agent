@@ -1,5 +1,4 @@
 import streamlit as st
-import os
 from pathlib import Path
 from src.ingestion import ingest, load_vectorstore
 from src.retriever import build_hybrid_retriever
