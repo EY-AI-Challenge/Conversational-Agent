@@ -1,0 +1,4122 @@
+[Página 1]
+BOLETIM
+ECONÓMICO
+OUT. 2025
+
+[Página 3]
+BOLETIM
+ECONÓMICO
+OUT. 2025
+Em ficheiro anexo são disponibilizados os dados subjacentes
+aos gráficos do Boletim Económico.
+Não são divulgados dados de algumas fontes privadas.
+Lisboa, 2025 • www.bportugal.pt
+
+[Página 4]
+Boletim Económico | Outubro 2025 • Banco de Portugal Rua do Comércio, 148 | 1100-150 Lisboa • www.bportugal.pt •
+Edição Departamento de Estudos Económicos • Design Departamento de Comunicação e Museu | Unidade de Design
+• ISSN (online) 2182-0368
+
+[Página 5]
+Índice
+I A economia portuguesa: 2025–27 | 5
+1 Projeções para a economia portuguesa em 2025–27 | 7
+Caixa 1 • Enquadramento e políticas | 16
+Caixa 2 • Desempenho recente das exportações portuguesas de bens para os EUA | 19
+Caixa 3 • Empresas com elevada exposição ao mercado dos EUA: caraterização
+e exposição das instituições de crédito residentes | 22
+Caixa 4 • Evolução das quotas de mercado das exportações de bens e serviços
+por grau de intensidade em tecnologia e conhecimento | 25
+Caixa 5 • Exportações de turismo: desenvolvimentos recentes | 28
+Caixa 6 • A reavaliação da estratégia de política monetária do BCE de 2025 | 32
+II Tema em destaque | 35
+A emigração dos jovens portugueses nas últimas décadas | 37
+III Políticas em análise | 49
+As medidas com incidência em empréstimos à habitação no contexto de subidas
+nas taxas de juro | 51
+
+[Página 7]
+I A economia portuguesa: 2025–27
+Caixa 1 Enquadramento e políticas
+Caixa 2 Desempenho recente das exportações
+portuguesas de bens para os EUA
+Caixa 3 Empresas com elevada exposição ao
+mercado dos EUA: caraterização e exposição das
+instituições de crédito residentes
+Caixa 4 Evolução das quotas de mercado das
+exportações de bens e serviços por grau de
+intensidade em tecnologia e conhecimento
+Caixa 5 Exportações de turismo: desenvolvimentos
+recentes
+Caixa 6 A reavaliação da estratégia de política
+monetária do BCE de 2025
+
+[Página 9]
+1 Projeções para a economia
+portuguesa em 2025–27
+A atividade económica em Portugal deverá crescer 1,9% em 2025, 2,2% em 2026 e 1,7% em 2027,
+e a inflação deverá estabilizar em valores em torno de 2% no horizonte de projeção (Quadro I.1.1).
+A economia portuguesa tem enfrentado uma sucessão de choques externos, que incluem tensões
+comerciais e geopolíticas, e conflitos armados. O desempenho relativamente favorável no quadro da área
+do euro deverá continuar no horizonte de projeção, assente na robustez do mercado de trabalho,
+na capacidade de adaptação e inovação das empresas e na orientação da atividade para os serviços.
+As políticas monetária e orçamental também favorecem o crescimento da procura interna. Contudo,
+existem riscos significativos em torno das projeções.
+Quadro I.1.1 • Projeções do Banco de Portugal: 2025–2027 | Taxa de variação anual em percentagem
+(exceto onde indicado)
+Pesos BE outubro 2025 BE junho 2025
+2024
+2023 2024 2025(p) 2026(p) 2027(p) 2023 2024 2025(p) 2026(p) 2027(p)
+Produto interno bruto (PIB) 100,0 3,1 2,1 1,9 2,2 1,7 2,6 1,9 1,6 2,2 1,7
+Consumo privado 60,9 2,4 3,0 3,3 2,0 2,0 1,9 3,2 2,2 2,0 1,9
+Consumo público 16,9 1,8 1,5 1,6 1,3 1,0 0,6 1,1 1,0 1,0 0,7
+Formação bruta de capital fixo (FBCF) 20,4 6,0 4,2 3,0 5,3 0,6 3,6 3,0 2,1 5,8 0,1
+Procura interna 98,2 2,2 2,9 3,6 2,5 1,5 1,7 2,6 2,3 2,5 1,3
+Exportações 45,8 4,3 3,1 1,1 2,2 2,8 3,8 3,4 1,7 2,6 2,9
+Importações 43,9 2,3 4,8 4,7 2,8 2,3 1,8 4,9 3,4 3,2 2,2
+Emprego (a) 2,0 0,7 1,8 0,9 0,5 1,0 1,6 1,4 0,7 0,5
+Taxa de desemprego (b) 6,5 6,4 6,2 6,3 6,3 6,5 6,4 6,4 6,4 6,4
+Balança corrente e de capital (% PIB) 2,0 3,1 3,6 4,2 2,7 2,0 3,3 3,9 4,5 3,0
+Balança de bens e serviços (% PIB) 1,5 2,3 1,6 1,6 1,8 1,5 2,3 1,6 1,7 2,0
+Índice harmonizado de preços no consumidor (IHPC) (c) 5,3 2,7 2,2 1,9 2,0 5,3 2,7 1,9 1,8 1,9
+Excluindo bens energéticos e alimentares 5,4 2,7 2,3 2,2 2,1 5,4 2,7 2,5 2,0 2,0
+Deflator do PIB 7,5 4,8 4,1 2,9 2,3 7,0 4,5 2,7 2,4 2,4
+PIB per capita (d) 1,9 1,1 1,1 1,7 1,4 - - - - -
+PIB por indivíduo em idade ativa (e) 2,1 1,1 1,2 1,8 1,6 - - - - -
+PIB por trabalhador (f) 1,1 1,4 0,1 1,3 1,2 - - - - -
+Fontes: Banco de Portugal e INE. | Notas: (p) — projetado, % — percentagem. O fecho de dados do exercício de projeção é 29 de setembro. A projeção
+corresponde ao valor mais provável condicional ao conjunto de hipóteses consideradas. Pesos a preços correntes. (a) De acordo com o conceito de Contas 7
+Nacionais. (b) Em percentagem da população ativa. (c) As projeções do IHPC foram obtidas a partir de uma nova versão do modelo mensal para a inflação 2 –
+5
+(MIMO, a divulgar) que substitui a versão anterior apresentada em Maria et al. (2007). (d) O PIB per capita corresponde ao rácio do PIB pela população total, 2
+0
+segundo as Estatísticas Demográficas divulgadas pelo INE. (e) O PIB por indivíduo em idade ativa corresponde ao rácio do PIB pela população com idade entre 2
+16 e 74 anos. (f) O PIB por trabalhador corresponde ao rácio do PIB pelo número de trabalhadores, de acordo com o conceito de emprego das Contas Nacionais.
+:a
+s
+e
+u
+g
+u
+tr
+O enquadramento internacional continua marcado por tensões comerciais, pela incerteza o
+p
+e pela apreciação do euro, mas os efeitos na procura externa são, para já, limitados. A projeção a im
+considera que os direitos aduaneiros impostos pelos EUA aos bens exportados pela União Europeia (UE) o n
+o
+se mantêm nos valores atuais, sendo superiores aos do Boletim anterior (Caixa 1 — Enquadramento c e
+a
+e políticas). A evidência sugere que a imposição destes direitos, a par de outras alterações ocorridas desde a
+r
+a
+a eleição da nova administração norte-americana, se refletiu numa redução das exportações portuguesas p
+s
+e
+para os EUA (Caixa 2 — Desempenho recente das exportações portuguesas de bens para os EUA). õ
+ç
+e
+A evolução da procura externa dirigida a Portugal, com um peso dominante da UE, também reflete jo
+r
+P
+7
+
+[Página 10]
+a moderação das trocas internacionais no curto prazo (Caixa 1 — Enquadramento e políticas). Num
+cenário de manutenção do funcionamento regular das cadeias de abastecimento globais e de redução
+gradual da incerteza, espera-se que o crescimento da procura externa recupere a partir do primeiro
+trimestre de 2026. O seu crescimento médio no horizonte de projeção situa-se em 2,7%, um valor
+próximo do observado na última década (2,6%).
+O alívio das condições financeiras, as transferências líquidas da UE e a política orçamental ajudam
+a sustentar o crescimento da atividade. O impacto da política monetária sobre o PIB na área do euro
+é cada vez menos negativo, após um período de restritividade que contribuiu para a convergência da
+inflação para o objetivo de 2%. O sistema financeiro português mostra-se robusto, sendo reduzida
+a exposição das instituições de crédito às empresas mais vulneráveis ao mercado dos EUA (Caixa 3 —
+Empresas com elevada exposição ao mercado dos EUA: caraterização e exposição das instituições de
+crédito residentes). As transferências líquidas da UE deverão ser historicamente elevadas em 2025–26
+(2,1% e 2,9% do PIB, respetivamente). Para 2027, projeta-se uma redução para 1,3%, que compara
+com uma média de 1,1% na última década. Esta evolução é determinada pelas subvenções que financiam
+o Plano de Recuperação e Resiliência (PRR). Assumindo que o PRR será concluído no prazo estipulado,
+deverão ser executados projetos no valor equivalente a 3,7% do PIB em 2025–26. Em 2027, os
+recebimentos de fundos europeus estarão essencialmente associados ao atual quadro financeiro
+plurianual. No plano interno, após a publicação do anterior Boletim, foram tomadas novas medidas
+orçamentais com impacto positivo no rendimento disponível das famílias em 2025, nomeadamente uma
+nova redução do imposto sobre o rendimento das pessoas singulares (IRS), com efeitos retroativos ao
+início do ano, e um suplemento extraordinário para as pensões mais baixas. À semelhança do que se
+verificou em 2024, a atualização das tabelas de retenção na fonte para refletir as alterações do IRS
+introduz volatilidade no perfil trimestral do rendimento disponível, com efeitos ainda em 2026.
+A revisão de 0,3 pontos percentuais (pp) do crescimento do PIB para 2025 reflete a incorporação
+dos dados mais recentes de contas nacionais e um maior crescimento projetado para
+o segundo semestre. A divulgação dos resultados das contas nacionais anuais revelou um maior
+crescimento do PIB em 2023 e 2024 (0,5 e 0,2 pp, respetivamente).1 Estas revisões refletem um maior
+contributo da procura interna (líquido de conteúdo importado). Em 2023, houve revisões em alta nos
+contributos do consumo privado, consumo público e investimento, enquanto em 2024 a revisão esteve
+essencialmente associada a um maior contributo do investimento. A variação em cadeia do PIB do
+primeiro trimestre foi também revista em alta pelo Instituto Nacional de Estatística (INE) e a do segundo
+trimestre ficou acima da projetada no BE de junho (0,2 e 0,3 pp, respetivamente).
+5
+2 A revisão da projeção do crescimento da atividade em 2025 reflete um contributo da procura interna
+0
+2
+o
+0,7 pp mais forte do que o antecipado. Do lado do consumo privado, a revisão em alta reflete
+r
+b o melhor desempenho do rendimento disponível, traduzindo um crescimento dos rendimentos do
+u
+tu
+O trabalho superior ao esperado e o efeito das novas medidas orçamentais. Refira-se que o impacto
+o
+• no consumo privado das medidas orçamentais introduzidas em 2024 induziu uma volatilidade no
+c im crescimento do PIB superior ao habitual no final de 2024 e início de 2025 (Gráfico I.1.1 — Painel A).
+ó n Projeta-se um perfil análogo na segunda metade de 2025 e no primeiro trimestre de 2026 em
+o
+c E consequência das novas medidas anunciadas este ano, em parte de natureza temporária. Contudo,
+m
+ite assume-se que as famílias terão agora uma melhor perceção do seu impacto no perfil trimestral do
+lo rendimento disponível, o que se traduz num maior alisamento do consumo. Na formação bruta de
+B
+la
+• capital fixo (FBCF), a revisão em alta está associada às componentes pública e residencial. O mercado
+g de habitação não parece estar a ser negativamente afetado pelo atual enquadramento de incerteza,
+u
+tr
+o
+P
+e
+d
+o
+c
+n 1 Para mais detalhes consultar o destaque do INE.
+a
+B
+8
+
+[Página 11]
+num contexto de diminuição das taxas de juro e de procura robusta. Na primeira metade de 2025,
+os preços cresceram cerca de 17% em termos homólogos, o número de transações de imóveis cerca
+de 20% e o stock de crédito à compra de habitação quase 6%. As medidas governamentais de apoio
+à aquisição de habitação pelos jovens terão contribuído para este dinamismo.
+Gráfico I.1.1 • Projeções trimestrais para o PIB e para a inflação
+Painel A — PIB — Taxa de variação Painel B — IHPC — Taxa de variação
+em cadeia | Percentagem homóloga | Percentagem
+Fontes: Banco de Portugal e INE. | Nota: As linhas a tracejado correspondem aos valores projetados nos Boletins Económicos de junho e outubro de 2025.
+Em sentido contrário, as exportações são revistas em baixa, traduzindo o desempenho mais fraco
+do que o esperado na primeira metade do ano, comum a bens e serviços. Neste período, as
+exportações estagnaram, não obstante o maior dinamismo do comércio mundial no início do ano,
+em antecipação dos aumentos dos direitos aduaneiros.
+No horizonte de projeção, o PIB deverá crescer 2,0% em média, uma taxa próxima da
+observada em 2020–24, mas com um maior contributo da procura interna (Gráfico I.1.2).
+O consumo privado deverá ter um contributo médio de 0,9 pp no horizonte de projeção. Após
+o dinamismo excecional de 2024, o rendimento disponível real das famílias terá aumentos mais
+moderados em 2025–27 (7,2% em 2024, 3,0% em 2025, 0,9% em 2026 e 2,1% em 2027) (Gráfico I.1.3).
+Esta evolução reflete um arrefecimento do mercado de trabalho, e o impacto contemporâneo
+e desfasado das medidas orçamentais. A taxa de poupança diminui no horizonte de projeção,
+traduzindo a hipótese de dissipação da incerteza e o alisamento do perfil de consumo. Em 2027, a taxa
+de poupança mantém-se acima da média da década de 2010 (11,4% e 7,9%, respetivamente), num
+ambiente de taxas de juro mais elevadas.
+A FBCF total deverá crescer 3,0% em 2025, 5,3% em 2026 e 0,6% em 2027, com um perfil diferenciado 7
+2
+entre as componentes pública, de habitação e empresarial (Quadro I.1.1). O dinamismo do investimento 5 –
+2
+público deverá destacar-se em 2025–26, seguido de uma queda em 2027, com o fim do período de 0 2
+execução do PRR. Projeta-se que o investimento em habitação cresça 3,4% em média em 2025–27, que
+:a
+s
+e
+u
+compara com um aumento de 4,6% na última década. A FBCF empresarial deverá diminuir 1,4% em 2025, g
+u
+refletindo o adiamento de decisões de investimento, e crescer 3,4% em média em 2026–27. Esta tr o
+p
+recuperação reflete a redução esperada da incerteza, beneficiando também da diminuição das taxas de a
+im
+juro, da disponibilidade de fundos europeus, do dinamismo da procura global e da situação financeira o
+n
+robusta das empresas. o c
+e
+a
+O crescimento médio das exportações deverá reduzir-se para 2,0% em 2025–27, que compara com a
+r
+a
+4,6% na última década. O desempenho favorável das exportações no passado reflete ganhos de quota p
+s
+e
+de mercado (Caixa 4 — Evolução das quotas de mercado das exportações de bens e serviços por grau õ
+ç
+e
+de intensidade em tecnologia e conhecimento). Porém, as indicações preliminares para o primeiro jo
+r
+P
+9
+
+[Página 12]
+semestre de 2025 são negativas, num quadro de turbulência das trocas comerciais globais. Neste
+contexto, é feita uma avaliação conservadora da evolução da quota de mercado das exportações,
+assumindo-se a ausência de ganhos, em média, no horizonte de projeção. Esta avaliação também
+é extensível ao turismo. Após o dinamismo elevado do período pós-pandemia, espera-se uma
+normalização do crescimento para uma taxa média de 2,5% em 2025–27 (Caixa 5 — Exportações de
+turismo: desenvolvimentos recentes).
+Gráfico I.1.2 • Crescimento do PIB e contributos das componentes da despesa líquidos de
+conteúdo importado | Em percentagem e pontos percentuais
+Fontes: Banco de Portugal e INE. | Notas: (p) — projetado. A soma das barras em diferentes tons de azul (consumo privado, consumo público e investimento)
+corresponde ao contributo da procura interna. A metodologia de cálculo dos contributos líquidos de conteúdo importado está descrita em Cardoso e Rua
+(2021), “O real contributo da procura final para o crescimento do PIB”, Revista de Estudos Económicos do Banco de Portugal, Volume VII, n.º 3.
+Gráfico I.1.3 • Crescimento do consumo privado e do rendimento disponível e taxa
+de poupança
+5
+2
+0
+2
+o
+r
+b
+u
+tu
+O
+o
+•
+c
+im
+ó
+n
+o
+c
+E
+m
+ite
+lo
+B
+la
+•
+g
+u
+tr
+o
+P
+e
+Fontes: Banco de Portugal e INE. | Notas: (p) — projetado. O consumo privado e o rendimento disponível são deflacionados com o deflator do consumo
+d privado. O rendimento disponível é ajustado pela variação da participação líquida das famílias nos fundos de pensões. A taxa de poupança é o rácio
+o
+c entre a poupança e o rendimento disponível, ambos em termos nominais.
+n
+a
+B
+10
+
+[Página 13]
+Projeta-se um abrandamento do emprego e uma estabilização da taxa de desemprego em valores
+baixos. Após um crescimento de 1,3% em média em 2023–24 e 1,9% na primeira metade de 2025,
+o emprego deverá continuar a registar aumentos no horizonte de projeção, embora progressivamente
+menores (1,8% em 2025, 0,9% em 2026 e 0,5% em 2027). Esta dinâmica reflete aumentos contidos da
+taxa de atividade — que deverá situar-se em valores historicamente altos — e da população em idade
+ativa (Gráfico I.1.4). O crescimento populacional continuará a ser sustentado pela entrada no país de mão
+de obra estrangeira, embora com fluxos gradualmente menores, após o máximo observado em 2023.
+Neste contexto de crescimentos modestos da população ativa e do emprego, a taxa de desemprego
+situar-se-á em 6,3% em média.
+Na primeira metade de 2025, a atividade e o emprego nos serviços cresceram mais do que nas
+outras atividades (Gráfico I.1.5). Este padrão reforça a orientação da economia portuguesa para os
+serviços, que pesavam cerca de três quartos da atividade e do emprego em 2024 (cerca de 70% e 54%
+em 2000, respetivamente). Este processo de terciarização acompanha o desenvolvimento da generalidade
+das economias. Dado que os serviços são tipicamente menos voláteis do que as outras atividades
+(à exceção de situações-limite, como por exemplo uma pandemia) este fator torna a economia
+portuguesa mais resistente a choques.
+Gráfico I.1.4 • Evolução demográfica e no mercado de trabalho
+Fontes: Banco de Portugal e INE. | Notas: (p) — projetado. (*) A média, o máximo e o mínimo são calculados com base em dados de 1980 a 2024, exceto no
+caso dos imigrantes, cuja amostra começa em 1992. Os imigrantes são as pessoas (nacionais ou estrangeiras) que, no período de referência, entraram no país
+com a intenção de permanecer por um período igual ou superior a um ano, tendo residido no estrangeiro por um período contínuo igual ou superior a um
+ano. A taxa de atividade é o rácio entre a população ativa e a população em idade ativa. A população ativa é a soma dos empregados e desempregados, de
+acordo com o Inquérito ao Emprego. A série do emprego refere-se ao conceito das Contas Nacionais.
+O diferencial positivo de crescimento face à área do euro é parcialmente explicado pela dinâmica 7 2
+–
+populacional em Portugal, refletindo também uma evolução mais favorável da produtividade. 5 2
+0
+Tendo por base as projeções do Eurosistema, o crescimento do PIB em Portugal deverá manter-se 2
+:a
+superior ao da área do euro em 0,8 pp, em média, em 2025–27 (0,7 pp em 2020–24). Se considerarmos s e
+u
+medidas que descontam a evolução da população ou do emprego, o diferencial situa-se em torno de g u
+tr
+0,4 pp em 2025–27 (0,4 pp em 2020–24) (Gráfico I.1.6). Este diferencial reflete um contributo dominante o
+p
+da produtividade nas projeções do crescimento da atividade em Portugal (1,0 pp em média em 2025–27). a im
+o
+Este padrão de crescimento assente na produtividade deverá traduzir as diversas transformações n o
+c
+favoráveis que a economia portuguesa registou nos últimos dez anos.2 As empresas portuguesas e
+a
+a
+r
+a
+p
+s
+e
+õ
+ç
+e
+2 Para mais detalhes, veja-se a Caixa 2 — Perspetivas para a evolução do produto potencial, do Boletim Económico de março de 2025. jo
+r
+P
+11
+
+[Página 14]
+têm mostrado que são competitivas nos mercados internacionais, ganhando quota nos produtos com
+maior incorporação de tecnologia e conhecimento (Caixa 4 — Evolução das quotas de mercado das
+exportações de bens e serviços por grau de intensidade em tecnologia e conhecimento), o que contrasta
+com o desempenho menos favorável da área do euro.3 Mais emprego tem sido criado em Portugal nestes
+setores, que pagam remunerações superiores à média da economia, num contexto de aumento gradual
+das qualificações da população. Estes fatores contribuem para aumentar a capacidade de absorver
+choques e promovem o crescimento potencial da economia. No horizonte de projeção, o PIB potencial
+deverá aumentar em torno de 2%, uma taxa próxima da do PIB.
+Gráfico I.1.5 • Dinâmica dos serviços vs. outras atividades | Índice 2019 T4 = 100
+Painel A — Valor acrescentado bruto Painel B — Emprego
+Fontes: Banco de Portugal e INE. | Notas: (p) — projetado. Os serviços correspondem às atividades G a U de acordo com a CAE rev. 3.
+Gráfico I.1.6 • Perspetivas sobre a evolução do PIB: total, per capita, por indivíduo em idade
+ativa e por trabalhador | Taxa de variação média anual, em percentagem
+5
+2
+0
+2
+o
+r
+b
+u
+tu
+O
+o
+•
+c
+im
+ó
+n
+o
+c
+E
+m
+ite
+Fontes: Banco de Portugal, BCE, Eurostat e INE. | Notas: (p) — projetado. PT – Portugal. AE — Área do euro. O PIB refere-se a dados encadeados em volume,
+lo
+B a preços de 2021. O PIB per capita corresponde ao rácio do PIB pela população total, segundo as Estatísticas Demográficas divulgadas pelo INE. O PIB por
+la
+• i
+t
+n
+ra
+d
+b
+iv
+a
+í
+l
+d
+h
+u
+a
+o
+d o
+e
+r
+m
+es
+i
+,
+d
+d
+a
+e
+d e
+a c
+a
+o
+t
+r
+iv
+d
+a
+o
+c
+c
+o
+o
+r
+m
+re s
+o
+p
+c
+o
+o
+n
+n
+d
+c
+e
+e i
+a
+to
+o
+d
+rá
+e
+c
+e
+io
+m
+d
+p
+o
+r e
+P
+g
+I
+o
+B
+d
+p
+a
+e
+s
+la
+C
+p
+o
+o
+n
+p
+ta
+u
+s
+l a
+N
+ç
+a
+ã
+c
+o
+i o
+c
+n
+o
+a
+m
+is .
+i dade entre 16 e 74 anos. O PIB por trabalhador é o rácio do PIB pelo número de
+g
+u
+tr
+o
+P
+e
+d
+o
+c
+n 3 Banin et al. (2025). “Have euro area exports missed the tech train?” ECB Economic Bulletin, Volume 2 / 2025, 49–54.
+a
+B
+12
+
+[Página 15]
+A inflação aproxima-se do objetivo de estabilidade de preços no horizonte de projeção. A inflação
+diminuiu para 2,0% no segundo trimestre de 2025, aumentando para 2,5% na média de julho e agosto
+(Gráfico I.1.1 — Painel B). Este perfil está associado aos preços dos bens energéticos, alimentares
+e produtos voláteis ligados ao turismo. Em particular, os preços dos bens alimentares não transformados
+têm registado aumentos significativos (variação homóloga de 4,9% no segundo trimestre de 2025 e 8,4%
+na média de julho e agosto), que também se verificam noutros países, motivados por fatores específicos
+a estes produtos que se assumem transitórios (por exemplo, surtos de gripe das aves e más colheitas).
+A taxa de variação homóloga do índice harmonizado de preços no consumidor (IHPC) excluindo bens
+energéticos, alimentares e produtos voláteis ligados ao turismo — indicador que aproxima melhor
+a tendência subjacente dos preços — tem uma trajetória estável, situando-se em 2,3% no segundo
+trimestre e 2,4% na média de julho e agosto. Em média anual, a inflação deverá diminuir de 2,7% em
+2024 para 2,2% em 2025 e 1,9% em 2026 e situar-se em 2,0% em 2027. Face ao Boletim de junho,
+a inflação foi revista em alta em 2025 (0,3 pp), refletindo a revisão em alta dos preços dos bens energéticos
+e alimentares. A projeção para a inflação excluindo estes bens foi revista em baixa, traduzindo uma
+variação mais baixa do que o esperado dos preços dos bens industriais não energéticos (-0,4 pp) e um
+crescimento ligeiramente maior dos preços dos serviços (0,1 pp). Esta reavaliação das projeções reflete
+revisões com sinais contrários nos preços de importação (em baixa) e nos custos laborais (em alta). Tendo
+por base as projeções do Eurosistema, o diferencial de inflação face à área do euro permanecerá próximo
+de zero.
+A apreciação do euro e a redução dos preços internacionais das matérias-primas geram
+pressões desinflacionistas. Os preços de importação de bens excluindo energéticos diminuem 1,2%
+em 2025 (aumento de 0,7% no Boletim anterior). A redução do preço do petróleo em dólares face
+a 2024 e o abrandamento da atividade global também contribuem para moderar a inflação de origem
+externa (Caixa 1 — Enquadramento e políticas).
+Projeta-se uma diminuição gradual das pressões inflacionistas internas com origem nos custos
+laborais. Os salários cresceram 5,6% na primeira metade de 2025, após os aumentos de 8,4% em média
+em 2023–24, negociados num contexto de inflação elevada. Contudo, esta desaceleração está a ser mais
+lenta do que o projetado no Boletim anterior. De acordo com os registos da Segurança Social, o intervalo
+das variações salariais mais comuns inclui aumentos até 10% na primeira metade de 2025 (Gráfico I.1.7).
+Metade dos trabalhadores teve um crescimento salarial de pelo menos 6%. A projeção aponta para
+variações gradualmente mais contidas, compatíveis com uma inflação próxima do objetivo de 2% do
+Banco Central Europeu (BCE), com uma evolução dos salários reais alinhada com a do produto por
+trabalhador e com as atualizações anunciadas para o salário mínimo nacional (5,7% em 2026 e 5,4% em
+2027, após 6,1% em 2025). Assim, as remunerações médias deverão crescer 5,1% em 2025, 4,1% em 7
+2
+2026 e 3,8% em 2027. Os aumentos salariais no setor público serão superiores, refletindo o efeito do 5 –
+2
+acordo plurianual de valorização dos trabalhadores da administração pública, assinado em novembro 0 2
+:a
+de 2024, bem como o impacto das revisões de carreiras e das regras de progressão na função s
+e
+u
+pública. g
+u
+tr
+o
+As expetativas de inflação permanecem ancoradas, embora num contexto de maior incerteza p
+a
+e volatilidade. Apesar de a variação média dos preços ter regressado a valores em torno de 2%, tal como
+im
+o
+n
+observado em 2017–18, atualmente existe uma maior dispersão das variações dos índices elementares o
+c
+e
+do cabaz de produtos subjacente ao cálculo do IHPC (Gráfico I.1.8). O BCE reconheceu, aquando da a
+a
+reavaliação da sua estratégia, que os desenvolvimentos futuros da inflação poderão ser mais voláteis r a
+p
+e incertos do que no passado, o que deve ser tido em conta na condução da política monetária (Caixa 6 s
+e
+õ
+— A reavaliação da estratégia de política monetária do BCE de 2025. ç e
+jo
+r
+P
+13
+
+[Página 16]
+A economia portuguesa está em melhores condições do que no passado para absorver choques,
+mas existem riscos importantes no horizonte. Um agravamento das tensões comerciais e geopolíticas
+implicaria perturbações nas cadeias de abastecimento globais, com efeitos negativos no comércio
+mundial e na procura externa dirigida a Portugal. As tensões comerciais e geopolíticas podem levar um
+aumento dos preços das matérias-primas, em particular das energéticas, cujo efeito inflacionista seria
+reforçado em caso de aumentos de direitos aduaneiros mais generalizados, incluindo por parte da UE
+(Gráfico I.1.9, Risco 1). Se estas tensões se intensificarem, os efeitos sobre a confiança e os mercados
+financeiros e cambiais serão mais adversos, gerando uma recessão global, com impacto negativo sobre
+a inflação (Risco 2).
+Gráfico I.1.7 • Taxa de variação homóloga Gráfico I.1.8 • Taxa de variação homóloga
+trimestral dos salários | Percentagem trimestral do IHPC | Percentagem
+Fontes: Banco de Portugal, INE e Segurança Social. | Notas: (p) — projetado. Fontes: Banco de Portugal e INE. | Notas: (p) — projetado. A linha amarela
+A linha amarela a tracejado apresenta as projeções do Banco de Portugal. a tracejado apresenta as projeções do Banco de Portugal. O sombreado
+Os salários das contas nacionais referem-se às remunerações por empregado, cinzento representa o intervalo entre os percentis 25 e 75, ou seja, representa
+em dinheiro ou em espécie, incluindo as contribuições dos empregadores. o intervalo das variações dos preços do cabaz de bens e serviços que exclui
+Os salários da Segurança Social referem-se ao total das remunerações 25% das variações mais baixas e 25% das variações mais altas. A linha preta
+declaradas por trabalhador por conta de outrem. O sombreado cinzento a tracejado assinala o objetivo de estabilidade de preços (2%).
+representa o intervalo entre os percentis 25 e 75, ou seja, representa o intervalo
+das variações dos salários declarados na Segurança Social que exclui 25% das
+variações mais baixas e 25% das variações mais altas.
+Gráfico I.1.9 • Ilustração do impacto dos riscos na atividade e na inflação
+5
+2
+0
+2
+o
+r
+b
+u
+tu
+O
+o
+•
+c
+im
+ó
+n
+o
+c
+E
+m
+ite
+lo
+B
+la
+•
+g
+u
+tr
+o
+P
+e
+d
+o Fonte: Banco de Portugal. | Notas: O gráfico ilustra de forma esquemática os principais riscos identificados em torno do cenário base (assinalado na origem
+c n dos eixos). Cada risco é representado por um triângulo, que indica a posição relativa, em termos de impacto na atividade e inflação, face ao cenário base.
+a
+B
+14
+
+[Página 17]
+A política orçamental nacional e nos países europeus pode gerar maior estímulo à atividade, com
+efeitos inflacionistas, por exemplo através do aumento da despesa em defesa e infraestruturas
+(Risco 3). Um cenário de manutenção do bom desempenho das empresas que permitisse ganhos
+de quota das exportações no horizonte de projeção, em linha com os observados na última década,
+também teria um efeito positivo sobre a atividade (Risco 4). Globalmente, considera-se que os riscos
+são predominantemente negativos para o crescimento da atividade e equilibrados para a inflação.
+A existência de desafios ao crescimento reforça a importância das políticas e reformas estruturais.
+Para além de uma conjuntura volátil, os desafios demográficos, as transições climática e energética,
+bem como o desenvolvimento e utilização das novas tecnologias digitais são desafios incontornáveis
+e globais. Para aumentar o bem-estar material, ambiental e social da população é crucial que se estimule
+o investimento em capital físico e humano, promovendo a sua qualidade e a inovação. A previsibilidade
+das políticas e a continuação da redução sustentada dos rácios de endividamento das empresas, famílias
+e administrações públicas são também condições necessárias para a estabilidade macroeconómica
+e para o crescimento sustentável.
+7
+2
+–
+5
+2
+0
+2
+:a
+s
+e
+u
+g
+u
+tr
+o
+p
+a
+im
+o
+n
+o
+c
+e
+a
+a
+r
+a
+p
+s
+e
+õ
+ç
+e
+jo
+r
+P
+15
+
+[Página 18]
+Caixa 1 • Enquadramento e políticas
+A economia mundial deverá manter um crescimento resiliente em 2025–27, num contexto
+marcado pelo aumento de direitos aduaneiros e por uma redução da incerteza na sequência
+dos recentes acordos comerciais entre os EUA e os seus principais parceiros. O crescimento
+mundial, que havia estabilizado em 3,2% em 2024, reduz-se para 3,1% em 2025 e 2,8% em 2026,
+recuperando para 3,0% em 2027 (Quadro C1.1). A revisão em alta face às hipóteses do Boletim de
+junho, de 0,2 pp em 2025 e 0,1 pp em 2026, reflete, para além da surpresa positiva no crescimento das
+principais economias no primeiro semestre, a política orçamental expansionista nos EUA e a expetativa
+de redução gradual da incerteza (Gráfico C1.1). Os indicadores mostram que já se verificou uma
+correção da incerteza face ao pico recente, mas que esta permanece elevada em termos históricos,
+esperando-se uma diminuição ao longo do horizonte. Estes fatores deverão compensar o impacto
+negativo da subida dos direitos aduaneiros. As hipóteses do exercício de projeção têm em conta
+o recente acordo entre os EUA e a UE, assumindo que a taxa aduaneira a aplicar corresponde a 15%
+ou à taxa da nação mais favorecida, se esta for mais elevada, para os bens que não são afetados por
+direitos aduaneiros setoriais.4 Tal compara com uma hipótese de manutenção de uma taxa universal
+de 10% nas projeções de junho.
+Após o dinamismo do início do ano, o PIB na área do euro terá crescido apenas marginalmente
+no segundo e terceiro trimestres, projetando-se um dinamismo moderado nos próximos anos.
+A evolução em 2026 e 2027 beneficia da redução gradual da incerteza, das condições financeiras mais
+favoráveis e do estímulo orçamental associado às despesas com defesa e infraestruturas. O PIB na
+área do euro aumentou 0,6% em cadeia no primeiro trimestre, impulsionado pela antecipação de
+exportações associada à incerteza sobre os direitos aduaneiros, e abrandou para 0,1% no segundo,
+com a dissipação deste efeito e o impacto do aumento desses direitos. A projeção do BCE aponta para
+uma estagnação no terceiro trimestre e uma recuperação para 0,2% no último trimestre. Nos próximos
+anos, o crescimento médio do PIB em cadeia será de 0,3%. Em termos anuais, o crescimento do PIB
+deverá situar-se em 1,2% em 2025, 1,0% em 2026 e 1,3% em 2027, correspondendo a revisões de
+0,3 pp em 2025 e de -0,1 pp em 2026 face às projeções de junho (Quadro C1.1).
+5
+2
+0
+2
+o
+r
+b
+u
+tu
+O
+o
+•
+c
+im
+ó
+n
+o
+c
+E
+m
+ite
+lo
+B
+la
+•
+g u 4 Os direitos aduaneiros setoriais incluem a duplicação das tarifas sobre o aço e o alumínio (para 50%) e uma nova tarifa de 50% sobre o conteúdo
+tr
+o de alumínio e aço de 407 produtos, bem como sobre o cobre de forma mais ampla. Os automóveis e componentes estão sujeitos a direitos de 15%
+P
+e (25% nas projeções de junho), enquanto às aeronaves e suas peças só se aplica agora a taxa da nação mais favorecida. Para os produtos atualmente
+d
+o sob investigação pela administração norte-americana, nomeadamente produtos farmacêuticos, semicondutores e madeira, assume-se que os direitos
+c
+n aduaneiros aplicáveis são os que vigoravam antes da tomada de posse da atual administração, o que corresponde a uma taxa próxima de zero.
+a
+B
+16
+
+[Página 19]
+O comércio mundial abranda em 2025–26 sob o impacto do aumento das tarifas, mas os efeitos
+sobre a procura externa dirigida à economia portuguesa são mais contidos. O crescimento do
+comércio mundial deverá reduzir-se de 3,1% em 2024 para 2,8% em 2025 e 1,6% em 2026,
+recuperando para 3,0% em 2027. Estes valores representam uma revisão em baixa, face às projeções
+de junho, de 0,2 pp em 2026 e de 0,1 pp em 2027 (Quadro C1.1). A procura externa dirigida a Portugal,
+cujas exportações se destinam maioritariamente à UE, apresenta menor vulnerabilidade a estes
+choques. Espera-se que a sua taxa de crescimento aumente para 3,3% em 2025 — refletindo o forte
+aumento no primeiro trimestre das importações dos parceiros comerciais — e diminua para 1,9% em
+2026, com posterior recuperação em 2027 (2,8%). Estes valores correspondem a uma revisão em alta
+em 2025 (0,6 pp) e em baixa em 2026 (-0,2 pp).
+As hipóteses do exercício incorporam uma evolução contidas das pressões inflacionistas
+externas, incluindo uma redução dos preços internacionais das matérias-primas. O preço do
+petróleo em euros reduz-se em 2025 e 2026 (-17,6% e -9,5%, respetivamente), mas de forma menos
+acentuada do que a considerada nas projeções de junho (Gráfico C1.2 — Painel A). Em contraste, os
+preços das matérias-primas não energéticas foram revistos em baixa, devendo apresentar uma
+variação próxima de zero em 2025 e de -4,2% em 2026 (Gráfico C1.2 — Painel B). A apreciação do euro
+contribui para atenuar as pressões inflacionistas de origem externa, projetando-se também uma
+moderação dos custos laborais na área do euro ao longo do horizonte. Deste modo, a inflação na área
+do euro deverá reduzir-se para 2,1% em 2025 e 1,7% em 2026, convergindo para 1,9% em 2027. Estes
+valores correspondem a uma revisão em alta de 0,1 pp em 2025 e 2026 face às projeções de junho —
+refletindo a alteração da hipótese para o preço do petróleo — e em baixa em 2027 (-0,1 pp). A medida
+de inflação excluindo bens alimentares e energéticos deverá reduzir-se de 2,8% em 2024 para 2,4%
+em 2025, 1,9% em 2026 e 1,8% em 2027.
+Gráfico C1.1 • Indicadores de incerteza
+Painel A — Índice global de incerteza de política Painel B — Índice de incerteza de política
+económica | Média 1997–2015 = 100 comercial | Média 1985–2019 = 100
+7
+Fontes: Painel A — Davis, Steven J., 2016. “An Index of Global Economic Policy Uncertainty,” Macroeconomic Review, October. Painel B — Caldara, 2 –
+Iacoviello, Molligo, Prestipino e Raffo (2019). | Notas: Painel A — O índice é obtido através da média ponderada pelo PIB (ppc) dos índices nacionais 5 2
+0
+de 18 países: Austrália, Brasil, Canadá, Chile, China, França, Alemanha, Grécia, Índia, Irlanda, Itália, Japão, Rússia, Coreia do Sul, Espanha, Suécia, Reino 2
+Unido e EUA. Painel B — O índice de incerteza da política comercial mede a frequência mensal de notícias relacionadas com a incerteza da política :a
+s
+comercial, obtido a partir da pesquisa automática de texto dos arquivos eletrónicos de sete jornais (Boston Globe, Chicago Tribune, Guardian, Los Angeles e u
+Times, New York Times, Wall Street Journal e Washington Post). O índice é calculado de forma que 100 indique que 1% dos artigos contêm referências à g u
+incerteza das políticas comerciais.
+tr
+o
+p
+a
+im
+o
+As hipóteses para as taxas de juro de curto prazo não se alteraram face às projeções de n
+o
+c
+junho, continuando a apontar para uma redução em 2025 e 2026, mas a apreciação do euro e
+a
+acentua-se. De acordo com as expetativas implícitas nos contratos de futuros, a taxa EURIBOR a
+r
+a
+a 3 meses deverá diminuir de 3,6% em 2024 para 2,2% em 2025 e 1,9% em 2026, subindo para p
+s
+2,1% em 2027 (Quadro C1.1). Prevê-se que a taxa de juro implícita da dívida pública portuguesa e õ
+ç
+aumente gradualmente, de 2,2% em 2024 para 2,6% em 2027, refletindo a evolução esperada das e jo
+r
+P
+17
+
+[Página 20]
+taxas de juro de longo prazo, de acordo com as hipóteses consideradas no exercício. Desde as
+projeções de junho, a taxa de câmbio voltou a apreciar, implicando em 2025 e 2026 um euro mais
+forte face ao dólar e em termos nominais efetivos (Gráfico C1.2 — Painel C e Quadro C1.1).
+Gráfico C1.2 • Hipóteses para os preços internacionais e a taxa de câmbio
+Painel A — Petróleo | EUR Painel B — Matérias-primas Painel C — Índice de taxa
+não energéticas em euros | de câmbio efetiva do euro
+Índice 2005=100 | 1999 T1=100
+Fonte: Eurosistema. | Nota: As hipóteses para o preço do petróleo e para o preço das matérias-primas não energéticas assentam nos mercados de futuros
+e para as taxas de câmbio pressupõe a manutenção ao longo do horizonte de projeção dos níveis médios observados nas duas semanas anteriores à data de
+fecho da informação. As hipóteses apresentadas coincidem com as dos exercícios de projeção do Eurosistema de junho de 2025 e do BCE de setembro de
+2025.
+Quadro C1.1 • Hipóteses do exercício de projeção
+BE outubro 2025 Revisões face ao BE
+junho 2025
+2024 2025 2026 2027 2025 2026 2027
+Enquadramento internacional
+PIB mundial tva 3,2 3,1 2,8 3,0 0,2 0,1 0,0
+PIB da área do euro tva 0,8 1,2 1,0 1,3 0,3 -0,1 0,0
+Comércio mundial tva 3,1 2,8 1,6 3,0 0,0 -0,2 -0,1
+Procura externa tva 1,6 3,3 1,9 2,8 0,6 -0,2 0,0
+Preços internacionais
+Preço do petróleo vma 75,1 61,9 56,0 56,0 2,6 0,3 -1,9
+5 Preço do gás (MWh) vma 34,4 37,3 32,9 29,7 -1,8 -1,2 1,4
+2
+0 Matérias-primas não energéticas tva 9,1 0,8 -4,2 0,9 -3,7 -2,0 0,3
+2
+o Preço de importação dos concorrentes tva 0,4 0,0 1,0 2,1 -0,6 -0,7 -0,1
+r
+b
+u Condições monetárias e financeiras
+tu
+O Taxa de juro de curto prazo (EURIBOR a 3 meses) % 3,6 2,2 1,9 2,1 0,0 0,0 -0,1
+o
+•
+T
+Ín
+a
+d
+x
+i
+a
+c e
+d e
+d e
+ju
+t
+r
+a
+o
+x a
+im
+d
+p
+e
+l í
+c
+c
+â
+it
+m
+a d
+b
+a
+io
+d
+e
+ív
+fe
+id
+ti
+a
+v a
+p ública
+t
+%
+va
+2
+1
+,
+,
+2
+9
+2
+2
+,
+,
+3
+8
+2
+1
+,
+,
+4
+8
+2
+0
+,
+,
+6
+0
+0
+1
+,
+,
+0
+2
+0
+1
+,
+,
+0
+0
+0
+0
+,
+,
+0
+0
+c
+im Taxa de câmbio euro-dólar vma 1,08 1,13 1,16 1,16 1,9 3,3 3,3
+ó
+n o Fontes: Banco de Portugal e Eurosistema (cálculos do Banco de Portugal). | Notas: tva — taxa de variação anual, % — em percentagem, vma — valor
+c E médio anual, MWh — megawatt-hora. As hipóteses técnicas e de enquadramento externo e as projeções para o PIB e inflação da área do euro coincidem
+m com as do exercício de projeção do BCE divulgado a 11 de setembro (“Projeções macroeconómicas para a área do euro elaboradas por especialistas do
+ite
+BCE”, setembro 2025), incluindo a informação disponível até 15 de agosto. Os preços internacionais são medidos em euros. A hipótese técnica para o
+l B o preço do petróleo, gás e matérias-primas não energéticas assenta nos mercados de futuros. O preço de importação dos concorrentes corresponde a uma
+la
+• m
+m
+é
+ai
+d
+s
+i a
+in
+p
+fo
+o
+r
+n
+m
+d
+a
+e
+ç
+r
+ã
+a
+o
+d
+,
+a
+v
+d
+e
+o
+r
+s
+“ T
+d
+r
+e
+a
+f
+d
+la
+e
+t o
+c
+r
+o
+e
+n
+s
+s
+d
+is
+e
+te
+e
+n
+x
+c
+p
+y
+o
+in
+rt a
+th
+çã
+e
+o
+c
+d
+on
+o
+t
+s
+e
+p
+x
+a
+t
+í
+o
+s
+f
+e
+t
+s
+h
+d
+e
+o
+E
+s
+u
+q
+r
+u
+o
+a
+sy
+is
+s t
+P
+e
+o
+m
+rt u
+p
+g
+ro
+al
+j e
+im
+cti
+p
+o
+o
+n
+r t
+e
+a
+x
+,
+e
+p
+rc
+o
+i
+n
+se
+d
+s
+e
+:
+r
+a
+a
+n
+d a
+o
+p
+ve
+e
+r
+l
+v
+o
+i e
+p
+w
+es
+”
+o
+, E
+r
+C
+e
+B
+la
+O
+ti
+c
+v
+c
+o
+a
+n
+si
+a
+o
+s
+n a
+im
+l P
+p
+a
+o
+p
+r
+e
+ta
+r
+ç
+1
+õ
+0
+e
+8
+s
+, m
+po
+a
+r
+r
+t
+ç
+u
+o
+g u
+d
+e
+e
+s
+2
+a
+0
+s
+1
+(p
+0)
+a
+.
+r
+A
+a
+g u evolução da taxa EURIBOR a 3 meses tem por base as expetativas implícitas nos contratos de futuros. A taxa de juro implícita da dívida pública é calculada
+tr como o rácio entre a despesa em juros do ano e a média simples do stock da dívida no final do ano e no final do ano anterior. Um aumento da taxa de
+o
+P câmbio corresponde a uma apreciação. O índice de taxa de câmbio efetiva do euro é calculado face a um grupo de 41 países parceiros. A revisão da taxa
+e
+d de câmbio euro-dólar é apresentada em percentagem. A hipótese técnica para as taxas de câmbio bilaterais pressupõe a manutenção ao longo do
+o horizonte de projeção dos níveis médios observados nas duas semanas anteriores à data de fecho da informação.
+c
+n
+a
+B
+18
+
+[Página 21]
+Caixa 2 • Desempenho recente das exportações portuguesas de bens para os EUA
+A política económica da nova administração norte americana desencadeou um aumento acentuado
+da incerteza, a depreciação do dólar e a subida dos direitos aduaneiros cobrados pelos EUA
+às exportações dos seus parceiros comerciais. Esta caixa apresenta uma avaliação preliminar dos
+efeitos destas alterações sobre as exportações portuguesas de bens para os EUA, baseada na
+comparação do seu comportamento no período pré e pós-eleição. A avaliação será inicialmente
+efetuada com dados agregados do comércio internacional e seguidamente com dados das empresas.
+A análise com dados agregados do comércio internacional sugere uma redução do crescimento
+médio do valor e dos preços das exportações portuguesas para os EUA. Nesta análise, considerou-
+se o total de bens excluindo combustíveis e produtos farmacêuticos.5 A média das taxas de variação
+homóloga das exportações nominais para os EUA entre novembro de 2024 (mês da eleição) e junho
+de 2025 (última observação disponível) foi inferior em 4 pp à registada nos meses que antecederam
+a eleição (Gráfico C2.1). Esta diminuição contrasta com a estabilidade observada nas taxas de
+variação das exportações nominais portuguesas para outros destinos. As variações homólogas do
+índice de valor unitário (uma medida aproximada das variações de preços) dos bens exportados
+para os EUA diminuíram 3 pp face aos meses que antecederam a eleição, o que contrasta com
+variações modestas das taxas de variação para os outros destinos (-0,9 pp no caso dos países fora
+da UE e 0,5 pp no total dos países). O valor nominal das exportações e, consequentemente, o índice
+de valor unitário são medidos em euros e numa base franco a bordo (FOB).6 Este índice não inclui
+assim os direitos aduaneiros aplicados no país de destino, entre outros elementos.
+Gráfico C2.1 • Exportações de bens para os EUA e outros destinos — Valor nominal em euros
+e índice de valor unitário | Média das taxas de variação homóloga mensais em cada período, em
+percentagem
+7
+2
+–
+5
+2
+Fonte: INE (cálculos do Banco de Portugal). | Notas: Considerou-se o total de exportações de bens excluindo combustíveis e produtos farmacêuticos. Períodos 0 2
+pré- e pós-eleição: mar. 24-out. 24/nov. 24-jun. 25. A eleição decorreu no dia 5 de novembro de 2024. A seta assinala o sentido da variação entre o período :a
+s
+pré- e pós-eleição, e os valores por cima das setas dizem respeito à magnitude dessa variação em pp. e
+u
+g
+u
+tr
+o
+p
+a
+im
+5 A elevada volatilidade das exportações de combustíveis e produtos farmacêuticos justifica a sua exclusão, não obstante o seu peso elevado no total o
+n
+das exportações de Portugal para os EUA (19,4% e 22,2% em 2024, respetivamente). Adicionalmente, no caso dos produtos farmacêuticos, os fluxos o
+c
+e
+comerciais com os EUA no período analisado estão muito afetados por transações sem transferência de propriedade (por exemplo, operações de a
+a
+processamento), sem impacto no comércio de bens considerado no apuramento das contas nacionais. Refira-se ainda que estes bens não se encontravam r
+a
+p
+abrangidos pelo aumento dos direitos aduaneiros por parte dos EUA no período da análise.
+s
+e
+6 O valor franco a bordo do bem corresponde ao seu valor quando é colocado no modo de transporte no local de embarque para exportação, livre õ
+ç
+e
+de quaisquer encargos suplementares. jo
+r
+P
+19
+
+[Página 22]
+A análise baseada em dados agregados não permite destrinçar entre o impacto da mudança de
+administração americana e as tendências em curso específicas por tipo de bem, empresa ou mercado
+geográfico, sendo também largamente influenciada pelo desempenho das maiores empresas e dos
+principais produtos. Como tal, recorreu-se a informação das exportações portuguesas ao nível
+da empresa-produto-país-mês, em que a classificação de produtos segue a Nomenclatura Combinada
+a 8 dígitos (aproximadamente 9000 produtos diferentes na base de dados).7 Os preços de exportação
+são aproximados pelo rácio entre o valor e a quantidade exportada por cada empresa-produto-país
+em cada mês. Tal como nos dados agregados, o valor e os preços das exportações são medidos em
+euros e numa base FOB.
+O impacto das alterações de enquadramento associadas à nova administração dos EUA é identificado
+utilizando um modelo empírico de diferenças-em-diferenças. Esta metodologia compara a diferença no
+crescimento do valor exportado e do preço de exportação para os EUA (país tratado) face a outros destinos
+(grupo de controlo) no período pós-eleição (nov. 24-jun. 25) com a mesma diferença observada no período
+pré-eleição (mar. 24-out. 24). Sob a hipótese de que, na ausência de mudança na administração americana,
+o crescimento do valor exportado e do preço de exportação para os EUA e para os outros destinos teriam
+seguido trajetórias paralelas, esta metodologia permite estimar o efeito global da mudança na administração
+americana, sem depender de estimativas para as suas várias vertentes — como o impacto do aumento
+dos direitos aduaneiros e da incerteza — que são difíceis de medir isoladamente. Reconhece-se, no
+entanto, que a mudança na administração americana também poderá ter afetado as trocas comerciais
+com os países do grupo de controlo, o que constitui uma limitação da análise.
+Gráfico C2.2 • Impacto das alterações de enquadramento associadas à nova administração
+americana no crescimento do valor e preço das exportações portuguesas para os EUA | Pontos
+logarítmicos
+Painel A — Total de empresas Painel B — Por dimensão das empresas
+5
+2
+0
+2
+o
+r
+b
+u
+tu
+O Fonte: INE (cálculos do Banco de Portugal). | Notas: A figura mostra estimativas obtidas a partir de um modelo de diferenças-em-diferenças. A variação no
+o
+• logaritmo do valor exportado (em euros) e no logaritmo do valor unitário para a empresa f - produto p - destino c em relação ao mesmo mês do ano anterior
+c é regredida na variável “Pós*EUA” (igual a 1 para exportações para os EUA a partir de novembro de 2024 e 0 noutros casos) e num conjunto de efeitos fixos
+im
+ó empresa-produto-país e de variáveis binárias para cada mês. A figura mostra as estimativas do coeficiente da variável “Pós*EUA” e os respetivos intervalos de
+n o confiança a 95% (erros-padrão agrupados por país). O segundo painel compara os resultados obtidos para as empresas de maior e menor dimensão (número
+c E de empregados superior ou inferior/igual à mediana).
+m
+ite
+lo
+B
+la
+•
+g
+u
+tr
+o
+P
+e 7 Esta análise ao nível da empresa-produto-país-mês é robusta aos problemas de elevada volatilidade que surgem quando se olha para dados agregados
+d
+o incluindo combustíveis e produtos farmacêuticos. Portanto, estes produtos não são excluídos na análise dos dados ao nível da empresa. Contudo, não
+c
+n existiriam diferenças qualitativas nos resultados, caso fossem excluídos.
+a
+B
+20
+
+[Página 23]
+As estimativas mostram um impacto negativo e estatisticamente significativo nas taxas de variação do
+valor exportado e do preço de exportação para os EUA (Gráfico C2.2). Os resultados apontam para
+uma diminuição de 7 pp no crescimento do valor exportado e de 2 pp no crescimento do preço de
+exportação para os EUA em comparação com outros destinos. A diminuição da taxa de crescimento
+do valor das exportações para os EUA é particularmente acentuada no caso das empresas de menor
+dimensão, atingindo 9 pp.
+O impacto mais pronunciado no valor do que no preço de exportação sugere uma contração relativa
+dos volumes exportados. Embora o preço de exportação em euros para os EUA tenha registado um
+crescimento inferior após a eleição, o preço em dólares enfrentado pelos importadores americanos
+resulta da conversão cambial para dólares, assim como da inclusão dos direitos aduaneiros, entre
+outros elementos. O aumento desses direitos e a depreciação do dólar (de 8% entre nov. 24 e jun. 25)
+terão contribuído para aumentar o preço em dólares para os importadores americanos e, por essa via,
+para a redução do crescimento dos volumes exportados para os EUA.
+Os resultados sugerem que as empresas exportadoras portuguesas reduziram as suas margens no
+mercado dos EUA relativamente a outros mercados. Em teoria, as variações de preços podem ser
+decompostas em variações nas margens e em alterações nos custos marginais. A diminuição da taxa
+de variação dos preços das exportações para os EUA poderia assim estar associada a um menor
+crescimento do custo marginal dos bens exportados para esse destino. No entanto, é razoável
+presumir que os custos marginais de cada produto da mesma empresa evoluam de forma semelhante
+para os diferentes destinos de exportação.
+O ajustamento das margens poderá refletir a avaliação das empresas sobre o seu posicionamento face
+a outros concorrentes em termos de competitividade-preço, mas também, em parte, a rigidez dos preços
+de exportação na moeda de faturação. Em Portugal, cerca de 40% das exportações de bens para os EUA
+são faturadas em dólares.8 Assim, a desaceleração relativa dos preços de exportação em euros pode
+refletir não apenas ajustamentos nas margens desejadas pelas empresas, mas também o efeito da rigidez
+dos preços na moeda de faturação (para as empresas que faturam em dólares). Esta rigidez implica que,
+uma vez fixado o preço em dólares, este se mantenha estável no curto prazo, mesmo perante variações
+cambiais. Assim, quando o dólar deprecia face ao euro, o preço de exportação em dólares permanece
+inalterado, mas o preço convertido em euros diminui.
+7
+2
+–
+5
+2
+0
+2
+:a
+s
+e
+u
+g
+u
+tr
+o
+p
+a
+im
+o
+n
+o
+c
+e
+a
+a
+r
+a
+p
+s
+e
+õ
+ç
+e
+8 Amador, J., Garcia, J. Mehl, A. e Schmitz, M. (2024), “Dominant currency pricing in international trade of services”, ECB Working Paper Series, No 2932. jo
+r
+P
+21
+
+[Página 24]
+Caixa 3 • Empresas com elevada exposição ao mercado dos EUA: caraterização
+e exposição das instituições de crédito residentes
+Os EUA e a União Europeia chegaram a um acordo a 21 de agosto sobre a nova pauta aduaneira a aplicar
+a um conjunto alargado de produtos. Este acordo põe termo a um período de vários meses de elevada
+incerteza, mas representa um aumento relevante nos direitos aduaneiros aplicados a vários bens. Nesta
+caixa, caraterizam-se as empresas mais expostas ao mercado dos EUA e avalia-se a respetiva exposição
+das instituições de crédito residentes.
+Considerou-se que uma empresa tem uma elevada exposição ao mercado dos EUA quando o peso
+das suas exportações para este mercado representa mais de 10% das suas vendas totais. A análise
+centra-se nas empresas da indústria transformadora e utiliza informação das exportações das
+empresas portuguesas por país de destino em 2024, combinada com os Quadros de Pessoal de 2023,
+os dados provisórios da Informação Empresarial Simplificada (IES) de 2024 e os registos da Central de
+Responsabilidades de Crédito (CRC) de junho de 2025.9
+O quadro C3.1 sintetiza as principais caraterísticas das empresas identificadas, em comparação
+com o agregado das empresas da indústria transformadora. Em 2024, existiam 448 empresas da
+indústria transformadora com elevada exposição aos EUA (correspondendo a 23% do universo de
+empresas deste setor que exportam para os EUA). Estas empresas exportaram 2200 milhões de
+euros para este mercado (2,8% do total de exportações das empresas portuguesas) e registaram
+vendas totais de 7800 milhões. As vendas destas empresas representam 1,5% da faturação total das
+empresas portuguesas e 6,4% das vendas da indústria transformadora. As empresas identificadas
+empregam 45 mil trabalhadores.
+As empresas com maior exposição aos EUA têm uma dimensão superior às restantes empresas da
+indústria transformadora. Em 2024, estas empresas tiveram, em média, vendas de 17,5 milhões de
+euros, o que contrasta com 3 milhões de euros para o total da indústria transformadora. A maior
+dimensão observa-se também no número médio de trabalhadores, que ascende a 102 nas empresas
+identificadas (20 no total das empresas da indústria transformadora). O mercado externo tem uma
+importância superior nas empresas identificadas. As exportações representam 86% das vendas destas
+empresas, sendo que as exportações para os EUA representam 28% das vendas. Para comparação,
+em 2023, as exportações representavam perto de 45% das vendas das empresas da indústria
+transformadora e as exportações para fora da União Europeia tinham um peso inferior a 11%. Por fim,
+o sistema interno de avaliação de crédito do Banco de Portugal indica que, no final de 2023, as empresas
+5 mais expostas aos EUA tinham uma probabilidade de incumprimento a um ano de 1,2%, inferior à do
+2
+0 2 agregado de empresas da indústria transformadora, que ascendia a 4%.10
+o
+r
+b
+u
+tu
+O
+o
+•
+c
+im
+ó
+n
+o
+c
+E
+m
+ite
+lo
+B
+la
+•
+g 9 A informação disponível relativa ao comércio internacional e Quadros de Pessoal foi cruzada com a IES usando a distância de Gower, calculada com
+u
+tr base em diversas variáveis das empresas.
+o
+P
+e 10 Este sistema utiliza um conjunto de variáveis, maioritariamente baseadas no balanço e demonstração de resultados das empresas, e não tem em
+d
+o conta a evolução do enquadramento macroeconómico em 2024 e 2025. Para uma descrição metodológica, ver Antunes, Gonçalves e Prego (2016)
+c
+n “Revisitando probabilidades de incumprimento de empresas”, Revista de Estudos Económicos do Banco de Portugal, vol. II, n.º 2, abril.
+a
+B
+22
+
+[Página 25]
+Quadro C3.1 • Caraterização das empresas com exposição elevada ao mercado dos EUA
+Empresas Empresas Empresas
+da indústria da indústria da indústria
+transformadora transformadora transformadora
+que exportam com elevada
+para os EUA exposição
+aos EUA
+Número 40 947 1967 448
+Em percentagem do total de empresas da indústria transformadora - 4,8% 1,1%
+Total de exportações (em milhões de euros) 47 035 33 853 6701
+Em percentagem das exportações totais 59,6% 42,9% 8,5%
+Das quais exportações para os EUA (em milhões de euros) - 3766 2198
+Em percentagem das exportações totais - 4,8% 2,8%
+Vendas (em milhões de euros) 122 934 59 554 7838
+Em percentagem do total de vendas das empresas em Portugal 23,1% 11,2% 1,5%
+Média por empresa (em milhões de euros) 3,0 30,3 17,5
+Número trabalhadores 679 497 212 209 45 491
+Em percentagem do total de trabalhadores das empresas em Portugal 19,0% 5,9% 1,3%
+Média por empresa 20 108 102
+Probabilidade de incumprimento a um ano (mediana) 4,0% 1,2% 1,2%
+Fontes: Banco de Portugal e INE. | Notas: Consideraram-se dados provisórios relativos à IES de 2024.
+O quadro C3.2 mostra como se distribuem as empresas identificadas pelos subsetores da indústria
+transformadora, em termos de número de empresas, das vendas e do emprego. Apresentam-se os
+cinco subsetores mais relevantes em cada uma das dimensões analisadas.
+Os subsetores com maior número de empresas vulneráveis são a fabricação de outros produtos
+minerais não metálicos (que inclui vidro, produtos cerâmicos e cimento), a indústria do vestuário
+e a fabricação de têxteis. Estes três subsetores representam 39% das empresas identificadas como mais
+expostas.
+Os setores com maior contributo para o total de vendas das empresas identificadas são a fabricação
+de artigos de borracha e matérias plásticas, a indústria da madeira e da cortiça e a fabricação de têxteis.
+Estes três subsetores representam 37% das vendas das empresas com exposição elevada ao mercado
+norte-americano.
+Quadro C3.2 • Distribuição das empresas com exposição elevada ao mercado dos EUA
+por subsetores de atividade | Peso no total em percentagem
+Número de Vendas Emprego 7
+2
+empresas –
+5
+2
+Fabricação de têxteis 12,1 9,7 14,0 0
+2
+Indústria do vestuário 12,7 6,8 13,3 :a
+s
+e
+Indústria do couro e dos produtos do couro 8,7 2,7 5,0 u
+g
+u
+Indústrias da madeira e da cortiça e suas obras, excepto mobiliário 6,0 9,7 6,9 tr
+o
+Fabr. de produtos químicos e de fibras sintéticas ou artificiais, excepto prod. farmacêuticos 1,6 8,3 2,5 p
+a
+Fabricação de produtos farmacêuticos de base e de preparações farmacêuticas 0,7 8,9 5,2 im
+o
+Fabricação de artigos de borracha e matérias plásticas 1,8 17,9 6,4 n
+o
+c
+Fabricação de outros produtos minerais não metálicos 14,1 4,9 11,2 e
+a
+Fabricação de produtos metálicos, exceto máquinas e equipamentos 8,9 6,4 6,0 a
+r
+a
+Fabricação de mobiliário e de colchões 5,1 4,0 6,4 p
+s
+e
+Outros subsetores 28,3 20,7 23,1 õ
+ç
+e
+Fontes: Banco de Portugal e INE. | Notas: Consideraram-se dados provisórios relativos à IES de 2024. jo
+r
+P
+23
+
+[Página 26]
+A maioria dos trabalhadores das empresas mais expostas concentram-se na fabricação de têxteis,
+na indústria do vestuário e na fabricação de outros produtos minerais não metálicos. Estes três
+setores representam 39% dos trabalhadores das empresas consideradas.
+A exposição das instituições de crédito residentes ao grupo de empresas analisado é reduzida. Em
+junho de 2025, o total de empréstimos contraídos pelas empresas mais expostas ao mercado dos EUA
+era de 712 milhões de euros, um valor semelhante ao observado em junho de 2024. Em média, cada
+empresa detinha empréstimos de 1,8 milhões de euros, um valor muito superior à média da indústria
+transformadora (371 mil euros). Esta conclusão mantém-se quando se considera a mediana.
+O montante de empréstimos apurado corresponde a menos de 0,9% do total de empréstimos
+concedidos por instituições de crédito residentes a sociedades não financeiras. Adicionalmente,
+as empresas identificadas dispõem de linhas de crédito no valor de 428 milhões de euros. O crédito
+vencido corresponde a 19 milhões de euros.
+O gráfico C3.1 apresenta a distribuição dos empréstimos às empresas mais expostas ao mercado dos
+EUA por subsector da indústria transformadora. Apresentam-se apenas os cinco subsetores com
+mais empréstimos. As indústrias com maior volume de empréstimos bancários destas empresas
+são a madeira e cortiça (120 milhões), têxtil (108 milhões) e produtos metálicos, exceto máquinas
+e equipamentos (93 milhões).11
+Gráfico C3.1 • Distribuição dos empréstimos a empresas com exposição elevada ao mercado
+dos EUA por subsetor de atividade | Valores em junho de 2025 (em milhões de euros)
+5
+2
+0
+2 Fonte: Banco de Portugal. | Notas: As empresas com elevada exposição aos EUA correspondem a empresas que exportam para os EUA e as exportações para
+o
+r este mercado representam mais de 10% do valor das suas vendas (internas e externas).
+b
+u
+tu
+O
+o
+•
+c
+im
+ó
+n
+o
+c
+E
+m
+ite
+lo
+la
+B
+•
+g
+u
+tr o 11 Uma análise mais fina, ao nível da CAE a 5 dígitos, revela que os setores que apresentam maior volume de empréstimos de empresas com
+P
+e elevada exposição aos EUA são a fabricação de rolhas de cortiça, produção de vinhos comuns e licorosos, e a tecelagem de fio do tipo algodão.
+d
+o O setor da cortiça deverá ser, no entanto, pouco afetado na medida em que a cortiça deverá ficar isenta de tarifas ao abrigo da cláusula de nação
+c
+n mais favorecida.
+a
+B
+24
+
+[Página 27]
+Caixa 4 • Evolução das quotas de mercado das exportações de bens e serviços por
+grau de intensidade em tecnologia e conhecimento
+Na última década, as exportações portuguesas de bens e serviços registaram um crescimento médio anual
+expressivo: 7,5%, em termos nominais e 4,6% em termos reais. O peso das exportações no PIB passou de
+40,7% em 2015 para 46,5% em 2024 em termos nominais, e de 39,8% para 46,7%, em termos reais.
+Este dinamismo beneficiou de ganhos de quota de mercado, isto é, da capacidade dos exportadores
+portugueses se implantarem nos mercados internacionais mais do que os seus concorrentes.
+O desempenho do setor exportador português depende da capacidade de diversificar mercados, apostar
+em tecnologia e inovação, e consolidar a sua posição em segmentos de maior valor acrescentado.
+Recentemente, o relatório Draghi12 destacou a competitividade nos setores de alta tecnologia como um
+dos fatores cruciais para promover o crescimento económico. Questões geoestratégicas estão também
+a influenciar a reorientação dos fluxos de comércio.13
+Neste contexto, esta caixa analisa o desempenho das exportações portuguesas na última década do
+ponto de vista da tecnologia incorporada nos bens e do grau de conhecimento associado aos serviços.
+Os bens foram classificados por grau de intensidade tecnológica a partir da metodologia da OCDE, que
+considera a percentagem da despesa em investigação e desenvolvimento no valor acrescentado bruto
+total da respetiva indústria.14 Os serviços foram agrupados por grau de intensidade de conhecimento
+recorrendo à metodologia do Eurostat que considera a percentagem de empregados com educação
+terciária por CAE a dois dígitos.15 Utilizaram-se os dados das estatísticas de comércio externo de bens
+disponíveis no Eurostat e os dados das transações de serviços das estatísticas da balança de
+pagamentos. Saliente-se, no entanto, que esta classificação por grau de intensidade tecnológica e grau
+de conhecimento associado aos serviços pode apresentar algumas limitações. A classificação não
+é feita por empresa, mas sim por setor, o que não permite excluir a possibilidade de alguns produtos
+específicos não estarem bem classificados, e.g. têxteis de elevada tecnologia ou máquinas com
+reduzido valor acrescentado nacional.
+7
+2
+–
+5
+2
+0
+2
+:a
+s
+e
+u
+g
+u
+tr
+o
+p
+a
+im
+o
+12 Draghi, M. “The future of European competitiveness”, Comissão Europeia, setembro 2024. n o
+c
+13 Para uma análise mais detalhada dos desafios ao comércio internacional português, ver Tema em destaque — “O comércio internacional e
+a
+português e a fragmentação da economia mundial” do Boletim Económico de dezembro de 2024. a r
+a
+14 Para mais detalhes sobre a classificação de bens veja-se Galindo-Rueda, Fernando e Fabien Verger, OECD taxonomy of economic activities based on R&D intensity p
+s
+e
+e a nota do quadro C4.1. õ
+ç
+e
+15 Para detalhes da classificação do Eurostat, veja-se Glossary:Knowledge-intensive services (KIS) - Statistics Explained - Eurostat e a nota do quadro C4.1. jo
+r
+P
+25
+
+[Página 28]
+No período analisado, a estrutura das exportações portuguesas alterou-se. A componente de serviços
+ganhou peso, de 33,7% em 2015 para 42,2% em 2024. Considerando a tipologia por grau de intensidade
+em tecnologia e conhecimento, é de destacar o aumento do peso dos bens de alta tecnologia (de 4,5%
+em 2015 para 7,4% em 2024) e dos serviços de alta tecnologia e intensivos em conhecimento (de 1,9%
+para 4,2% no mesmo período) (Gráfico C4.1). As exportações de turismo e de outros serviços também
+cresceram significativamente, com o seu peso no total das exportações a passar de 17,3% em 2015 para
+22,1% em 2024. O peso dos bens de média tecnologia diminuiu, mas continuou a ser a principal
+componente das exportações portuguesas, com um peso de 28,7% em 2024.
+A evolução da quota de mercado das exportações portuguesas no mercado da UE pode ser avaliada de
+acordo com esta tipologia de bens e serviços. Foi utilizada a metodologia da quota de mercado constante,
+que decompõe o diferencial entre a variação das exportações de Portugal para a UE e das importações
+totais da UE no “efeito quota de mercado” e no “efeito estrutura combinada”. O primeiro corresponde
+à agregação do contributo das variações de quota nos mercados individuais produto/país. O segundo
+avalia os efeitos da especialização das exportações, sendo o país favorecido se estiver especializado em
+mercados setoriais ou geográficos com maior dinamismo nas importações globais. O foco no mercado
+da UE e em termos nominais decorre da disponibilidade de dados. A UE pesava 63% das exportações de
+bens e serviços em 2024. A utilização de dados nominais implica que a variação da quota reflete variações
+em volume e de preços relativos. Optou-se por excluir os combustíveis da análise dadas as variações
+acentuadas de preço desta componente.
+Gráfico C4.1 • Exportações por grau de intensidade em tecnologia e conhecimento | Em
+percentagem do total das exportações de bens e serviços
+Painel A — Bens Painel B — Serviços
+5
+2
+0
+2 Fontes: INE e Banco de Portugal. | Notas: A categoria de bens não industriais inclui maioritariamente bens agrícolas e da indústria extrativa, mas também
+o r a categoria residual e os bens não classificados devido a questões de confidencialidade. Para detalhes dos critérios de classificação de bens e serviços ver nota
+b
+u ao quadro C4.1.
+tu
+O
+o
+•
+Entre 2015 e 2024, o crescimento das exportações portuguesas de bens e serviços para a UE foi superior
+c
+im
+ao das importações da UE na generalidade dos anos, sendo as exceções 2015 e 2020. Em termos
+ó
+n
+o acumulados, este diferencial foi de 20 pp, sendo superior no segundo subperíodo (11,6 pp em 2020-24)
+c
+E
+m comparativamente ao período anterior (8,4 pp em 2015-19) (Quadro C4.1). A decomposição deste
+ite
+diferencial mostra um contributo do efeito quota de mercado de 16,8 pp na última década, tendo sido de
+lo
+B 10,2 pp em 2015-19 e de 6,7 pp em 2020-24. Isto significa que o bom desempenho das exportações nos
+la
+•
+mercados europeus traduziu essencialmente um aumento da competitividade de Portugal, sendo
+g
+u o contributo do efeito estrutura menos significativo (2,9 pp em 2015-24).
+tr
+o
+P
+e
+Os bens e serviços mais intensivos em tecnologia e conhecimento representaram 60,4% do ganho de
+d
+o
+quota na última década: o contributo dos bens de alta tecnologia foi de 5,2 pp e o dos serviços de alta
+c
+n tecnologia e intensivos em conhecimento de 5,0 pp (Gráfico C4.2). O ganho de quota dos bens de alta
+a
+B
+26
+
+[Página 29]
+tecnologia refletiu o maior contributo dos “Produtos farmacêuticos” e “Equipamento de rádio, TV
+e comunicações”, enquanto o contributo dos “Instrumentos médicos, óticos e de precisão” se reduziu.
+No caso dos serviços, os ganhos foram mais elevados no período 2020-2024 devido principalmente ao
+aumento do contributo dos “Serviços técnicos, relacionados com o comércio e outros serviços” e aos
+“Serviços de telecomunicações, informáticos e de informação”. O contributo do ganho de quota do
+turismo e outros serviços foi também significativo na década passada (4,2 pp), devido em particular ao
+bom desempenho das exportações de “Viagens e turismo” no período pré-pandemia. O contributo
+positivo dos bens de média tecnologia (2,0 pp) refletiu também o comportamento no período
+pré-pandemia, tendo registado uma perda de quota no período mais recente associada aos “Veículos
+a motor, reboque e semirreboques”.
+O efeito estrutura combinada representou 2,9 pp do diferencial entre o crescimento das exportações
+portuguesas e as importações da UE. Este efeito foi negativo entre 2015 e 2019 (-2,1 pp) principalmente
+devido ao facto da economia não ser especializada nos “Serviços de investigação e desenvolvimento”,
+cujas importações cresceram, neste período, a uma taxa superior à do total das importações da UE. Por
+outro lado, no período 2020-24, a especialização nos serviços de viagens e turismo, cujo dinamismo
+pós-pandemia superou o do total das importações da UE, resultou num contributo positivo do efeito
+estrutura combinada (5,0 pp).
+Quadro C4.1 • Análise de quota de mercado constante na UE — Bens e serviços | Taxa de variação,
+em percentagem e contributos em pp
+2015-2019 2020-2024 2015-2024
+Exportações de bens e serviços para a UE % 39,6 41,9 81,6
+Importações de bens e serviços da UE % 31,3 30,3 61,5
+Diferencial (efeito total) pp 8,4 11,6 20,0
+Contributos:
+Efeito quota de mercado pp 10,2 6,7 16,8
+Bens alta tecnologia pp 2,2 3,0 5,2
+Bens média tecnologia pp 3,1 -1,0 2,0
+Bens baixa tecnologia pp -1,3 0,8 -0,4
+Bens não industriais pp 0,5 0,4 0,9
+Serv. alta tecnologia e int. em conhecimento pp 0,6 1,5 2,1
+Serviços int. em conhecimento pp 0,4 2,5 2,8
+Turismo e outros serviços pp 4,7 -0,5 4,2
+Efeito estrutura pp -2,1 5,0 2,9
+Bens alta tecnologia pp 0,5 0,5 1,0
+Bens média tecnologia pp 0,3 -0,7 -0,5
+Bens baixa tecnologia pp -0,6 -0,4 -1,0
+Bens não industriais pp 0,8 0,5 1,3
+Serv. alta tecnologia e int. em conhecimento pp -2,9 1,1 -1,8
+Serviços intensivos em conhecimento pp -0,1 -0,7 -0,7 7
+2
+Turismo e outros serviços pp -0,1 4,6 4,5 5 –
+2
+0
+Fontes: Banco Central da Irlanda, Banco Central de Espanha, Eurostat, FMI e INE (cálculos do Banco de Portugal). | Notas: Consideraram-se as importações dos 2
+26 parceiros da UE, com detalhe por 35 grupos de bens e serviços. O efeito total é a diferença entre a taxa de variação das exportações portuguesas de bens para a UE e :a
+s
+a das importações totais da UE e pode ser decomposto em dois efeitos: (i) um efeito quota de mercado que mede o impacto de alterações na quota em cada mercado e
+u
+(país/produto); e (ii) um efeito estrutura combinada que mede o impacto da concentração relativa das exportações portuguesas em mercados individuais país/produto g
+u
+com crescimentos acima ou abaixo da média das importações da UE. Para detalhes sobre a metodologia, ver Amador, J. e Cabral, S. (2008), “O desempenho das tr
+o
+exportações portuguesas em perspetiva: uma análise de quota de mercado constante”, Boletim Económico, Banco de Portugal, Outono 2008. As rubricas de bens da p
+Nomenclatura Combinada (NC) foram classificadas por grau de intensidade tecnológica seguindo a metodologia da OCDE, que tem em conta o peso da despesa em a im
+investigação e desenvolvimento no valor acrescentado bruto total da respetiva indústria. Os bens não industriais correspondem maioritariamente a bens agrícolas e da o
+indústria extrativa. Os serviços foram agrupados por grau de intensidade de conhecimento seguindo a metodologia do Eurostat, que considera o peso dos empregados n o
+com educação terciária ao nível da CAE a dois dígitos. Foi considerada uma correspondência entre esta classificação e as categorias de serviços das estatísticas da balança c e
+de pagamentos. Os serviços de alta tecnologia e intensivos em conhecimento incluem os de telecomunicações, informáticos e de informação, de investigação a
+a
+e desenvolvimento e os direitos cobrados pela utilização de propriedade intelectual. Os serviços intensivos em conhecimento incluem os de transportes, de consultoria r a
+em gestão e técnicos, os outros serviços fornecidos por empresas, serviços de seguros e financeiros, serviços pessoais, culturais e recreativos e bens e serviços das p
+s
+administrações públicas. A rubrica turismo e outros, para além das viagens e turismo, inclui os serviços de transformação de recursos materiais pertencentes a terceiros, e
+õ
+de manutenção e reparação, e de construção. Existem cruzamentos de produtos/país nas importações da UE sem correspondência nas exportações de Portugal que ç e
+podem originar pequenas discrepâncias entre o efeito total e a soma do efeito quota de mercado e efeito estrutura. jo
+r
+P
+27
+
+[Página 30]
+Gráfico C4.2 • Efeito quota de mercado das exportações para a UE — Contributo por grau
+de intensidade em tecnologia e conhecimento | Pontos percentuais
+Fontes: Banco Central da Irlanda, Banco Central de Espanha, Eurostat, FMI e INE (cálculos do Banco de Portugal). | Notas: A categoria de outros bens inclui todas
+as categorias de bens, exceto os de alta tecnologia. Para os detalhes da metodologia e dos critérios de classificação de bens e serviços ver a nota do quadro C4.1.
+Caixa 5 • Exportações de turismo: desenvolvimentos recentes
+As exportações nominais de turismo apresentaram um crescimento acumulado superior a 50% entre
+2019 e 2024 (Gráfico C5.1). Este dinamismo refletiu a forte recuperação da procura externa de turismo
+após a queda inédita em 2020. A recuperação foi impulsionada pela procura adiada e pelas poupanças
+acumuladas durante a pandemia, num contexto de reabertura das economias e retoma da confiança dos
+viajantes. O dinamismo das exportações de turismo neste período refletiu também um ganho acumulado
+de quota de mercado de 11,6% em termos nominais (o que compara com 39,2% entre 2014 e 2019).
+Este ganho foi concentrado em 2020-21, observando-se perdas ligeiras nos últimos três anos.
+5 Uma comparação internacional do crescimento acumulado das receitas de turismo revela que a queda
+2
+0
+2 nos dois primeiros anos da pandemia foi mais contida em Portugal (Gráfico C.5.2). Nos últimos três
+o
+r b anos, o crescimento acumulado foi superior ao de concorrentes europeus, incluindo da Europa do Sul,
+u
+tu mas aquém do observado na Ásia e na América. O dinamismo das receitas de turismo nestas regiões
+O
+o
+• ocorre após uma queda mais marcada no período da pandemia e estará associada a uma retoma da
+c procura de viagens para destinos longínquos.
+im
+ó
+n o A evolução favorável das receitas de exportação face aos países concorrentes da Europa mediterrânica
+c
+E
+m
+refletiu a componente de volume e de preço (Quadro C5.1). Entre 2019 e 2024, o crescimento acumulado
+ite das dormidas de não residentes em estabelecimentos hoteleiros em Portugal foi de 15,6%, superior ao
+lo
+B registado, em média, nos outros países (crescimento de 8,3%). Este crescimento foi acompanhado de um
+la
+•
+aumento dos preços dos serviços mais diretamente relacionados com o turismo: os preços no
+g
+u alojamento e restauração em Portugal cresceram 31,4%, excedendo o crescimento de 19,7% observado,
+tr
+o P em média, nos concorrentes da Europa mediterrânica. Ainda assim, em 2024 o nível de preços no
+e
+d alojamento e restauração em Portugal, situava-se em 76% da média da UE, enquanto nos outros países
+o
+c n considerados variavam entre 84% em Espanha e 110% em França.
+a
+B
+28
+
+[Página 31]
+Gráfico C5.1 • Exportações nominais de turismo, procura externa e quota de mercado | Taxa
+de variação em percentagem
+Fontes: Eurostat, FMI e INE (cálculos do Banco de Portugal. | Notas: A procura externa de turismo é uma média ponderada das taxas de variação das importações
+de turismo dos principais países emissores, ponderadas pelo seu peso nas exportações portuguesas no ano anterior. As exportações dizem respeito ao conjunto de
+países incluído no indicador de procura externa, que representam em média cerca de 87% das exportações nominais de turismo no período apresentado. A variação
+da quota de mercado do turismo é obtida da diferença entre a taxa de variação das exportações portuguesas de turismo e a taxa de variação do indicador de procura
+externa de turismo.
+O setor turístico português é competitivo à escala mundial. No índice de desenvolvimento do turismo do
+World Economic Forum, Portugal ocupava em 2024 a 12.ª posição em 119 países (uma melhoria face
+à 15.ª posição de 2019). O índice global de Portugal é similar ao da média dos países mediterrânicos da
+UE acima considerados (Espanha, França, Itália e Grécia), destacando-se a posição mais favorável no
+subíndice de segurança e proteção (Gráfico C5.3).16 A perceção de Portugal como destino seguro
+favorece um maior crescimento das exportações nacionais num contexto de tensões geopolíticas.
+Na comparação com uma média de países do Norte de África e da Turquia, que praticam preços mais
+baixos, Portugal ocupa uma posição global bastante superior, o que reflete um melhor desempenho na
+generalidade dos subíndices.17
+A evolução recente do turismo em Portugal esteve associada a uma redução da sazonalidade e a uma
+maior repartição no território nacional, prolongando as tendências dos anos anteriores. O peso das
+dormidas de não residentes nos meses de junho a setembro diminuiu de 48,4% em 2014 para 45,5%
+em 2019 e 44,1% em 2024. Diversos fatores estarão a contribuir para a redução da sazonalidade, como
+a alteração do perfil etário dos turistas, a maior facilidade de conjugar trabalho remoto com viagens, 7
+2
+a possibilidade de beneficiar de preços mais competitivos na época baixa ou uma maior procura de –
+5
+2
+destinos que combinam atrações urbanas com o apelo tradicional do sol e mar. Refira-se que Portugal 0
+2
+apresenta um perfil menos sazonal face a outros países da Europa mediterrânica: o peso dos meses :a
+s
+e
+de junho a setembro em 2024 foi de 46,7% em Espanha, 54,9% em Itália, 55,5% em França e 74,9% na u
+g
+u
+Grécia. Em termos de regiões de destino, o peso do Algarve reduziu-se, de 36,9% em 2014 para 32,4% tr
+o
+em 2019 e 28,4% em 2024. Em sentido oposto, aumentou o peso da região Norte (de 9,3% em 2014 p
+a
+para 13,2% e 15,7% em 2024) e, em menor escala, o dos Açores. A estadia média manteve-se inalterada
+im
+o
+n
+o
+c
+e
+a
+a
+r
+a
+p
+s
+e
+16 A posição no ranking destes países é a seguinte: Espanha (2.º), França (4.º), Itália (9.º), Grécia (21.º). õ
+ç
+e
+17 A posição no ranking dos países considerados neste grupo é a seguinte: Turquia (29.º), Egito (61.º), Marrocos (82.º), Tunísia (83.º). jo
+r
+P
+29
+
+[Página 32]
+face a 2019, em 3,1 dias, um valor inferior ao da maioria dos outros países mediterrâneos da UE.18
+A manutenção destas tendências de diversificação dos fluxos turísticos ao longo do ano e no território
+gera oportunidades de crescimento, reduzindo as externalidades negativas em termos de massificação
+e congestão de infraestruturas e maior estabilidade nas relações laborais.
+Gráfico C5.2 • Exportações nominais de turismo — comparação internacional | Taxa de variação
+acumulada em percentagem
+Fontes: Banco de Portugal e FMI. | Notas: Foram considerados na análise 129 países que representavam cerca de 82% das exportações mundiais de turismo
+em 2019. As taxas de variação foram calculadas sobre valores em dólares das exportações nominais de turismo, pelo que as taxas para Portugal não coincidem
+com as do gráfico anterior.
+Quadro C5.1 • Indicadores de turismo — Comparação com países da Europa mediterrânica
+| Taxa de variação em percentagem
+2020 2021 2022 2023 2024 2025 S1 Acum. 2020-24
+Exportações de turismo
+Portugal -57,6 30,4 109,6 20,0 8,8 5,6 51,2
+Grécia -76,2 143,2 68,3 16,5 4,8 11,0 18,8
+Espanha -77,2 80,2 137,0 22,9 15,7 8,2 38,3
+Itália -60,9 22,7 108,1 16,8 4,9 5,8 22,4
+França -49,7 21,0 64,3 16,2 8,0 8,9 25,3
+5
+2 Dormidas de não residentes
+0
+2 Portugal -74,1 50,0 147,1 14,8 4,8 1,0 15,6
+o
+r b Grécia -78,5 128,1 89,3 10,4 4,1 2,6 6,8
+u tu Espanha -79,6 87,8 137,4 11,2 6,7 2,2 7,7
+O Itália -70,3 62,2 89,5 16,5 8,4 3,2 15,1
+o
+• França -66,7 24,9 119,1 10,1 3,1 7,4 3,4
+c
+im IHPC alojamento e restauração
+ó n Portugal 0,4 -1,2 12,7 12,3 4,5 4,7 31,4
+o
+c Grécia -1,3 -0,6 8,7 6,5 6,3 6,9 20,7
+E
+m Espanha 0,8 0,7 7,4 6,6 4,9 4,3 21,9
+ite Itália 0,5 1,8 6,2 7,0 4,0 3,3 20,9
+l B o França 0,9 0,8 4,7 5,1 3,1 2,6 15,3
+la
+•
+Fontes: Eurostat, Bancos Centrais Nacionais (dados de exportações de turismo para 2025 S1) e INE. | Nota: Dormidas de não residentes nos estabelecimentos
+g hoteleiros.
+u
+tr
+o
+P
+e
+d
+o
+c
+n 18 A estadia média em 2024 foi de 2,6 dias em França, 3,4 em Itália, 4,1 em Espanha e 4,7 na Grécia.
+a
+B
+30
+
+[Página 33]
+Gráfico C5.3 • Índice de desenvolvimento do turismo — Portugal vs. países concorrentes
+Fonte: World Economic Forum (Travel & Tourism Development Index). | Notas: O índice avalia o conjunto de fatores e políticas que sustentam um desenvolvimento
+sustentável e resiliente do sector do turismo, variando entre 1 (mínimo) e 7 (máximo). O ranking diz respeito a um total de 119 países.
+Outro fator que se destaca no período em análise é a alteração da origem dos turistas que visitam
+Portugal, com uma diminuição da importância dos tradicionais países emissores europeus. O Reino
+Unido perdeu peso, de 23% em 2014 para 19,1% em 2019 e 18,1% em 2024, mas manteve-se como
+o principal mercado emissor. Nos últimos cinco anos, assinale-se também a redução do peso da
+França, Espanha e Alemanha. Em contrapartida, observou-se um aumento significativo do peso dos
+turistas oriundos dos EUA (de 2,6% em 2014 para 5,5% em 2019 e 9,2% em 2024), que se tornou
+o quarto país emissor mais importante (Gráfico C5.4). Comparativamente ao total de turistas
+estrangeiros, os turistas americanos concentram-se mais na região de Lisboa, pernoitam mais em
+alojamentos de categoria superior, mas a sua estadia média é mais curta.19
+No primeiro semestre de 2025, as exportações portuguesas de turismo continuaram a abrandar,
+com um crescimento homólogo de 5,6% em termos nominais, que compara com 8,8% no ano de
+2024 (Quadro C5.1). Esta desaceleração terá resultado da evolução em volume, observando-se um
+7
+crescimento das dormidas de não residentes de 1%, após 4,8% em 2024. As dormidas de turistas 2
+–
+5
+europeus reduziram-se ligeiramente, enquanto os turistas norte-americanos e asiáticos mantiveram 2
+0
+2
+crescimentos acima da média. A variação homóloga dos preços no setor manteve-se elevada, em :a
+s
+4,7%. Esta evolução das dormidas de não residentes e dos preços foi comum à generalidade dos e u
+g
+países da Europa mediterrânica. u tr
+o
+p
+a
+im
+o
+n
+o
+c
+e
+a
+a
+19 Em 2024, cerca de 50% das dormidas de turistas oriundos dos EUA localizaram-se na área metropolitana de Lisboa enquanto para o total de dormidas r a
+p
+essa percentagem foi de cerca de 30%. No caso do Algarve, o peso era de 11% para turistas dos EUA e de 28% para o total de estrangeiros. O peso dos s
+e
+hotéis de 5 estrelas nas dormidas de turistas provenientes dos EUA foi de 29%, comparando com 14% no total de dormidas de estrangeiros. Os turistas dos õ
+ç
+e
+EUA apresentavam uma estadia média de 2,3 dias. jo
+r
+P
+31
+
+[Página 34]
+Gráfico C5.4 • Dormidas de não residentes — peso dos principais países emissores | Em
+percentagem
+Fonte: INE. | Nota: Dormidas de não residentes nos estabelecimentos hoteleiros.
+Caixa 6 • A reavaliação da estratégia de política monetária do BCE de 2025
+O Banco Central Europeu (BCE) divulgou o resultado da sua reavaliação da estratégia de política monetária
+em junho de 2025. Esta caixa apresenta as principais conclusões desta reavaliação, tal como espelhadas
+na nova declaração da estratégia de política monetária e na nota de síntese.20
+Os objetivos do BCE estão definidos no Tratado sobre o Funcionamento da União Europeia e no
+Tratado da União Europeia. Como autoridade monetária, o seu objetivo primordial é a manutenção da
+estabilidade de preços na área do euro. Sem prejuízo deste objetivo, o BCE deve contribuir para
+a concretização dos objetivos da União Europeia, que incluem um crescimento económico equilibrado
+e o pleno emprego, entre outros. O BCE não tem autoridade para alterar o seu mandato, mas tem
+5
+2 autonomia para clarificar o que entende por estabilidade de preços e para definir a estratégia e os
+0
+2
+o instrumentos para atingir os seus objetivos.
+r
+b
+u tu O resultado da anterior revisão de estratégia de política monetária foi anunciado em julho de 2021.21
+O
+o
+•
+E
+in
+s
+f
+t
+la
+a
+ç
+r
+ã
+e
+o
+v
+i
+i
+n
+sã
+fe
+o
+r i
+f
+o
+ic
+re
+o
+s
+u
+a
+m
+o
+a
+o
+r
+b
+c
+j
+a
+e
+d
+tiv
+a
+o
+p
+,
+o
+ta
+r
+x
+u
+a
+m
+s d
+e
+e
+n
+ju
+q
+r
+u
+o
+a
+d
+d
+e
+ra
+p
+m
+o
+e
+lít
+n
+ic
+t
+a
+o
+b
+m
+a
+a
+ix
+c
+a
+r
+s
+o
+e
+e c
+p
+o
+ró
+n
+x
+ó
+i
+m
+ma
+ic
+s
+o
+d
+c
+o
+a r
+s
+a
+e
+t
+u
+e
+l
+r
+im
+iza
+ia
+d
+r
+o
+in
+p
+fe
+o
+r
+r
+i o
+ta
+r
+x
+e
+a
+fe
+s
+t i
+d
+v
+e
+o
+c
+im
+e pela utilização de diversas medidas de política monetária não convencional. Das principais alterações
+ó
+n
+o introduzidas destaca-se a definição de estabilidade de preços como um objetivo de inflação simétrico
+c
+E
+m
+de 2% no médio prazo.
+ite
+lo
+B
+la
+•
+g
+u
+tr
+o
+P
+e
+20 Os resultados da reavaliação da estratégia podem ser consultados na página do BCE (apenas disponível em inglês).
+d
+o 21 Para uma discussão detalhada dos resultados da revisão de estratégia de 2021, ver o Tema em destaque do Boletim Económico de outubro de
+c
+n 2021 — “A nova estratégia de política monetária do BCE”.
+a
+B
+32
+
+[Página 35]
+Desde o anúncio da revisão de estratégia de 2021, a economia da área do euro foi afetada por
+choques significativos. Em 2021, a reabertura gradual da economia global, após os confinamentos
+associados à pandemia de COVID-19, gerou um desequilíbrio entre uma procura em rápida
+recuperação e uma oferta ainda condicionada pelos constrangimentos das cadeias de produção.
+Em fevereiro de 2022, eclodiu o conflito na Ucrânia, gerando um aumento substancial no custo
+da energia e dos bens alimentares na Europa. Estes dois fatores contribuíram para uma subida
+acentuada da inflação na área do euro. Em resposta a estes desenvolvimentos, o BCE começou
+a inverter o cariz acomodatício da política monetária. Em primeiro lugar, cessou as compras líquidas
+de ativos e, de seguida, criou o Instrumento de Proteção da Transmissão (na sigla inglesa TPI —
+Transmission Protection Instrument) de forma a salvaguardar a transmissão de política monetária. Em
+julho de 2022, iniciou um ciclo rápido e forte de subida das taxas de juro, tendo a taxa de juro de
+referência de política monetária — a taxa da facilidade de depósito — aumentado 450 pb entre essa data
+e setembro de 2023. A variação homóloga do índice harmonizado de preços no consumidor (IHPC) na
+área do euro atingiu um máximo histórico de 10,6% em outubro de 2022 (Gráfico C6.1). Desde então,
+a dissipação dos choques e posteriormente uma política monetária restritiva contribuíram para a descida
+da inflação.
+Gráfico C6.1 • IHPC e taxa de juro de política monetária na área do euro | Taxa de variação
+homóloga e percentagem
+Fontes: Eurostat, LSEG e cálculos do Banco de Portugal.
+A reavaliação da estratégia de 2025 foi lançada com o objetivo de avaliar as alterações introduzidas em 2021
+e identificar as modificações necessárias para aumentar a sua robustez. No início do processo estabeleceu-
+se que esta reavaliação seria menos abrangente do que a revisão anterior e que determinados elementos 7
+2
+não seriam revisitados, nomeadamente o objetivo de inflação de 2% no médio prazo.22 5 –
+2
+0
+2
+:a
+s
+e
+u
+g
+u
+tr
+o
+p
+a
+im
+o
+n
+o
+c
+e
+a
+a
+r
+a
+p
+22 O trabalho desenvolvido para a reavaliação de estratégia ao nível do Eurosistema foi divido em dois grupos de trabalho. Os resultados das análises s
+e
+realizadas por estes grupos foram publicados como occasional papers — Ver “A strategic view on the economic and inflation environment in the euro area” õ
+ç
+e
+e “Report on monetary policy tools, strategy and communication”. jo
+r
+P
+33
+
+[Página 36]
+A primeira alteração introduzida na estratégia de política monetária anunciada em junho de 2025
+prende-se com a mudança de paradigma sobre a evolução da inflação. Considera-se que a inflação pode
+ser mais incerta e volátil no futuro devido a vários fatores estruturais, como as questões geopolíticas,
+a digitalização, a evolução demográfica e as alterações climáticas. Enquanto na anterior revisão o efeito
+de fatores estruturais era maioritariamente descendente sobre a inflação, neste momento o balanço
+é mais incerto, uma vez que alguns fatores podem exercer uma pressão para a subida da inflação. Por
+exemplo a fragmentação do comércio mundial pode levar a disrupções nas cadeias de produção globais
+e assim aumentar os custos de produção.
+Em segundo lugar, a nova estratégia estabelece que a resposta de política monetária deve ser
+vigorosa ou persistente em caso de desvios prolongados e significativos da inflação relativamente
+ao objetivo, positivos ou negativos. Esta reação de política visa evitar que tais desvios alimentem
+uma desancoragem das expectativas de inflação. Esta alteração expande o contexto para este tipo de
+resposta, reforçando a simetria em torno do objetivo de inflação. A referência introduzida na estratégia
+de 2021 relativa à eventual necessidade de um período de inflação alta após um período em que as
+taxas de política se encontram no seu limiar inferior foi removida.
+Em terceiro lugar, a estratégia reforça a importância da orientação de médio prazo, uma vez que permite
+que a política monetária possa ignorar certos desvios temporários da inflação em torno do seu objetivo
+e assim ter em conta outras considerações relevantes para a estabilidade de preços. No entanto,
+refere-se explicitamente que tal só pode acontecer se as expectativas de inflação estiverem ancoradas.
+Esta alteração decorre da importância das expectativas de inflação na persecução do objetivo de
+estabilidade de preços.
+Em quarto lugar, é referido que a escolha, a formulação e a implementação dos instrumentos deve
+garantir uma resposta ágil a novos choques que possam afetar a economia, de forma a garantir que
+a resposta de política permanece apropriada. Esta alteração é importante num contexto em que
+a inflação pode ser mais incerta e volátil. Na nota de síntese refere-se ainda que a utilização de vários
+instrumentos de política em simultâneo deve ser privilegiada em detrimento de uma utilização intensa
+de alguns, já que essa utilização pode potenciar efeitos secundários adversos.
+Em quinto lugar, a nova estratégia explicita que o BCE irá ter em conta não só a trajetória mais provável
+da inflação e da economia na condução de política monetária, mas também os riscos e a incerteza
+associados a esse cenário central, através do uso apropriado de cenários alternativos e análises de
+sensibilidade. Apesar desta utilização já fazer parte do trabalho analítico desenvolvido pelo Eurosistema,
+5
+esta referência explícita reforça a importância dessa análise num contexto em que se antevê que
+2
+0 os desenvolvimentos futuros da inflação sejam mais voláteis e incertos do que no passado. Assim,
+2
+o r as decisões de política monetária poderão ser mais robustas aos vários desenvolvimentos possíveis da
+b
+u tu inflação. A incorporação da incerteza na condução de política monetária não leva a um enviesamento
+O
+o
+•
+p
+um
+ré
+a
+-d
+r
+e
+e
+f
+s
+in
+p
+i
+o
+d
+s
+o
+t a
+n a
+m
+p
+a
+o
+is
+lí t
+g
+ic
+r
+a
+a
+,
+d
+u
+u
+m
+al
+a
+o
+v
+u
+e z
+m
+q
+a
+u
+is
+e
+v
+d
+ig
+e
+o
+p
+r
+e
+o
+n
+s
+d
+a
+e
+d
+n
+a
+d
+p
+o
+o
+d
+lí
+o
+ti c
+c
+a
+o n
+m
+te
+o
+x
+n
+t
+e
+o
+t
+e
+á r
+d
+ia
+a
+.
+fonte da incerteza, esta pode justificar
+c
+im
+ó Por último, e em linha com a revisão de 2021, o anúncio da nova estratégia reitera a importância
+n
+o
+c de uma avaliação regular da estratégia de política monetária e, por isso, apresenta o compromisso
+E
+m
+de uma nova avaliação em 2030.
+ite
+lo
+B
+la
+•
+g
+u
+tr
+o
+P
+e
+d
+o
+c
+n
+a
+B
+34
+
+[Página 37]
+II Tema em destaque
+A emigração dos jovens portugueses
+nas últimas décadas
+
+[Página 39]
+A emigração dos jovens portugueses
+nas últimas décadas1
+Introdução
+Portugal é um país historicamente caraterizado por elevados fluxos de emigração, que se refletem numa
+vasta diáspora em todo o mundo. Em 2020, o número total de emigrantes nascidos em Portugal ascendia
+a 2,1 milhões, correspondendo a 20,4% da população residente (Observatório da Emigração, 2025). Esta
+taxa de emigração (avaliada em termos de stock) é das maiores na Europa.
+As migrações internacionais são um fenómeno inerente a todas as sociedades ao longo da história.
+Num contexto de livre circulação de pessoas na Europa, de rápido envelhecimento populacional e de
+crescente qualificação dos mais jovens, emergiu nos últimos anos um debate sobre a magnitude da
+emigração jovem em Portugal. Todos os fenómenos migratórios envolvem transferências e, portanto,
+trocas potenciais de capital humano. Este Tema em destaque visa contribuir para esse debate,
+procurando responder às seguintes questões. Como evoluiu a emigração dos jovens portugueses ao
+longo das duas últimas décadas? Como se carateriza esta mobilidade internacional em termos de
+destinos geográficos e qualificações? Quais as principais motivações na escolha dos países de destino
+da emigração? Como compara a emigração jovem em Portugal com a dos restantes países europeus?
+Para responder a estas questões, é necessário começar por definir os conceitos de “emigrante” e de
+“jovem”. Para efeitos deste Tema em destaque, um emigrante é uma pessoa nascida em Portugal e que
+não reside em Portugal (ou seja, que vive no estrangeiro há pelo menos doze meses ou por um período
+que se espera vir a ser superior a doze meses). Assim, o critério adotado é o da naturalidade, e não
+o da nacionalidade. Por seu turno, um jovem é um indivíduo com idade entre 15 e 34 anos. Ao longo
+do Tema em destaque, a informação é desagregada em dois escalões etários: 15 a 24 anos e 25
+a 34 anos. A análise centra-se neste último escalão, dado que identifica de forma mais fidedigna os
+jovens que terminaram o percurso escolar e que estarão maioritariamente no mercado de trabalho.
+A informação analisada neste Tema em destaque é essencialmente baseada em stocks, ou seja, avalia-se
+o total de emigrantes jovens num determinado ano, e não o fluxo de emigrantes em cada ano. Esta
+questão é relevante porque muitos emigrantes regressam posteriormente a Portugal, deixando de ser
+emigrantes e passando a ser imigrantes. No entanto, não existem séries longas e detalhadas sobre os
+fluxos de retorno de emigrantes. Note-se que uma avaliação do impacto económico da emigração jovem
+exigiria um conhecimento aprofundado sobre estes dois fluxos brutos.
+A população portuguesa jovem registou uma queda acentuada nos últimos vinte anos. Este facto, bem
+conhecido, está associado à queda do índice sintético de fecundidade — número de nados-vivos por
+mulher em idade fértil — de cerca de 3,0 em 1970 para 1,6 em 1990 (Banco de Portugal, 2023). Nas
+décadas mais recentes, a redução foi mais ligeira, com o índice a situar-se em 1,4 em 2024. A queda
+muito acentuada da natalidade entre 1970 e 1990 implica inevitavelmente uma forte diminuição da
+população com idades em torno dos 20 anos entre 1990 e 2010 e da população em torno dos 30 anos
+entre os anos 2000 e 2020.
+e
+u
+q
+a
+ts
+e
+d
+m
+e
+a
+m
+1 Preparado por Nuno Alves e Vanda Cunha. e
+T
+37
+
+[Página 40]
+O gráfico 1 apresenta uma estimativa do número de jovens de naturalidade portuguesa nos anos de
+2001, 2011 e 2021, com base na metodologia que será apresentada na secção seguinte, bem como
+da população residente jovem em Portugal, de acordo com os Censos da população daqueles três
+anos. Os resultados permitem retirar três ilações principais. Em primeiro lugar, observou-se uma queda
+acentuada dos jovens nascidos em Portugal com idades entre 15 e 34 anos, de 3,15 milhões em 2001
+para 2,24 milhões em 2021. Esta queda foi de quase 30% em apenas duas décadas. Em segundo lugar,
+a diminuição do escalão etário entre 15 e 24 anos já foi menos acentuada na última década, enquanto
+no escalão entre 25 e 34 anos ainda se fez sentir neste período. Em terceiro lugar, a evolução da
+população nascida em Portugal e a da população residente em Portugal foram relativamente próximas.
+A população residente tem sido ligeiramente menor em valor absoluto, mas esta diferença tem vindo
+a esbater-se.
+A transição demográfica e a alteração substancial da escolaridade neste grupo etário (Banco de
+Portugal, 2023) implicam que uma análise da evolução do stock de emigrantes jovens em Portugal deve
+considerar o seu peso face à população do respetivo escalão etário nascida em Portugal e uma leitura
+da incidência por escolaridade.
+Gráfico 1 • Número de jovens nascidos em Portugal e número de jovens residentes em Portugal
+| Milhares
+5
+2
+0
+2
+o Fontes: INE e Eurostat. | Notas: Os jovens nascidos em Portugal são de mães residentes em Portugal (INE, Estatísticas Demográficas). O stock destes
+r
+b u jovens por escalão etário em cada ano censitário foi calculado aplicando as taxas de mortalidade por idade (dos 0 aos 34 anos, ano a ano) da população
+tu residente em Portugal (Eurostat) aos jovens nascidos em Portugal desde 1967. Os jovens residentes em Portugal por escalão etário abrangem todas as
+O
+o
+•
+naturalidades/nacionalidades (INE, Censos).
+c
+im
+ó Uma estimativa do número de emigrantes jovens entre
+n
+o
+c
+E
+m 2001 e 2021
+ite
+lo
+B A aferição do número de emigrantes jovens num determinado momento é um desafio estatístico face
+la
+•
+à dificuldade de identificar os indivíduos em contexto migratório. Nesta secção, propõe-se uma
+g
+u metodologia para estimar o stock de emigrantes jovens em 2001, 2011 e 2021, ancorada em três fontes
+tr
+o
+P de informação: as estatísticas de nascimentos em Portugal, as taxas de mortalidade por idade da
+e
+d população residente e os Censos populacionais. Dada a sua natureza, esta metodologia será
+o
+c n denominada como “abordagem demográfica”. A ideia é acumular o número de indivíduos que
+a
+B
+38
+
+[Página 41]
+nasceram em Portugal e que estão vivos e comparar este valor, nos anos dos Censos, com os
+residentes em Portugal que nasceram em Portugal. A diferença entre estes valores será uma boa
+estimativa dos emigrantes portugueses. De modo a assegurar comparabilidade com as estatísticas
+oficiais e com a informação de outros países, agrega-se a informação dos níveis etários individuais em
+dois grandes grupos: os jovens dos 15 aos 24 anos e os jovens dos 25 aos 34 anos (e posteriormente
+o conjunto de todos os jovens). Como o primeiro ano analisado é 2001, e a população jovem é definida
+até aos 34 anos, é necessário acompanhar os nascimentos em Portugal desde 1967. Esta abordagem
+tem a desvantagem de só ser implementável nos anos censitários.
+O quadro 1 apresenta os principais resultados deste exercício. Em 2021, existiam 338 mil emigrantes
+jovens (15 a 34 anos), número que compara com 290 mil em 2011 e 426 mil em 2001. A taxa de
+emigração da população jovem em 2021 ascendia a 15,1%, o valor máximo das duas últimas décadas.
+A desagregação entre os dois escalões etários é útil para compreender melhor estas dinâmicas. No
+escalão entre os 15 e os 24 anos, caraterizado por uma percentagem elevada da população ainda
+em percurso escolar, o aumento da taxa de emigração é substancial. Em 2001, apenas 6,6% deste
+segmento estava em situação de emigração. Em 2021, esta percentagem tinha quase duplicado,
+para 12,0%. Esta evolução reflete, por um lado, o número crescente de jovens portugueses a estudar
+no estrangeiro, em particular na União Europeia (UE). Por outro lado, a decisão de emigração surge
+cedo no ciclo de vida dos jovens, quer para aqueles que terminam a escolaridade obrigatória quer
+para aqueles com formação superior.2
+Quadro 1 • Jovens com naturalidade portuguesa por escalão etário e residência | Milhares
+e percentagem
+2001 2011 2021
+15–34 anos
+Nascidos em Portugal (1) 3154 2585 2244
+Residentes nascidos em Portugal (2) 2729 2295 1906
+Emigrantes nascidos em Portugal (3)=(1)-(2) 426 290 338
+Taxa de emigração (15 a 34 anos) (4)=(3)/(1)*100 13,5 11,2 15,1
+15–24 anos
+Nascidos em Portugal (1) 1462 1132 1117
+Residentes nascidos em Portugal (2) 1365 1038 984
+Emigrantes nascidos em Portugal (3)=(1)-(2) 97 93 134
+Taxa de emigração (15 a 24 anos) (4)=(3)/(1)*100 6,6 8,2 12,0
+25–34 anos
+Nascidos em Portugal (1) 1692 1453 1128
+Residentes nascidos em Portugal (2) 1363 1256 923
+Emigrantes nascidos em Portugal (3)=(1)-(2) 329 197 205
+Taxa de emigração (25 a 34 anos) (4)=(3)/(1)*100 19,4 13,5 18,2
+Fontes: INE (residentes em Portugal) e Eurostat (número de nados-vivos nascidos de mães residentes em Portugal e óbitos em Portugal por idade). Cálculos
+do Banco de Portugal.
+e
+u
+q
+a
+ts
+e
+d
+2 De acordo com a Comissão Europeia, em 2022 a taxa de mobilidade de saída para fins de aprendizagem no ensino superior era de 9,3% em m
+e
+Portugal, abaixo da média da UE (11,0%). Considerando apenas a mobilidade de maior duração conducente a um diploma, a percentagem em a
+m
+Portugal era superior à da média da UE (5,1% e 4,3%, respetivamente) (Comissão Europeia, 2025). e
+T
+39
+
+[Página 42]
+Relativamente ao segmento dos 25 aos 34 anos, existiam 205 mil emigrantes em 2021, o que compara
+com 197 mil em 2011 e 329 mil em 2001. A taxa de emigração neste escalão foi de 18,2% em 2021,
+claramente superior à observada em 2011 (13,5%) e ligeiramente inferior à de 2001 (19,4%). A
+comparação entre estes três anos merece duas observações. Em primeiro lugar, os emigrantes jovens
+em 2001 refletem ainda fluxos de emigração antes do 25 de abril de 1974, incluindo decisões familiares
+de emigração. Assim, uma parte relevante dos emigrantes jovens observados em 2001 terão saído do
+país ainda na infância. Em segundo lugar, os valores para 2021 estão influenciados pelos fortes fluxos
+de emigração entre 2011 e 2014, durante o Período de Assistência Económica Financeira. Ainda assim,
+mesmo subtraindo dos emigrantes jovens em 2021 um majorante para o “excesso de emigração” entre
+2011–14, estimado comparando estes fluxos com a média dos anos seguintes, tal implicaria uma
+diminuição da taxa de emigração neste segmento inferior a 2 pp3.
+Uma caraterização dos emigrantes jovens
+Esta secção procura caraterizar os emigrantes jovens portugueses em termos de países de destino, sexo
+e escolaridade. A análise foca-se no escalão etário entre os 25 e os 34 anos, por duas razões. Por um lado,
+numa análise por idade (ano a ano), corresponde a um intervalo de maior estabilidade dos fluxos de
+emigração jovem. Por outro lado, este escalão permite fazer uma análise mais fiável da questão da
+escolaridade, dado que o percurso escolar já terá terminado na quase totalidade dos casos.
+A abordagem demográfica da última secção permite estimar o número de emigrantes jovens, mas não
+fornece qualquer informação sobre as suas caraterísticas. Nesse sentido, esta secção apresenta uma
+abordagem alternativa, baseada na informação dos Censos dos países de destino, e será aqui
+designada de “abordagem por contraparte”. Esta análise, muito intensiva em recolha de informação,
+tem duas fragilidades principais. Em primeiro lugar, a informação disponível não permite abarcar todos
+os países de destino da emigração portuguesa. Ainda assim, os países considerados facultam uma boa
+cobertura do número de emigrantes jovens, em particular nas décadas mais recentes. São eles: os
+Estados-Membros da União Europeia, Reino Unido, Suíça, Noruega, Islândia, Andorra, EUA, Canadá,
+Brasil, Venezuela, Angola, Moçambique, África do Sul, Macau e Austrália. Em segundo lugar, nem todos
+os países adotam as mesmas opções metodológicas e datas nas recolhas dos Censos. Pontualmente,
+foi necessário tomar opções metodológicas para harmonizar os dados, nomeadamente em termos de
+estrutura etária, adoção do critério de cidadania em vez de naturalidade e definição dos graus de
+escolaridade. A comparabilidade entre os países europeus será sempre mais fidedigna, dado que
+5 a grande maioria segue um sistema harmonizado no âmbito do Eurostat.
+2
+0
+2
+o
+O quadro 2 apresenta o número de emigrantes jovens na abordagem por contraparte. Os resultados
+r
+b são consistentes com os da abordagem demográfica na secção anterior. De acordo com os Censos de
+u
+tu
+O contraparte analisados, havia 193 mil jovens nascidos em Portugal a residir nesses países em 2021
+o
+• (195 mil em 2011 e 275 mil em 2001). Face à abordagem anterior, estes valores são próximos nos anos
+c im mais recentes, mas são substancialmente inferiores em 2001. Este facto deverá estar relacionado com
+ó n uma subestimação da emigração jovem nos países africanos de língua oficial portuguesa nesse ano.
+o
+c E Em termos de grandes regiões, destaca-se o peso dominante e crescente dos países europeus, que
+m
+ite ascendia a perto de 90% em 2021.
+lo
+B
+la
+•
+g
+u
+tr
+o P 3 A estimativa de “excesso de emigração” foi obtida comparando os fluxos de emigração em 2011-14 com a média observada nos anos seguintes
+e
+d (apenas para as idades que, em 2021, teriam entre 25 e 34 anos), assumindo que estes jovens não retornaram a Portugal até 2021. Por exemplo,
+o
+c no caso dos jovens dos 15 aos 24 anos, a média anual da emigração permanente entre 2011 e 2014 foi de 11,6 mil, o que compara com 8,3 mil
+n
+a B no período 2015 a 2019, um valor 40% superior.
+40
+
+[Página 43]
+Quadro 2 • Emigrantes jovens (25 a 34 anos) nascidos em Portugal por área de destino |
+Milhares e percentag
+2001 2011 2021
+Europa (1) 204 161 170
+EUA e Canadá (2) 52 21 13
+Brasil e Venezuela (3) 9 4 3
+Angola, Moçambique e África Sul (4) 7 6 6
+Macau e Austrália (5) 3 2 1
+SOMA (6) = (1)+…+(5) 275 195 193
+Taxa de emigração (abordagem por contraparte) 16,3 13,4 17,1
+Por memória: Taxa de emigração (abordagem demográfica) 19,4 13,5 18,2
+Fontes: Eurostat (Census Hub), OCDE (DIOC), ONS (RU), U.S. Census Bureau, OBMigra (Brasil), Governo de Andorra, Estatísticas de Macau, UNdata, Observatório da
+Emigração (Relatórios de 2015 e 2024 e dados por país extraídos a 21-08-2025), cálculos do Banco de Portugal. | Notas: A Europa inclui os países da UE, Suíça,
+Noruega e Islândia (fonte Eurostat), Reino Unido e Andorra. A taxa de emigração (abordagem por contraparte) é calculada pelo rácio entre o número de emigrantes
+jovens obtido nos Censos dos países de destino e o total dos nascidos em Portugal (apresentado no quadro 1) multiplicado por 100.
+O gráfico 2 apresenta informação mais detalhada dos principais países de destino da emigração jovem
+entre os 25 e os 34 anos.4 Em 2021, destaca-se a França, com 48 mil emigrantes, seguida do Reino Unido
+e Suíça, acima dos 30 mil, e Espanha, Alemanha e Luxemburgo em torno dos 10 mil emigrantes. Esta
+ordenação manteve-se relativamente estável na última década, sobressaindo o aumento dos emigrantes
+jovens para o Reino Unido, bem como a redução para a Suíça e Espanha.
+Gráfico 2 • Distribuição dos emigrantes jovens (25 a 34 anos) nascidos em Portugal pelos
+principais países de destino, em 2011 e 2021 | Milhares
+Fontes: Eurostat (Census Hub), OCDE (DIOC), ONS (RU), U.S. Census Bureau, UNdata, Governo de Andorra, cálculos do Banco de Portugal. | Nota: Países
+apresentados por ordem decrescente de 2021.
+e
+u
+q
+a
+ts
+e
+d
+m
+e
+4 Note-se que a ordenação dos principais países para o escalão etário dos 15 aos 24 anos é idêntica. Neste escalão etário, o número de emigrantes a
+m
+portugueses em 2021 ascendia a 31 mil em França, 28 mil no Reino Unido e 18 mil na Suíça. e
+T
+41
+
+[Página 44]
+Em termos do sexo, a emigração portuguesa tem sido historicamente dominada pelos homens
+(Observatório da Emigração, 2025), mas a evidência mais recente aponta para um maior equilíbrio
+entre homens e mulheres. Centrando nos países europeus, a percentagem de mulheres no stock de
+emigrantes com idades entre 25 e 34 anos em 2021 era cerca de 47% (calculado com base na média
+ponderada dos países com informação disponível). Para o segmento etário entre os 15 e os 24 anos,
+o stock de emigrantes jovens em 2021 já era paritário entre homens e mulheres. Esta evolução estará
+também relacionada com uma maior escolaridade das mulheres face aos homens, o que deverá
+contribuir para uma maior mobilidade relativa.
+Uma questão importante na caraterização dos emigrantes jovens é avaliar as suas qualificações.
+A saída de jovens qualificados é muitas vezes apontada como sinal de uma “fuga de cérebros” na
+economia portuguesa. Se confirmada, esta poderia ser uma restrição ao crescimento potencial da
+economia portuguesa. Mesmo assim, tal apenas ocorreria se não existisse um retorno posterior destes
+emigrantes, ainda durante a vida ativa. Neste caso, poder-se-ia mesmo verificar a situação contrária,
+tendo em conta a acumulação de capital humano no estrangeiro, tipicamente em economias com
+níveis superiores de qualificações e uma organização mais eficiente dos fatores produtivos (C. Batista
+et al., 2025).
+Para avaliar a evolução das qualificações dos emigrantes jovens, é importante começar por relembrar
+a melhoria sem precedentes das qualificações da população jovem em Portugal nestas duas décadas.
+Tendo por base a informação dos Censos, em 2001, apenas 15% dos jovens nascidos e residentes em
+Portugal entre 25 e 34 anos de idade tinha o ensino superior completo (Gráfico 3). Esta percentagem
+subiu para 39% em 2021. Em contraste, a fração dos jovens naquele escalão etário sem o ensino
+secundário completo situava-se em 65% em 2001, descendo para 24% em 2021. A evolução das
+qualificações dos emigrantes jovens deve ser lida à luz desta transição educacional acentuada.
+Na abordagem por contraparte, é possível identificar a escolaridade dos emigrantes jovens nos principais
+países de destino da emigração portuguesa. A representatividade deste conjunto de países, em
+termos do número de emigrantes jovens, varia consoante os anos, mas é sempre muita elevada.
+O gráfico 3 confirma que as qualificações dos emigrantes jovens portugueses aumentaram também de
+forma acentuada nestas duas décadas. Em 2001, 12% dos emigrantes tinha o ensino superior completo
+e 53% não tinha completado o ensino secundário. Em 2021, a fração de emigrantes com ensino superior
+era de 31% e a dos indivíduos sem o ensino secundário tinha diminuído para 35%. Em 2021, os
+emigrantes jovens repartiam-se de forma equilibrada entre os três níveis de escolaridade.
+5
+2
+0
+2 Comparando estes pesos com os da população jovem nascida e residente em Portugal, observa-se que
+o
+r
+b o peso dos emigrantes jovens com ensino superior sempre foi inferior ao da população residente
+u
+tu
+O (em 2021, 31% face a 39%) e que o peso dos emigrantes com menos qualificações era superior em 2021
+o
+• (35% face a 24%). Assim, a decisão de emigrar não parece estar enviesada para os jovens com maiores
+c im qualificações, dado que os jovens mais qualificados estão menos representados entre os emigrantes
+ó
+n do que nos jovens residentes em Portugal.
+o
+c
+E
+m É importante notar que as qualificações dos emigrantes variam significativamente por país de destino
+ite
+lo (Quadro 3). Os emigrantes em países com maiores comunidades emigrantes estabelecidas tendem,
+B
+la
+•
+e
+R
+m
+ein
+m
+o
+é
+U
+d
+n
+ia
+id
+, a
+o ,
+t e
+E
+r
+s p
+m
+a
+e
+n
+n
+h
+o
+a
+r e
+e
+s
+E
+q
+U
+u
+A
+a
+,
+li
+m
+fic
+a
+a
+is
+ç õ
+d
+e
+e
+s ,
+u
+c
+m
+om
+te
+o
+r ç
+s
+o
+ã o
+d o
+o
+s
+s
+e
+ca
+m
+s
+i
+o
+g
+s
+r a
+d
+n
+a
+t e
+F
+s
+ra
+jo
+n
+v
+ç
+e
+a
+n
+e
+s
+d
+n
+a
+a s
+S
+c
+u
+i
+í
+d
+ç
+o
+a.
+s
+P
+e
+e
+m
+lo
+P
+c
+o
+o
+r
+n
+t
+t
+u
+r
+g
+á
+a
+ri
+l
+o
+t
+,
+ê
+n
+m
+o
+g
+u
+tr ensino superior.
+o
+P
+e
+d
+o
+c
+n
+a
+B
+42
+
+[Página 45]
+Gráfico 3 • Distribuição dos jovens (25 a 34 anos) nascidos em Portugal por residência e nível
+de escolaridade máximo atingido | Percentagem do total em cada país
+Fontes: INE, Eurostat, OCDE, Instituto Nacional de Estadística (Espanha), INSEE (França), ONS (RU), FSO (Suíça), STATEC (Luxemburgo), StatBel (Bélgica),
+U.S. Census Bureau, UNdata. | Notas: Os níveis completos de escolaridade correspondem a ISCED 0-2 (básico), ISCED 3-4 (secundário) e ISCED 5-8
+(superior). A representatividade da amostra em relação aos países de destino considerados varia consoante os anos: 90% em 2001, 94% em 2011 e 86%
+em 2021.
+Quadro 3 • Distribuição dos emigrantes jovens (25 a 34 anos) por países de destino e nível
+de escolaridade máximo atingido, 2021 | Percentagem do total em cada país
+Básico Secundário Superior
+França 38,6 39,3 22,1
+Reino Unido 29,0 25,6 45,4
+Suíça 39,5 38,5 22,0
+Espanha 37,0 19,9 43,1
+Luxemburgo 24,8 42,9 32,3
+EUA 19,0 44,1 36,9
+Bélgica 45,2 31,5 23,4
+Fontes: Eurostat, OCDE, Instituto Nacional de Estadística (Espanha), INSEE (França), ONS (RU), FSO (Suíça), STATEC (Luxemburgo), StatBel (Bélgica), U.S. Census
+Bureau. | Nota: No caso da Suíça (peso de 7% no total), a distribuição por escolaridade foi considerada proporcional à dos jovens (25 a 34 anos) com nacionalidade
+portuguesa e residentes na Suíça.
+Uma discussão das motivações para a escolha
+dos destinos de emigração
+As motivações para emigrar são multidimensionais e cada decisão tem subjacente uma história
+distinta. Ainda assim, a literatura identifica um conjunto de fatores que tipicamente determina a decisão
+de emigrar e a escolha do destino (OECD, 2020). Em primeiro lugar, ressalta a comparação entre o país
+de origem e o país de destino em termos de oportunidades de emprego, níveis de salários, e condições
+de vida, no presente e no futuro. A situação relativa nos mercados de trabalho é assim fundamental,
+e
+o que também justifica a ciclicidade observada nos fluxos migratórios. Em segundo lugar, a proximidade u q
+a
+geográfica e cultural — incluindo a língua —, a presença de comunidades já instaladas e a existência ts
+e
+d
+de políticas de acolhimento são também fatores importantes. Finalmente, o nível de escolaridade dos m
+e
+indivíduos é também relevante, na medida em que condiciona a capacidade de suportar os custos a
+m
+associados à deslocação e o retorno esperado do investimento em capital humano. e
+T
+43
+
+[Página 46]
+Na União Europeia, a liberdade de circulação de pessoas é um pilar fundamental do mercado interno,
+consagrada no artigo 45.º do Tratado sobre o Funcionamento da União Europeia. Este princípio garante
+a todos os cidadãos da União o direito de se deslocarem, residirem e trabalharem livremente em
+qualquer Estado-Membro, em condições de igualdade com os nacionais desse país. A União Europeia
+tem também acordos que garantem direitos de circulação nos países do Espaço Económico Europeu
+e na Suíça. Existe assim um forte incentivo a que a emigração portuguesa se centre neste vasto
+conjunto de países europeus.
+Nesta secção, procura-se analisar as decisões sobre os países de destino dos jovens portugueses
+no espaço europeu, com base num modelo econométrico (Mayda, 2010). O modelo relaciona, para
+o ano de 2021, o stock de emigrantes jovens portugueses (25 a 34 anos) em 29 países europeus5
+com quatro variáveis: (i) a remuneração média em cada país, líquida de impostos, controlando pelos
+diferentes níveis de preços em cada país (ou seja, em paridades de poder de compra); (ii) as redes
+estabelecidas pelas comunidades portuguesas emigrantes; (iii) a dimensão de cada país, medida
+pela população residente e (iv) a distância física entre Portugal e cada um dos países, medida pela
+distância entre as respetivas capitais. Note-se que, no conjunto de países considerado (com exceção
+do Reino Unido a partir de 1 de janeiro de 2021), existe liberdade de circulação de pessoas, pelo que
+este é um fator comum na decisão de virtualmente todos os emigrantes da amostra. A expetativa
+é que o número de emigrantes jovens aumente nos países com maiores salários líquidos (controlando
+pelo nível de preços), aumente com a dimensão das comunidades (por facilitarem a integração dos
+novos emigrantes), aumente com a população do país de destino (dada a maior capacidade de
+acolhimento de imigrantes) e diminua com a distância física (dada a menor proximidade e os maiores
+custos de deslocação). Os dados de emigrantes jovens em cada país correspondem aos subjacentes
+ao gráfico 2. Como referido na secção anterior, os 29 países incluídos na regressão abarcam a quase
+totalidade dos emigrantes portugueses jovens neste escalão etário em 2021.
+Dado que as comunidades emigrantes estão muito correlacionadas com o stock de novos emigrantes,
+é necessário usar metodologias econométricas que identifiquem o contributo específico das redes
+formadas por aquelas comunidades.6 Os resultados da regressão encontram-se no quadro 4.
+As variáveis surgem em geral com forte significância estatística e com o sinal esperado. Como as variáveis
+estão em logaritmos, os coeficientes estimados correspondem a elasticidades. Assim, um aumento de
+1% no rendimento líquido em paridades de poder de compra está associado a um aumento de 1,0% no
+número de emigrantes jovens; um aumento de 1% nas redes formadas pelas comunidades emigrantes
+está associado a um aumento de 0,8% no número de emigrantes jovens e um aumento de 1% na
+5 distância está associado a uma diminuição de 0,3% no número de emigrantes jovens. A população do
+2
+0 país de destino surge com o sinal certo, mas não estatisticamente significativo, o que sugere que o efeito
+2
+o
+r da dimensão do país já poderá estar captado pela escala de algumas comunidades emigrantes.
+b
+u
+tu
+O
+o
+•
+c
+im
+ó
+n
+o
+c
+E
+m
+ite 5 Os países considerados foram todos os que dispõem de informação no Eurostat (adicionados do Reino Unido): Bélgica, Bulgária, Chéquia,
+lo Dinamarca, Alemanha, Estónia, Irlanda, Grécia, Espanha, França, Croácia, Itália, Chipre, Letónia, Lituânia, Luxemburgo, Hungria, Malta, Países
+B
+la
+•
+B
+6
+a
+C
+i
+o
+xo
+m
+s
+o
+, Á
+o
+u s
+s
+t
+to
+ri
+c
+a
+k
+,
+t
+E
+o
+s
+t
+l
+a
+o
+l
+v
+d
+é
+e
+n i
+e
+a
+m
+, E
+ig
+sl
+r
+o
+a
+v
+n
+á
+t
+q
+es
+u i
+n
+a
+u
+,
+m
+Fin
+d
+lâ
+e
+n
+te
+d
+r
+i
+m
+a,
+i n
+S
+a
+u
+d
+é
+o
+ci a
+p
+,
+a
+P
+ís
+o l
+t
+ó
+e
+n
+m
+ia
+u
+,
+m
+Isl
+a
+â n
+fo
+d
+r
+i
+t
+a
+e
+,
+e
+N
+n
+o
+d
+r
+o
+u
+g
+e
+e
+g
+n
+a
+e
+e
+i d
+S
+a
+u
+d
+íç
+e
+a
+c
+.
+om o stock de novos emigrantes, recorreu-se a uma
+g
+u
+tr estimação com variáveis instrumentais. Usou-se como instrumento das redes formadas pela comunidade de emigrantes o stock atual de
+o
+P emigrantes com 65 ou mais anos em cada país. Deste modo, assume-se que a presença de emigrantes portugueses mais velhos não influencia
+e
+d diretamente os fluxos de jovens migrantes hoje, exceto através do seu impacto na rede formada pela comunidade. Esta hipótese é validada na
+o
+c estimação. Um instrumento alternativo poderia ser o stock de emigrantes com 45 ou mais anos em cada país em 2001. A utilização deste
+n
+a B instrumento gera resultados idênticos em termos estatísticos aos apresentados no texto.
+44
+
+[Página 47]
+Uma extensão importante do exercício seria perceber se estes determinantes são igualmente
+fortes para os diferentes níveis de qualificações dos emigrantes. Infelizmente, este exercício não
+é possível com a informação disponível, dado que o número de países para os quais existe
+a decomposição dos emigrantes por qualificações em 2021 é relativamente pequeno.
+Quadro 4 • Número de emigrantes jovens portugueses (25 a 34 anos) em 2021 (em logaritmos)
+face ao rendimento, rede estabelecida pelas comunidades emigrantes, população e distância
+para o país de destino
+Variáveis Coeficiente Significância Descrição da variável
+explicativas estimado estatística
+Rendimento líquido em PPC 1,00 *** Rendimento líquido de um solteiro sem filhos que aufere o salário
+médio na economia (média 2011–21), em logaritmos
+Comunidade de emigrantes 0,75 *** Número total de emigrantes portugueses, usando como instrumento
+o número de emigrantes com 65 ou mais anos, em logaritmos
+População 0,09 - População (em logaritmos)
+Distância -0,33 * Distância entre Lisboa e a capital de cada país (em logaritmos)
+Constante -8,43 ***
+Número de observações: 29
+Significância estatística: *** (1%); ** (5%); * (10%); - (15%)
+Teste da primeira etapa da regressão por variáveis instrumentais: F(1,24)=79,5 e R2 parcial = 0,62
+Os testes de endogeneidade rejeitam a hipótese nula de exogeneidade, a uma significância de 1%
+Fontes: Eurostat, ONS (RU), US Census Bureau, cálculos do Banco de Portugal.
+Globalmente, a regressão revela o forte papel conjunto da presença de comunidades emigrantes e das
+diferenças de rendimento real na decisão de país de destino dos emigrantes jovens. Note-se também
+que as diferenças de rendimento têm sido muito persistentes ao longo do tempo (Gráfico 4). Deste
+modo, nos últimos 25 anos, os incentivos à emigração jovem não deverão ter sido alterados, em termos
+substantivos, por processos estruturais de divergência ou convergência de Portugal face aos restantes
+países europeus.
+Gráfico 4 • Rendimento líquido de um solteiro sem filhos que aufere o salário médio na
+economia, em paridades de poder de compra: 2000 e 2024 | Portugal = 100 em cada um dos anos
+e
+u
+q
+a
+ts
+e
+d
+m
+e
+a
+m
+Fonte: Eurostat. | Nota: No caso do Reino Unido, o valor de 2024 corresponde a 2019. e
+T
+45
+
+[Página 48]
+Comparação internacional das taxas de emigração
+dos jovens para a Europa
+Como referido, a taxa de emigração do total da população portuguesa é historicamente das mais
+elevadas da Europa. Nesta secção apresenta-se uma comparação internacional das taxas de emigração
+jovem (25 a 34 anos), a partir do stock observado em 2021 e em 2011. A comparação é realizada apenas
+para os países constantes na base de dados do Eurostat (e Reino Unido). Dadas as restrições de
+informação, a análise centra-se apenas nos emigrantes que residem em países europeus. Nesta
+abordagem, Portugal destaca-se com uma das taxas de emigração jovem para a Europa mais altas,
+a qual aumentou entre 2011 e 2021 (Gráfico 5). A crise económica em 2011–13, sem paralelo na
+generalidade dos países europeus, é um dos fatores importantes para explicar esta evolução.
+O aumento da taxa de emigração jovem na última década foi também observado na maioria dos países
+europeus (Gráfico 5). Sublinhe-se que fica em aberto a questão sobre o grau de retorno destes jovens
+ao longo do ciclo de vida.
+Gráfico 5 • Taxa de emigração jovem (25 a 34 anos) para países europeus, em 2011 e 2021
+| Em percentagem da população jovem natural e residente na Europa
+Fontes: Eurostat (Census Hub) e ONS (RU). | Notas: Os países europeus de origem apresentados são aqueles para os quais existem dados no Eurostat
+5
+por escalão etário (UE e Suíça) e o Reino Unido, e estão ordenados por ordem decrescente da taxa de emigração em 2021. Os países europeus de destino,
+2 0 incluem, para além destes, a Islândia e a Noruega. Em 2021, a emigração para o RU só está disponível para os seguintes países europeus individualizados
+2
+o
+- IRL, FR, DE, IT, PT, ES, LT, PL e CR -, pelo que a taxa de emigração pode estar subestimada nos restantes casos. A taxa de emigração é dada pelo rácio
+r b entre (i) número de naturais de um país emigrados e (ii) a soma destes com os naturais do país e residentes no país de origem (x100).
+u
+tu
+O
+o
+•
+Os fluxos de emigração permanente dos jovens
+c
+im
+ó
+n nos últimos anos
+o
+c
+E
+m
+ite A análise das secções anteriores baseou-se nos stocks de emigração nos anos dos Censos. Nesta
+lo
+secção, explora-se a informação disponível no INE relativamente aos fluxos brutos de emigração
+B
+la
+• permanente de jovens. Note-se que esta evidência está disponível por nacionalidade e não por
+g naturalidade. O gráfico 6 apresenta a evolução até 2024 do número de emigrantes permanentes de
+u
+tr
+o nacionalidade portuguesa (ou seja, os nacionais que passaram a residir noutro país com a intenção
+P
+e de aí ficar por um período igual ou superior a um ano). O gráfico sugere que o número de emigrantes
+d
+o permanentes de nacionalidade portuguesa, com idades entre 15 e 34 anos, estabilizou em cerca de
+c
+n
+a 20 mil em 2024, claramente abaixo dos fluxos registados nos anos do Programa de Assistência
+B
+46
+
+[Página 49]
+Económica e Financeira. No entanto, um conhecimento mais profundo desta questão exigiria
+informação sobre o possível retorno destes jovens emigrantes permanentes e sobre o momento do
+retorno efetivo dos jovens emigrantes classificados como temporários (por terem originalmente
+a intenção de residir no estrangeiro por menos de um ano).
+Gráfico 6 • Fluxos de emigração permanente dos jovens de nacionalidade portuguesa | Em
+milhares
+Fontes: INE, cálculos do Banco de Portugal.
+Conclusões
+Este Tema em destaque apresentou uma quantificação e uma caraterização do stock de emigrantes
+jovens ao longo das últimas décadas. Em 2021, 18,2% da população nascida em Portugal com 25
+a 34 anos estava emigrada. Este valor compara com 19,2% em 2001 e com 13,5% em 2011. Estima-
+se que a Europa seja o destino largamente prioritário dos emigrantes jovens entre 25 e 34 anos,
+para o que contribui o regime de liberdade de circulação no espaço europeu, promotor de uma
+melhor afetação das qualificações da força de trabalho. Na decisão de emigração dos jovens
+portugueses são elementos fundamentais as diferenças persistentes e substanciais de rendimento
+líquido (controlando pelo custo de vida) — decorrentes do processo de convergência lento e tardio da
+economia portuguesa face aos países europeus com maior rendimento —, bem como a existência de
+importantes comunidades emigrantes. A emigração jovem é relativamente equilibrada em termos de
+homens e mulheres. No que se refere às qualificações, a fração dos emigrantes jovens com ensino
+superior é bastante maior que no passado, mas inferior à fração dos jovens nascidos e residentes em
+Portugal com ensino superior. Em termos de comparação no quadro europeu, Portugal surge como
+um dos países com maior taxa de emigração jovem para a Europa, avaliada em termos de stocks.
+Num contexto em que a população jovem portuguesa diminuiu acentuadamente nas últimas décadas,
+a emigração dos jovens é um tópico muito relevante. As implicações para o crescimento de longo prazo
+da economia portuguesa não podem ser aferidas apenas pela observação dos fluxos de saída de jovens
+e
+u
+do país e respetivos stocks. É crucial complementá-la com os fluxos de regresso dos portugueses. q
+a
+Adicionalmente, é preciso conjugar esta informação com os fluxos de entrada de estrangeiros e a sua
+ts
+e
+d
+integração no mercado de trabalho, bem como com a participação plena de Portugal no processo m
+e
+de integração europeia. Como tem sido documentado, os trabalhadores estrangeiros têm sustentado a
+m
+o crescimento do emprego nos anos mais recentes, apresentando uma idade mediana de 33 anos e
+T
+47
+
+[Página 50]
+(Banco de Portugal, 2024). A interação entre todas estas dinâmicas deve ser prioritária na recolha
+estatística e na subsequente análise económica.
+Referências
+Banco de Portugal (2023), “Demografia em Portugal: cenários para o século XXI.”, Tema em destaque
+do Boletim Económico de junho
+Banco de Portugal (2024), “Caraterização dos trabalhadores estrangeiros por conta de outrem em
+Portugal.”, Tema em destaque do Boletim Económico de junho
+Batista, C., Han, D., Haushofer, J., Khanna, G., McKenzie, D., Mobarak, A. M., Theoharides, C. e Yang, D.,
+(2025), “Brain drain or brain gain? Effects of high-skilled international emigration on origin countries.”
+doi: 10.1126/science.adr8861
+Comissão Europeia (2025), Education and Training Monitor, Edição 2024
+EUROSTAT (2025a), Portal do Eurostat. Demography
+EUROSTAT (2025b). Portal do Eurostat. Population and Housing Census: 2001, 2011, 2021
+INE (2025a). Portal do Instituto Nacional de Estatística. Censos da população: 2001, 2011 e 2021
+INE (2025b). Portal do Instituto Nacional de Estatística. Estatísticas demográficas: fluxos de emigração
+permanente
+Mayda, A. M. (2010), “International migration: a panel data analysis of the determinants of bilateral
+flows.”, Journal of Population Economics, 23, (pp 1249-1274)
+Nações Unidas (2020), International migrant stock 1990-2020: Age, sex and destination. DESA Population
+Division (Base de dados)
+Observatório da Emigração (2025), Relatório Anual (várias edições)
+OCDE (2025a), Database on Immigrants in OECD and non-OECD Countries, Anos de referência: 2000/1,
+2010/1, 2020/1 (provisória)
+OCDE (2025b), International Migration Outlook (várias edições)
+5
+2
+0
+2
+o
+r
+b
+u
+tu
+O
+o
+•
+c
+im
+ó
+n
+o
+c
+E
+m
+ite
+lo
+B
+la
+•
+g
+u
+tr
+o
+P
+e
+d
+o
+c
+n
+a
+B
+48
+
+[Página 51]
+III Políticas em análise
+As medidas com incidência em empréstimos à
+habitação no contexto de subidas nas taxas de juro
+
+[Página 53]
+As medidas com incidência
+em empréstimos à habitação
+no contexto de subidas nas
+taxas de juro1
+As taxas de juro de referência do BCE aumentaram de -0,5% no terceiro trimestre de 2022 para 4,0%
+no terceiro trimestre de 2023, após terem permanecido em -0,5% desde o terceiro trimestre de
+2019. Esta trajetória, que refletiu a orientação restritiva da política monetária, terminou no segundo
+trimestre de 2024, iniciando-se então uma sequência de descidas das taxas de juro.
+No mercado de crédito à habitação em Portugal, a predominância de contratos com taxa variável expôs
+os devedores a aumentos significativos das prestações entre 2022 e 2024. Foram implementadas
+várias medidas com o objetivo de mitigar temporariamente o impacto do aumento das taxas de juro
+nos devedores. As medidas incentivaram renegociações de contratos de crédito, reembolsos antecipados
+e transferências de contratos para outras instituições financeiras. Este Políticas em análise avalia a adoção
+e o impacto destas medidas no mercado de crédito à habitação em Portugal.
+Foram implementadas medidas para mitigar os efeitos
+da subida acentuada das taxas de juro em 2022–23.
+A taxa de juro média dos contratos de crédito à habitação em carteira no sistema bancário português
+aumentou de 0,9% no primeiro trimestre de 2022 para 4,7% no quarto trimestre de 2023 (Gráfico 1).
+A transmissão da política monetária foi particularmente rápida em Portugal, dado que 93% da carteira
+de crédito em 2021 tinha taxa de juro variável na vigência do contrato.
+A subida das taxas de juro levou à implementação de diversos atos legislativos, tendo os primeiros
+entrado em vigor ainda no quarto trimestre de 2022, um trimestre após o primeiro aumento das taxas
+de juro de referência (Quadro 1). Estas medidas foram desenhadas para abranger os agregados
+familiares mais afetados, com critérios de elegibilidade distintos e progressivamente ajustados
+(Quadro 2).
+e
+s
+ilá
+n
+a
+m
+e
+s
+a
+c
+1 Preparado por Gil Nogueira e Sujiao Zhao.
+itílo
+P
+51
+
+[Página 55]
+53
+esilána
+me
+sacitíloP
+Quadro 2 • Aplicabilidade das medidas
+Entrada Finalidade do Tipo de taxa Data de
+Medida Legislação em vigor empréstimo de juro Montante celebração Esforço financeiro Incumprimento
+Suspensão Decreto-Lei n.º 80-A/2022 26-11-2022 Habitação própria e Taxa variável, incluindo Sem restrição Sem restrição Sem restrição Sem restrição
+de comissão permanente: empréstimos de taxa
+Decreto-Lei n.º 91/2023 12-10-2023
+de reembolso - Aquisição/construção mista na fase de taxa
+antecipado Lei n.º 1/2025 07-01-2025 variável
+Promoção da Decreto-Lei n.º 80-A/2022 26-11-2022 Habitação própria e Taxa variável, incluindo ≤ 300 000 € Sem restrição - DSTI ≥ 36%, se DSTI aumentar mais de Elegível para o plano
+renegociação permanente: empréstimos de taxa 5 pp em 12 meses, ou taxa de juro de ação para o risco
+Lei n.º 24/2023 30-05-2023
+de contratos - Aquisição/construção mista na fase de taxa aumentar mais do que os valores previstos de incumprimento,
+variável† na regulamentação de avaliação de (PARI)
+solvabilidade; ou
+- DSTI ≥ 50%
+Resgate e Lei n.º 24-D/2022 01-01-2023 Habitação própria e Sem restrição Sem restrição Sem restrição Sem restrição Sem restrição
+planos de permanente:
+Lei n.º 24/2023 28-06-2023
+poupança - Aquisição/construção
+sem Lei n.º 82/2023 01-01-2024 - Obras
+penalização
+Concessão de Decreto-Lei n.º 20-B/2023 23-03-2023 Habitação própria e Taxa variável, incluindo ≤ 250 000 € ≤ 15 de - LSTI ≥ 35%, e; Sem prestações
+apoios ao permanente: empréstimos de taxa março de - Variação mínima de 3 pp na taxa de juro em atraso
+Decreto-Lei n.º 91/2023 12-10-2023
+pagamento - Aquisição/construção mista na fase de taxa 2023 indexante em alguns contratos (revogado), e;
+de prestações - Obras variável - Rendimento até sexto escalão de IRS ou
+rendimento até sexto escalão após quebra
+superior a 20% no rendimento, e;
+- Património financeiro ≤ 62x indexante de
+apoios sociais (IAS)
+Fixação da Decreto-Lei n.º 91/2023 12-10-2023 Habitação própria e Taxa variável, incluindo Sem restrição ≤ 15 de Sem restrição Em cumprimento
+prestação permanente: empréstimos de taxa março de
+- Aquisição/construção mista na fase de taxa 2023
+- Obras variável
+Fonte: Diário da República. | Notas: Os critérios de aplicação das medidas não são exaustivos. Por “em cumprimento” entende-se que os devedores: (1) não estejam em mora ou incumprimento de prestações pecuniárias; (2) não se encontrem em situação de insolvência;
+(3) não estejam abrangidos por PARI ou PERSI (Procedimento Extrajudicial de Regularização de Situações de Incumprimento).
+
+[Página 56]
+As medidas beneficiaram mais os devedores com maior
+escolaridade e os contratos com ativos de garantia de valor
+mais elevado.
+Com base na Central de Responsabilidades de Crédito (CRC), é possível analisar as alterações realizadas
+aos contratos de crédito à habitação e caracterizar os respetivos devedores no período imediatamente
+anterior à implementação das medidas (2022 T1–2022 T3) e durante a sua vigência (2022 T4–2024 T2).
+Os dados não permitem identificar diretamente os indivíduos que beneficiaram das medidas e permitem
+apenas uma identificação limitada dos indivíduos com acesso às medidas. Face a estas restrições,
+a análise identifica os indivíduos potencialmente elegíveis para as medidas a partir das caraterísticas
+dos contratos de crédito.
+São considerados elegíveis os contratos para construção ou aquisição de habitação própria e permanente
+com taxa variável, incluindo contratos de taxa mista na fase de taxa variável. Na renegociação,
+consideram-se elegíveis apenas os contratos com montante vivo igual ou inferior a 300 mil euros.
+A definição de elegibilidade é limitada porque os dados não permitem observar todas as caraterísticas
+dos devedores (por exemplo, dados de rendimento no caso das renegociações) e porque medidas
+com condições de acesso diferentes podem incentivar alterações aos contratos (por exemplo, resgate
+de poupanças e suspensão de comissões no caso dos reembolsos antecipados).
+As alterações aos contratos analisadas são o reembolso antecipado (parcial ou total), a renegociação
+e a transferência de crédito para outras instituições financeiras. O número de alterações aumentou a partir
+do quarto trimestre de 2022, aquando do início da vigência das primeiras medidas de apoio (Gráfico 2).
+Gráfico 2 • Contratos de crédito à habitação com alterações às condições contratuais, para os
+contratos elegíveis e não elegíveis para medidas | Em percentagem do número de créditos à habitação
+5
+2
+0
+2
+o
+r
+b
+u
+tu
+O
+o
+•
+c
+im
+ó
+n
+o
+c
+E
+m
+ite Fonte: Cálculos do Banco de Portugal. | Notas: A amostra abrange todos os créditos à habitação reportados na Central de Responsabilidades de Crédito
+lo (CRC) regulados pelo Decreto-Lei n.º 74-A/2017.
+B
+la
+•
+g Entre os contratos elegíveis, a percentagem média de contratos com pelo menos uma alteração
+u
+tr
+o aumentou de 4,2% no quarto trimestre de 2022 para 7,5% no segundo trimestre de 2024. No mesmo
+P
+e período, a percentagem média de contratos com reembolso antecipado aumentou de 3,1% para 4,1%,
+d
+o c a percentagem de contratos renegociados passou de 1,0% para 2,6% e a percentagem de contratos
+n
+a B com transferência de crédito entre instituições aumentou de 0,2% para 0,7%.
+54
+
+[Página 57]
+55
+esilána
+me
+sacitíloP
+O gráfico 3 mostra que os devedores com alterações de contrato são, em média, mais novos do que
+a totalidade dos devedores com contratos elegíveis para as medidas, exceto no caso dos reembolsos,
+em que a idade é idêntica. Em termos de evolução temporal, a média etária dos devedores que fizeram
+alterações de contrato no período mais recente é inferior à dos que fizeram alterações antes da
+introdução das medidas. Nas renegociações e nas transferências de crédito, os devedores mais jovens
+terão incentivos mais fortes do que os devedores mais velhos a alterar contratos por terem mais capital
+em dívida, o que poderá justificar idades médias mais baixas. A idade média mais elevada nos reembolsos
+antecipados do que nas restantes alterações dos contratos é consistente com os indivíduos mais jovens
+possuírem menos poupanças acumuladas do que os mais velhos para o reembolso dos créditos,
+reduzindo a adoção das medidas entre os mais jovens.
+Gráfico 3 • Média etária e peso do ensino superior dos devedores de crédito à habitação
+elegíveis para as medidas de apoio | Em anos (Painel A) e percentagem (Painel B)
+Painel A — Idade média Painel B — Com ensino superior
+Fonte: Cálculos do Banco de Portugal. | Notas: Os gráficos apresentam valores médios em cada trimestre, obtendo-se posteriormente a média para os
+trimestres anteriores à adoção das medidas e à subida das taxas de juro (2022 T1–2022 T2) e para os trimestres em que as medidas estão em vigor
+(2022 T4–2024 T2). Na amostra, considera-se os devedores com registo de alterações aos contratos de crédito à habitação (“reembolso antecipado”,
+“renegociação” e “transferência”) e, separadamente, todos os devedores com registos de crédito à habitação na CRC que cumpram os critérios de
+elegibilidade para pelo menos uma das alterações contratuais (“devedores elegíveis”).
+Nos trimestres em que as medidas estiveram em vigor, a percentagem de devedores com ensino superior
+que efetuaram alterações contratuais foi superior à percentagem nos trimestres anteriores, sugerindo
+que os devedores com níveis mais elevados de escolaridade tiveram uma maior propensão para recorrer
+às medidas disponíveis. Em média 47,9% dos devedores que reembolsaram antecipadamente tinham
+concluído o ensino superior, valor semelhante ao verificado para os devedores que renegociaram (47,8%)
+e inferior ao verificado para os devedores que transferiram o crédito (63,5%), mas substancialmente
+superior ao valor verificado para o universo dos devedores elegíveis (36,5%). Nos trimestres de vigência
+das medidas, 15,0% dos devedores com ensino superior renegociaram contratos, 27,3% fizeram
+reembolsos antecipados e 6,5% realizaram transferências de créditos. Dentro dos devedores sem ensino
+superior, 9,1% renegociaram créditos, 17,8% fizeram reembolsos antecipados e 2,5% transferiram
+créditos. Embora o maior grau de adesão entre devedores com mais escolaridade possa refletir
+níveis mais elevados de literacia financeira, também levanta a possibilidade de efeitos mais acentuados
+entre devedores com mais rendimento, dado que a escolaridade tende a estar correlacionada com o nível
+de rendimento.
+O gráfico 4 sugere que os beneficiários das medidas apresentaram ativos subjacentes aos créditos
+com valor superior face ao conjunto dos devedores elegíveis. O valor médio dos ativos aumentou no
+período de vigência das medidas, destacando-se o caso das renegociações, onde existia um diferencial
+
+[Página 58]
+negativo face ao universo dos devedores elegíveis (-11 mil euros) que passou para um diferencial
+positivo de 22 mil euros. Este padrão sugere que os devedores que realizaram alterações nos seus
+contratos possuíam imóveis de maior valor.
+Gráfico 4 • Valor dos ativos dados como garantia para devedores de crédito à habitação | Em
+milhares de euros
+Fonte: Cálculos do Banco de Portugal. | Notas: Os gráficos apresentam valores médios em cada trimestre, obtendo-se posteriormente a média para os trimestres
+anteriores à adoção das medidas e à subida das taxas de juro (2022 T1–2022 T2) e para os trimestres em que as medidas estão em vigor (2022 T4–2024 T2). O valor
+estimado do imóvel é dado pelo valor inicial do somatório das garantias dadas no início do contrato, atualizado através do índice nominal de preços da habitação em
+Portugal disponibilizado pelo Bank of International Settlements (BIS). A amostra abrange os devedores com registo de alterações aos contratos de crédito à habitação
+(“reembolso antecipado”, “renegociação” e “transferência”) e, separadamente, todos os devedores com registos de crédito à habitação na CRC regulados pelo
+Decreto-Lei n.º 74-A/2017 que cumpram os critérios de elegibilidade para pelo menos uma das alterações contratuais (“devedores elegíveis”).
+As medidas incentivaram a realização de alterações
+contratuais no crédito à habitação, especialmente junto das
+famílias mais expostas à subida das taxas de juro.
+5
+2
+0
+2
+o
+r
+b Para avaliar a adesão às medidas de apoio comparam-se os contratos elegíveis e não elegíveis, após
+u
+tu
+O ajustamento para as caraterísticas dos devedores e dos contratos, bem como por diferenças
+o
+• pré-existentes entre os dois grupos. A análise permite concluir que as medidas implementadas
+c im incentivaram alterações contratuais no crédito à habitação (Gráfico 5, Painel A). O maior efeito observa-se
+ó n no reembolso antecipado, onde a probabilidade de adesão foi 1,7 pp superior para os devedores
+o
+c E elegíveis, seguido da renegociação (1,5 pp) e da transferência de créditos (0,6 pp). Estes resultados
+m
+ite sugerem que as medidas terão sobretudo incentivado alterações de contratos dentro da mesma
+lo instituição financeira (renegociações ou reembolsos). O efeito na mudança de instituição terá sido menor,
+B
+la
+• possivelmente devido a custos de procura de informação ou de transação mais elevados, ou à existência
+g de contrapropostas da instituição com a relação contratual vigente.
+u
+tr
+o P Dada a heterogeneidade na exposição das famílias aos choques de taxa de juro, é relevante avaliar se
+e
+d o impacto da política variou conforme o grau de sensibilidade a variações da taxa de juro dos devedores.
+o
+c n Para medir a variação da prestação, calcula-se a prestação com a taxa de juro atual e com a taxa de juro
+a
+B
+56
+
+[Página 59]
+acrescida em um ponto percentual, recorrendo à fórmula da amortização francesa. A sensibilidade
+corresponde à variação percentual da prestação entre estes dois cenários. O painel B do gráfico 5 mostra
+que as famílias mais expostas ao aumento das taxas de juro, isto é, aquelas cuja prestação mensal varia
+mais entre os dois cenários, registaram uma maior propensão para alterar os seus contratos. Destaca-se
+a renegociação, em que a um acréscimo da sensibilidade da prestação das taxas de juro em 10 pp se
+associou um aumento adicional de 3 pp na probabilidade de alteração. As estimativas têm significância
+económica, dado que a sensibilidade média da prestação às taxas de juro entre os devedores da amostra
+é de 10,1% e o desvio padrão de 5,4%. Também no reembolso antecipado (+0,8 pp) e na transferência de
+crédito (+1,6 pp) se observa um impacto positivo. Conclui-se que, entre as famílias mais expostas à subida
+das taxas de juro, a prioridade terá sido sobretudo aliviar a pressão financeira no curto prazo através
+da renegociação ou transferência do crédito, em detrimento da redução imediata da dívida por via do
+reembolso.
+Gráfico 5 • Probabilidade acrescida de alteração dos contratos elegíveis (face aos não elegíveis)
+e em função da elegibilidade e da exposição ao aumento da taxa de juro | Em pontos percentuais
+Painel A — Efeito médio Painel B — Variação do efeito por cada aumento
+de 10 pp da sensibilidade à taxa de juro
+Fonte: Cálculos do Banco de Portugal. | Notas: Este gráfico apresenta as estimativas e o intervalo de confiança a 95% para o coeficiente γ (Painel A) e θ
+(Painel B) das especificações seguintes: Painel A: Adoção = α + β ⋅ Elegível + γ ⋅ (Elegível × Pós) + δ ⋅ (Controlo × Pós) + Localização x Efeito fixo temporal + ε.
+it i i t i t it
+Painel B: Adoção= α + β ⋅ Elegível + β ⋅ Exposição + γ ⋅ (Elegível × Pós) + γ ⋅ (Exposição × Pós) + γ ⋅ (Elegível × Exposição) +θ⋅(Elegível × Exposição× Pós)
+it 1 i 2 i 1 i t 2 i t 3 i i i i t
++ δ ⋅ (Controlo × Pós) + Localização x Efeito fixo temporal + ε. Adoção é uma variável binária igual a 1 se a hipoteca i foi reembolsada antecipadamente,
+i t it it
+transferida ou renegociada. Elegível é um indicador que identifica se o contrato i era elegível para as medidas de apoio. Pós é o indicador do período pós-
+i t
+política. Exposição é a sensibilidade da prestação às taxas de juro, dada pela variação da prestação através da fórmula de amortização francesa, em função do
+i
+aumento hipotético da taxa de juro em 1 pp em 2022 T3. No Painel B, as estimativas são normalizadas para um aumento de 10 pp da prestação face a um
+aumento de 1 pp na taxa de juro. Controlo representa os controlos ao nível do contrato, invariantes no tempo e medidos em 2022 T3, incluindo escolaridade,
+i
+género, idade, indicador de nacionalidade estrangeira, LTV, logaritmo do montante do empréstimo e idade do empréstimo. A sensibilidade da prestação, o LTV,
+o montante do empréstimo e a idade do devedor são aparados aos níveis de 1% e 99%. Para facilitar a interpretação, os dados são agregados em duas
+observações por contrato, uma referente a todo o período pré-política (2022 T1–2022 T3) e outra ao período pós-política (2022 T4–2024 T2). A amostra
+exclui contratos com taxa fixa ao longo de todo o prazo contratual.
+Os reembolsos antecipados causaram reduções
+significativas das prestações, com reduções maiores entre
+os devedores elegíveis mais expostos às taxas de juro.
+e
+s
+ilá
+n
+a
+A subida das taxas de juro teve um impacto direto e significativo nas prestações mensais dos contratos m
+e
+de crédito à habitação com taxa variável, aumentando o esforço financeiro das famílias e, potencialmente, s
+a
+c
+o risco de incumprimento. Nesse contexto, torna-se essencial avaliar até que ponto as medidas de apoio itílo
+P
+57
+
+[Página 60]
+adotadas conseguiram aliviar os encargos mensais dos devedores e prevenir situações de incumprimento,
+com especial atenção para os devedores mais expostos a choques nas taxas de juro. A análise das
+prestações mensais nos contratos de crédito à habitação revela que as medidas de apoio adotadas em
+resposta à subida das taxas de juro tiveram impactos diferenciados entre os devedores, dependendo do
+tipo de ajustamento realizado ao contrato (Gráfico 6). A alteração dos contratos está associada à redução
+das prestações, principalmente no reembolso antecipado. Em média, no trimestre da realização do
+reembolso antecipado, a prestação reduziu-se em 22,0% entre os devedores elegíveis para as medidas
+e em 28,8% entre os restantes. Tendencialmente, as restrições de liquidez e os custos fixos (por exemplo,
+formalidades administrativas) afetam mais intensamente a decisão de realizar reembolsos antecipados
+para reembolsos de menor valor. A eliminação da comissão de reembolso antecipado poderá compensar
+estes custos e restrições de liquidez, incentivando a realização de reembolsos de pequena dimensão e
+contribuindo para reembolsos relativamente menores face ao montante em dívida entre os devedores
+elegíveis. Na renegociação, a variação da prestação é negativa mas próxima de zero (-1,4% nos devedores
+elegíveis e -3,4% nos não elegíveis). Este padrão é consistente com o facto de as mudanças habitualmente
+acordadas na renegociação, como a redução do spread, terem efeitos pequenos mas negativos na
+prestação. Na transferência de crédito, a variação média é negativa e pequena para os elegíveis (-1,3%)
+e positiva para os não elegíveis (1,2%), o que poderá decorrer de a transferência de crédito ser acompanhada
+de um aumento do montante em dívida.
+Gráfico 6 • Variação da prestação na data da alteração do contrato e variação da prestação em
+função da elegibilidade e da exposição ao aumento da taxa de juro | Em percentagem (aproximação
+logarítmica)
+Painel A — Efeito médio Painel B — Variação do efeito por cada aumento
+de 10 pp da sensibilidade à taxa de juro
+5
+2
+0
+2
+o
+r
+b
+u
+tu
+O Fonte: Cálculos do Banco de Portugal. | Notas: O painel A apresenta a variação percentual da prestação, por aproximação logarítmica, dada pela diferença do
+o c im
+• l
+m
+E
+o
+x
+g
+e
+p
+a
+n
+o
+r
+o
+s
+it
+i
+s
+m
+ç ã
+u
+o
+o
+m
+d
++
+a
+r e
+γ
+p
+g i
+r
+⋅
+s
+e
+t
+(
+o
+s
+E
+t a
+l
+d
+e
+ç
+e
+g
+ã
+í
+o
+v
+r
+e
+e
+,
+l
+e
+p
+m
+×
+a r
+b
+P
+a
+o
+ó
+a
+l
+s
+s
+l
+o
+)
+te
++
+r
+a
+a
+n
+γ
+ç
+t
+õ
+e
+⋅
+e
+c i
+s
+(
+p
+E
+r
+a
+x
+e
+p
+d
+a
+o
+o
+li
+s
+,
+z
+i
+a
+t
+ç
+r
+d
+ã
+a
+o
+a
+n
+s
+s
+×
+f
+e
+e
+P
+m
+rê
+ó
+n
+s
+2
+c
+)
+0
+i a
+2
++
+2
+o
+γ
+u
+T 4
+⋅
+r
+–
+(
+e
+E
+2
+n
+l
+0
+e
+e
+2
+g
+g
+4
+í
+o
+v
+c
+e
+T
+i
+l
+a
+2
+ç
+.
+×
+ã
+O
+o
+E x
+p
+n
+p
+a
+o
+o
+i
+s
+n
+p
+i
+e
+ç
+e
+ã
+l
+r
+o
+í
+B
+o
+)
+d
+e
++
+o
+s
+θ
+ti
+e
+⋅
+m
+(
+n
+E
+a
+t
+l
+r
+e
+e
+a
+g
+2
+í
+r
+v
+0
+e
+e
+2
+g
+l
+r
+2
+×
+e s
+T
+E
+s
+1
+x
+ã
+p
+o
+e
+o
+2
+s
+s
+e
+i
+0
+ç
+g
+2
+ã
+u
+4
+o
+i n
+×
+T
+t
+2
+e
+P
+:
+,
+ó
+l
+s
+o
+s
+e
+g
+)
+p
++
+(
+a
+P
+r
+δ
+r
+a
+e
+d
+⋅
+s
+a
+t
+(
+a
+C
+m
+ç
+o
+ã
+e
+n
+o
+n
+t
+)
+r
+t
+i
+e
+o
+t
+l
+=
+o
+p a
+α
+×
+r a
++
+P
+c
+ó
+β
+r
+s
+1
+e
+)
+d
+⋅
++
+o
+E
+r
+l
+L
+e
+e
+o
+s
+g
+c
+ív
+c
+a
+e
+o
+li
+l
+m
+z
+i
+a
++
+ç
+p
+ã
+β
+e
+o
+2
+l o
+x
+⋅
+ó i 1 i t 2 i t 3 i i i i t i t
+n Efeito fixo temporal + ε. log (Prestação) corresponde ao logaritmo da prestação mensal do indivíduo i no período t. O logaritmo da prestação assume valor 0
+o it it
+c para log(0). O significado e o critério de truncagem das variáveis podem ser consultados na legenda do gráfico 5. A amostra exclui contratos com taxa fixa ao
+E
+m longo de todo o prazo contratual. No painel B, a amostra abrange os trimestres entre 2022 T1–2024 T2. Os valores agregam todas as prestações suportadas
+ite pelos mutuários em cada trimestre, para mutuários com empréstimos múltiplos.
+lo
+B
+la
+•
+Quando se considera também o grau de exposição dos devedores aos aumentos das taxas de juro,
+g
+u
+tr verifica-se que, após a adoção das medidas, a diferença de prestações entre elegíveis e não elegíveis
+o
+P
+e
+diminuiu entre os devedores mais expostos. Em concreto, um aumento de 10 pp na sensibilidade da
+d
+o prestação à taxa de juro reduziu essa diferença em 10,8 pp nos reembolsos antecipados e em 10,2 pp
+c
+n a nas renegociações, não havendo evidência estatística de efeitos diferenciados nas transferências. Estes
+B
+58
+
+[Página 61]
+59
+esilána
+me
+sacitíloP
+resultados indicam que os efeitos da política foram mais pronunciados entre os devedores mais
+vulneráveis à subida das taxas, em linha com os objetivos das medidas.
+As renegociações terão contribuído para mitigar o
+incumprimento, especialmente entre os devedores
+mais expostos à subida das taxas de juro.
+O painel A do gráfico 7 apresenta a variação percentual do incumprimento2 no trimestre em que decorre
+cada alteração de contrato. Observa-se que a renegociação é a alteração que mais contribui para reduzir
+o incumprimento, sendo a variação para as restantes alterações residual. Embora a variação do
+incumprimento entre os devedores elegíveis e não elegíveis seja semelhante, as medidas permitiram um
+aumento da frequência das alterações aos contratos, potencialmente reduzindo o incumprimento entre
+os devedores que de outra forma não teriam acesso às renegociações.
+Gráfico 7 • Variação do incumprimento na data da alteração do contrato e variação
+do incumprimento em função do grau de exposição ao aumento da taxa de juro | Em
+pontos percentuais
+Painel A — Efeito médio Painel B — Variação do efeito por cada aumento
+de 10 pp da sensibilidade à taxa de juro
+Fonte: Cálculos do Banco de Portugal. | Notas: O painel A apresenta a variação percentual da taxa de incumprimento no trimestre de alteração do contrato, para
+alterações realizadas em 2022 T4–2024 T2, sendo os valores arredondados às duas casas decimais. No painel B, a figura apresenta estimativas e o intervalo de
+confiança a 95% para o θ da seguinte especificação, estimada separadamente para os grupos de reembolso antecipado, transferência e renegociação: painel B:
+incumprimento = α + β ⋅ Elegível + β ⋅ Exposição + γ ⋅ (Elegível × Pós) + γ ⋅ (Exposição × Pós) + γ ⋅ (Elegível × Exposição) +θ⋅(Elegível × Exposição× Post) + δ ⋅
+it 1 i 2 i 1 i t 2 i t 3 i i i i t
+(Controlo × Pós) + Localização x Efeito fixo temporal + ε. O incumprimento é definido como uma variável binária que assume o valor 1 se o indivíduo registou
+i t it it
+incumprimento no trimestre t e 0 caso contrário. Considera-se que existe incumprimento se houver atraso no pagamento do crédito e esse atraso tiver materialidade
+para efeitos do Regulamento dos Requisitos de Fundos Próprios. O significado e o critério de truncagem das variáveis podem ser consultados na legenda do gráfico 5.
+Os critérios de composição da amostra e de exclusão de contratos de taxa fixa podem ser consultados na legenda do gráfico 6.
+2 O incumprimento é definido como o atraso efetivo no pagamento, em geral superior a 90 dias, com limiar mínimo de 100 euros e de 1% da
+exposição de crédito.
+
+[Página 62]
+Se considerarmos explicitamente o grau de exposição às taxas de juro, verifica-se que um aumento de
+10% na sensibilidade da prestação à taxa de juro está associado a uma redução de 0,3 pp na diferença
+de incumprimento entre elegíveis e não elegíveis. Podendo a renegociação ser utilizada para reduzir
+o incumprimento ou para outros fins, os resultados sugerem que a introdução das medidas contribuiu
+para a utilização da renegociação para reduzir o incumprimento principalmente entre os devedores
+elegíveis mais expostos ao aumento das taxas de juro.
+É necessário ponderar os benefícios de medidas com
+impacto no crédito à habitação com os custos diretos
+e os potenciais custos indiretos suportados pelo
+conjunto dos agentes económicos.
+As medidas para o crédito à habitação adotadas no seguimento da subida das taxas de juro resultaram
+num aumento significativo da frequência de alterações aos contratos de crédito à habitação,
+nomeadamente reembolsos antecipados, renegociações e transferências de crédito para outras
+instituições bancárias. Este efeito foi maior entre os devedores cujas prestações do crédito à habitação
+estavam mais expostas ao aumento das taxas de juro. O reembolso antecipado é a alteração de
+contrato associada a reduções maiores da prestação, enquanto a renegociação aparenta ser mais
+eficaz na redução do incumprimento. Os efeitos na prestação e no incumprimento são mais salientes
+entre os devedores mais expostos à subida das taxas de juro. Este padrão reforça a importância de
+considerar as diferenças na exposição dos devedores à taxa de juro aquando da conceção de medidas
+de política destinadas a aliviar o esforço financeiro das famílias.
+As medidas acarretam custos para o Estado, por via orçamental, e para as instituições financeiras, os
+quais podem ser repercutidos nas famílias. A vigência das medidas deve assim ponderar os seus custos
+e benefícios ao longo do tempo. Destaca-se que a análise apresentada é positiva, não sendo possível
+retirar conclusões normativas por não serem quantificados efeitos na globalidade dos agentes
+económicos.
+5
+2
+0
+2
+o
+r
+b
+u
+tu
+O
+o
+•
+c
+im
+ó
+n
+o
+c
+E
+m
+ite
+lo
+B
+la
+•
+g
+u
+tr
+o
+P
+e
+d
+o
+c
+n
+a
+B
+60

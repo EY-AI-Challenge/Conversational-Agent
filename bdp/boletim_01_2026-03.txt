@@ -1,0 +1,4987 @@
+[Página 1]
+BOLETIM
+ECONÓMICO
+MAR. 2026
+
+[Página 3]
+BOLETIM
+ECONÓMICO
+MAR. 2026
+Em ficheiro anexo são disponibilizados os dados subjacentes
+aos gráficos do Boletim Económico.
+Não são divulgados dados de algumas fontes privadas.
+Lisboa, 2026 • www.bportugal.pt
+
+[Página 4]
+Boletim Económico | Março 2026 • Banco de Portugal Rua do Comércio, 148 | 1100-150 Lisboa • www.bportugal.pt •
+Edição Departamento de Estudos Económicos • Design Departamento de Comunicação e Museu | Unidade de Design
+• ISSN (online) 2182-0368
+
+[Página 5]
+Índice
+I Projeções para a economia portuguesa: 2026–28 | 5
+1 Projeções para a economia portuguesa 2026–28 | 7
+Caixa 1 • Enquadramento e políticas | 17
+Caixa 2 • Evolução recente do emprego por conta de outrem à luz dos microdados
+da Segurança Social | 21
+Caixa 3 • Indicadores de acessibilidade à habitação: evolução recente e perspetiva
+regional | 25
+Caixa 4 • Direitos aduaneiros dos EUA sobre as importações da China: há evidência
+de redirecionamento do comércio para a UE? | 32
+Caixa 5 • As exportações portuguesas de bens com utilização militar | 35
+Caixa 6 • Resultados de um inquérito às expetativas das empresas portuguesas
+para 2026 | 38
+II Tema em destaque | 43
+Uma caraterização da permanência dos trabalhadores estrangeiros em Portugal | 45
+III Políticas em análise | 61
+Um retrato da literacia financeira em Portugal | 63
+
+[Página 7]
+I Projeções para a economia
+portuguesa: 2026–28
+Caixa 1 Enquadramento e políticas
+Caixa 2 Evolução recente do emprego por conta de
+outrem à luz dos microdados da Segurança Social
+Caixa 3 Indicadores de acessibilidade à habitação:
+evolução recente e perspetiva regional
+Caixa 4 Direitos aduaneiros dos EUA sobre as
+importações da China: há evidência de
+redirecionamento do comércio para a UE?
+Caixa 5 As exportações portuguesas
+de bens com utilização militar
+Caixa 6 Resultados de um inquérito às expetativas
+das empresas portuguesas para 2026
+
+[Página 9]
+1 Projeções para a economia
+portuguesa 2026–28
+A atividade económica em Portugal deverá crescer 1,8% em 2026, 1,6% em 2027 e 1,8% em 2028,
+enquanto a inflação deverá aumentar para 2,8% em 2026 e diminuir para 2,3% em 2027 e 2,0%
+em 2028 (Quadro I.1.1). Esta projeção reflete a deterioração do enquadramento externo, na sequência
+do ataque lançado pelos Estados Unidos e Israel ao Irão no final de fevereiro (Caixa 1 —
+Enquadramento e políticas). A subida abrupta e significativa dos preços das matérias-primas
+energéticas tem um impacto negativo na atividade e positivo na inflação, sobretudo em 2026.
+A expetativa de agravamento das condições de financiamento condiciona também a atividade
+no horizonte de projeção. As hipóteses quanto à evolução do conflito refletem as expetativas
+implícitas nos mercados financeiros à data de fecho deste boletim, pressupondo uma duração
+relativamente limitada e efeitos contidos sobre a confiança dos agentes e as cadeias de abastecimento
+globais. No entanto, existe uma elevada incerteza, e uma intensificação ou prolongamento do conflito
+implicam riscos acentuados para a projeção. As condições meteorológicas extremas registadas no
+início do ano afetam também a evolução da atividade em 2026. Neste quadro globalmente adverso,
+existem fatores que continuam a sustentar o crescimento neste ano, como a solidez do mercado de
+trabalho, o ímpeto associado ao PRR e a orientação expansionista da política orçamental. No médio
+prazo, a evolução da economia encontra-se condicionada pelos efeitos da demografia sobre a oferta
+de trabalho e pela redução das transferências líquidas da UE. Relativamente à evolução dos preços, a
+dissipação do choque sobre o preço dos bens energéticos e a manutenção de expetativas de inflação
+de longo prazo ancoradas deverão contribuir para a estabilidade de preços no consumidor no final
+do horizonte, tanto em Portugal como na área do euro.
+Quadro I.1.1 • Projeções do Banco de Portugal: 2026–28 | Taxa de variação anual em percentagem
+(exceto onde indicado)
+BE março 2026 BE dezembro 2025
+Pesos
+2025 2025 2026 (p) 2027 (p) 2028 (p) 2025 (p) 2026 (p) 2027 (p) 2028 (p)
+Produto interno bruto (PIB) 100,0 1,9 1,8 1,6 1,8 2,0 2,3 1,7 1,8
+Consumo privado 61,0 3,5 2,0 1,8 1,6 3,6 2,3 2,0 1,7
+Consumo público 17,1 1,7 1,2 1,0 0,7 1,6 1,2 1,0 0,7
+Formação bruta de capital fixo (FBCF) 20,7 3,5 3,8 1,3 2,6 4,0 6,0 0,9 2,7
+Procura interna 99,1 3,7 2,0 1,5 1,7 4,0 2,8 1,6 1,7
+Exportações 43,6 0,4 1,4 2,6 3,1 1,1 2,6 2,8 2,8
+Importações 42,7 4,2 1,9 2,4 2,8 5,3 3,5 2,4 2,5 8 2
+–
+Emprego (a) 2,3 1,3 0,5 0,3 2,2 1,1 0,5 0,3 6 2
+Taxa de desemprego (b) 6,0 5,9 5,8 5,8 6,2 6,3 6,3 6,3 0 2
+Balança corrente e de capital (% PIB) 2,7 3,5 1,7 1,6 2,8 3,2 2,0 1,8 :a
+s
+Balança de bens e serviços (% PIB) 1,2 0,6 1,0 1,2 1,1 0,9 1,1 1,2 e u
+g
+Índice harmonizado de preços no consumidor (IHPC) 2,2 2,8 2,3 2,0 2,2 2,1 2,0 2,0 u
+tr
+Excluindo bens energéticos e alimentares 2,3 2,5 2,5 2,2 2,2 2,3 2,1 2,0 o
+p
+Deflator do PIB 3,9 3,0 2,8 2,4 4,0 3,1 2,2 2,2 a im
+o
+PIB per capita (c) 1,0 1,2 1,3 1,6 1,1 1,8 1,4 1,6 n
+o
+PIB por indivíduo em idade ativa (d) 1,1 1,3 1,5 1,8 1,3 1,9 1,6 1,9 c
+e
+PIB por trabalhador (e) -0,4 0,5 1,1 1,4 -0,2 1,3 1,2 1,5 a
+a
+r
+Fontes: Banco de Portugal e INE. | Notas: (p) — projetado, % — percentagem. O fecho de dados do exercício de projeção é 13 de março. A projeção a
+p
+corresponde ao valor mais provável condicional ao conjunto de hipóteses consideradas. Pesos a preços correntes. (a) De acordo com o conceito de Contas s
+e
+Nacionais. (b) Em percentagem da população ativa. (c) O PIB per capita corresponde ao rácio do PIB pela população total, segundo as Estatísticas Demográficas õ
+ç
+divulgadas pelo INE. (d) O PIB por indivíduo em idade ativa corresponde ao rácio do PIB pela população com idade entre 16 e 74 anos. (e) O PIB por trabalhador e jo
+corresponde ao rácio do PIB pelo número de trabalhadores, de acordo com o conceito de emprego das Contas Nacionais. r P
+7
+
+[Página 10]
+Face ao Boletim Económico de dezembro, o crescimento do PIB foi revisto em baixa em 2026 (-0,5 pp)
+e 2027 (-0,1 pp), enquanto a inflação foi revista em alta (0,7 pp e 0,3 pp em 2026 e 2027). O agravamento
+das tensões geopolíticas no Médio Oriente é o fator comum a estas revisões. A revisão do PIB em 2026
+reflete igualmente a evolução mais fraca no final de 2025 face ao projetado em dezembro e o impacto
+negativo das condições meteorológicas no início do ano.1
+O preço do petróleo constitui um canal de transmissão relevante do choque geopolítico
+à economia, sendo a sua evolução futura uma fonte de incerteza para a projeção. O conflito no
+Médio Oriente tem afetado os fluxos comerciais de petróleo, gás natural e fertilizantes provenientes
+do Golfo Pérsico, devido a constrangimentos no Estreito de Ormuz. Entre o ataque ao Irão e a data de
+fecho deste boletim (13 de março), o preço do petróleo (em euros) aumentou 48,9%, com os mercados
+de futuros a sugerirem uma trajetória de redução ao longo do horizonte (Caixa 1 — Enquadramento
+e políticas). Em termos anuais, o preço do petróleo deverá variar 15,5% em 2026, -12,8% em 2027
+e -2,8% em 2028. Um aumento mais pronunciado ou permanente do preço do petróleo acentuaria os
+impactos adversos sobre a atividade — reduzindo o poder de compra das famílias e aumentando os
+custos de produção das empresas, com efeitos negativos sobre o consumo e o investimento —
+e reforçaria as pressões inflacionistas (Gráfico I.1.1). Um exercício estilizado sugere que uma subida
+adicional de 10% no preço do petróleo teria um impacto de -0,05% no nível do PIB e de +0,25 pp na
+inflação, no primeiro ano. Um choque da mesma magnitude, mas de natureza mais permanente, teria
+um efeito mais severo no final do horizonte, afetando desfavoravelmente as taxas de variação do PIB
+e dos preços nos três anos. Este choque mais duradouro desencadearia provavelmente efeitos
+adicionais, nomeadamente através de maior incerteza, deterioração da confiança dos agentes
+e turbulência nos mercados financeiros, canais que não foram considerados no exercício apresentado.
+Gráfico I.1.1 • Impacto no nível do PIB e na inflação de um choque temporário ou permanente
+de 10% no preço do petróleo | Desvios face ao cenário sem choque
+Painel A — Impacto no nível do PIB | Percentagem Painel B — Impacto na inflação | Pontos percentuais
+6
+2
+0
+2
+o
+ç
+r
+a
+M
+o
+•
+c
+im
+ó n Fonte: Cálculos do Banco de Portugal. | Notas: Estes gráficos ilustram o impacto de um aumento temporário (um ano) ou permanente (três anos) de 10% no
+o c preço do petróleo sobre o nível do PIB e da inflação. Os impactos foram estimados utilizando instrumentos que permitem considerar os efeitos diretos na
+E
+m economia portuguesa, mas também os efeitos indiretos por via do impacto nas outras economias da área do euro.
+ite
+lo
+B
+la
+•
+g
+u
+tr
+o
+P
+e d 1 O crescimento do PIB em 2025 foi revisto em baixa (-0,1 pp) face ao Boletim Económico de dezembro, refletindo em larga medida uma evolução
+o
+c mais fraca do investimento e das exportações. Esta revisão encontra-se concentrada nos dois últimos trimestres do ano, implicando um menor
+n
+a B efeito de arrastamento para 2026.
+8
+
+[Página 11]
+Neste contexto de elevada incerteza, projetam-se variações em cadeia do PIB de 0,0% no
+primeiro trimestre e 0,4% nos trimestres seguintes, após 0,9% no quarto trimestre de 2025
+(Gráfico I.1.2 — Painel A). Este perfil encontra-se marcado pelo impacto das condições meteorológicas
+extremas observadas no início do ano e pelos efeitos adversos associados ao conflito no Médio
+Oriente. Entre o final de janeiro e a primeira quinzena de fevereiro, o território nacional foi afetado pela
+tempestade Kristin e por episódios de precipitação intensa e persistente. Estes fenómenos — com
+maior incidência na região Centro — causaram danos em edifícios residenciais e empresariais, terrenos
+agrícolas e infraestruturas, incluindo redes de distribuição de eletricidade, transporte e comunicação.2
+Os indicadores de alta frequência sugerem um impacto negativo temporário na atividade, em particular
+nas regiões mais afetadas (Gráfico I.1.3). O abrandamento da atividade no início do ano reflete também
+a dissipação do impacto positivo no consumo privado associado às medidas governamentais que
+reforçaram o rendimento das famílias na segunda metade de 2025.3 A projeção assume uma
+recuperação da atividade em março e um efeito positivo ao longo do horizonte associado aos trabalhos
+de reconstrução dos estragos causados, essencialmente via investimento. Esta estimativa encontra-
+se rodeada de grande incerteza, dada a informação ainda limitada sobre a dimensão dos prejuízos
+e o impacto das medidas de apoio anunciadas pelo Governo.4 Em sentido contrário, o aumento da
+inflação e o agravamento das condições de financiamento deverão condicionar as decisões de
+consumo e investimento dos agentes, em particular ao longo de 2026. A procura externa dirigida
+à economia portuguesa também deverá apresentar um menor dinamismo neste período, tendo em
+conta a natureza global do choque.
+Gráfico I.1.2 • Projeções trimestrais para o PIB e para a inflação
+Painel A — PIB — Taxa de variação em cadeia Painel B — IHPC — Taxa de variação homóloga
+| Percentagem | Percentagem
+Fontes: Banco de Portugal e INE. | Notas: As linhas a tracejado correspondem aos valores projetados nos Boletins Económicos de dezembro de 2025 e março 8
+2
+de 2026. A projeção da inflação divulgada neste Boletim incorpora a nova classificação do IHPC que entrou em vigor no início de 2026. –
+6
+2
+0
+2
+:a
+s
+e
+u
+g
+u
+tr
+o
+p
+a
+im
+2 O Governo decretou situação de calamidade — entre 29 de janeiro e 15 de fevereiro de 2026 — em 68 municípios portugueses. De acordo com o n
+o
+um destaque do INE, os municípios abrangidos concentravam cerca de 17% da população residente em Portugal (em 2021), representando 15,8% c e
+das empresas não financeiras (em 2024) e 15,2% das exportações de bens (em 2025). a
+a
+r
+3 Especificamente, a redução do IRS refletida nas tabelas de retenção na fonte de agosto e setembro de 2025, e o pagamento do suplemento a p
+extraordinário para as pensões mais baixas. s e
+õ
+4 As medidas anunciadas incluem o apoio extraordinário às famílias, empresas e municípios afetados pela tempestade, abrangendo subsídios diretos, ç e
+jo
+linhas de crédito bonificadas, apoios à reconstrução de infraestruturas públicas e medidas fiscais e contributivas temporárias. r
+P
+9
+
+[Página 12]
+A inflação deverá aumentar de 2,2% no primeiro trimestre de 2026 para 3,1% no segundo
+trimestre, e permanecer elevada durante um ano, antes de regressar a valores em torno de 2%
+(Gráfico I.1.2 — Painel B). O aumento rápido, mas temporário, do preço dos bens energéticos e a sua
+transmissão desfasada aos preços dos outros bens e serviços determinam esta trajetória. O preço dos
+bens energéticos deverá aumentar em março e acelerar para 9,5%, em termos homólogos, no
+segundo trimestre, desacelerando na segunda metade do ano. A partir do segundo trimestre de 2027,
+o preço destes bens deverá cair (refletindo efeitos de base), apresentando variações contidas em 2028.
+Este perfil reflete a evolução implícita nas hipóteses para o preço do petróleo, encontrando-se rodeado
+de elevada incerteza. A inflação excluindo energéticos deverá aumentar mais gradualmente, de 2,4%
+no primeiro trimestre de 2026 até 2,9% no primeiro trimestre de 2027, regressando a valores próximos
+de 2% apenas no final desse ano.
+Gráfico I.1.3 • Compras com cartão por região | Taxa de variação homóloga, percentagem
+Fonte: SIBS. | Nota: Apenas são consideradas as compras físicas (não inclui compras online).
+No horizonte de projeção, a procura interna deverá manter-se como o principal motor de
+6
+2
+0 crescimento da economia (Gráfico I.1.4). Os ganhos reais de rendimento disponível — num quadro
+2
+o ç de crescimento de emprego e salários, e medidas orçamentais de apoio ao rendimento das famílias
+r
+a
+M — sustentaram o consumo privado em 2024 e 2025. O contributo (líquido de conteúdo importado)
+o
+•
+deste agregado explicou cerca de metade da variação do PIB neste período, esperando-se
+c
+im contributos progressivamente menores em 2026–28. Do lado do investimento, a hipótese para
+ó
+n o o perfil temporal da absorção dos fundos do PRR traduz-se num aumento do contributo da FBCF
+c
+E
+m pública em 2026, seguido de uma redução em 2027. A variação de existências tem um contributo
+ite
+positivo em 2025 e negativo em 2026, com o contexto de incerteza elevada a justificar esta volatilidade.
+lo
+la
+B
+•
+A
+p a
+F
+r
+B
+a
+C
+u
+F
+m
+pr i
+p
+v
+a
+a
+d
+da
+rã
+e
+o
+a
+d
+s
+e
+e x
+c
+p
+re
+o
+s
+rt
+c
+a
+im
+çõ
+e
+e
+n
+s
+t
+d
+o
+e
+m
+ve
+a
+r
+i
+ã
+s
+o
+e
+r
+q
+e
+u
+c
+i
+u
+li
+p
+b
+e
+ra
+ra
+d
+r
+o
+d
+.
+i
+F
+n
+a
+a
+c
+m
+e
+i s
+à
+m
+m
+o
+é
+n
+d
+o
+ia
+h o
+d
+r
+a
+iz
+á
+o
+r
+n
+e
+t
+a
+e d
+d
+e
+o
+p
+e
+r
+u
+o
+r
+j
+o
+eç
+,
+ã
+o
+o
+d
+, c
+if
+o
+e
+n
+re
+tr
+n
+ib
+c
+u
+ia
+in
+l
+d
+d
+o
+e
+g
+u
+tr crescimento da economia portuguesa deverá permanecer positivo, mas estreitar-se ao longo do
+o
+P
+e
+horizonte.
+d
+o
+c
+n
+a
+B
+10
+
+[Página 13]
+Gráfico I.1.4 • Crescimento do PIB e contributos das componentes da despesa líquidos
+de conteúdo importado | Em percentagem e pp
+Fontes: Banco de Portugal e INE. | Notas: (p) — projetado. A soma das barras em diferentes tons de azul e vermelho corresponde ao contributo da procura
+interna. O investimento privado inclui a variação de existências. A metodologia de cálculo dos contributos líquidos de conteúdos importados está descrita em
+Cardoso e Rua (2021), “O real contributo da procura final para o crescimento do PIB”, Revista de Estudos Económicos do Banco de Portugal, Volume VII, n.º 3.
+O mercado de trabalho deverá manter-se sólido, projetando-se um abrandamento do emprego
+e uma estabilização da taxa de desemprego em níveis baixos (Quadro I.1.1). De acordo com os
+dados de Contas Nacionais, o emprego — total e remunerado — acelerou em 2025, o que contrasta
+com o abrandamento do PIB. Estas estatísticas de emprego poderão não incorporar plenamente as
+variações rápidas e significativas dos fluxos migratórios observadas nos anos recentes.5 A evidência
+com base nos microdados da Segurança Social aponta para uma desaceleração do emprego por conta
+de outrem em 2025, refletindo um menor contributo dos trabalhadores estrangeiros (Caixa 2 —
+Evolução recente do emprego por conta de outrem à luz dos microdados da Segurança Social). Ao
+longo do horizonte, o ritmo de crescimento do emprego deverá diminuir (de 1,3% em 2026 para 0,3%
+em 2028), num quadro de menores fluxos migratórios e aumentos mais contidos da taxa de atividade.
+Por seu turno, a taxa de desemprego reduziu-se ao longo de 2025, situando-se em 5,6% no final do
+ano. Em 2026, projeta-se um aumento ligeiro desta variável, permanecendo em torno de 5,8%, em
+média, no horizonte. O aumento da produtividade ao longo do horizonte deverá atenuar as pressões
+devidas ao abrandamento da oferta de trabalho.
+O consumo privado deverá desacelerar no horizonte de projeção, refletindo um crescimento mais 8
+2
+–
+moderado do rendimento disponível e a manutenção da poupança em níveis elevados. Após um 6
+2
+0
+aumento de 3,5% em 2025, o consumo privado deverá abrandar para 2,0% em 2026, 1,8% em 2027 2
+:a
+e 1,6% em 2028. O rendimento disponível real deverá crescer 1,5%, em média, no período (3,4% em s
+e
+u
+2025), num contexto de desaceleração do emprego e dos salários reais por trabalhador, e de ausência g
+u
+de medidas adicionais de apoio ao rendimento das famílias.6 O agravamento das tensões geopolíticas
+tr
+o
+p
+e a subida temporária da inflação em 2026 deverão ter um impacto negativo sobre o poder de compra a
+im
+o
+n
+o
+c
+e
+a
+a
+r
+5 Ver caixa “Monitorização mensal dos fluxos migratórios de estrangeiros e os seus desafios”, do Boletim Económico de dezembro de 2025. a p
+6 O impacto desfasado das medidas de redução de IRS — via reembolsos e notas de cobrança — deverá implicar uma maior volatilidade do s e
+õ
+rendimento disponível no horizonte. No entanto, não se antecipa que esta volatilidade se transmita à evolução do consumo, dada a previsibilidade ç e
+jo
+dos efeitos da medida e o alisamento intertemporal do consumo pelas famílias. r
+P
+11
+
+[Página 14]
+e implicar uma deterioração da confiança dos consumidores. Adicionalmente, o aumento das taxas de
+juro implícito nas hipóteses do exercício deverá condicionar o acesso das famílias ao crédito para
+consumo em 2026–27.
+A taxa de poupança deverá permanecer acima da média pré-pandemia ao longo do horizonte (11,7%,
+em média, em 2026-28, face a 9,3% no período 2000–19). Esta persistência é corroborada pelos
+resultados dos inquéritos aos consumidores, que continuam a sugerir aumentos das intenções
+de poupança, num quadro de melhoria da situação financeira e expetativas de aumento do
+rendimento das famílias (Gráfico I.1.5). Este comportamento refletirá múltiplos fatores, entre os quais
+o nível atual das taxas de juro, que sustenta incentivos ao aforro superiores aos observados no período
+pré-pandemia, e a elevada incerteza — acentuada pelos desenvolvimentos geopolíticos recentes —
+que incita a poupança por motivos de precaução. Para algumas famílias, a poupança poderá estar a
+ser potenciada pela intenção de comprar casa, num quadro de deterioração da acessibilidade
+à habitação (Caixa 3 — Indicadores de acessibilidade à habitação: evolução recente e perspetiva
+regional).
+Gráfico I.1.5 • Intenções de poupança nos próximos 12 meses, por quartil de rendimento
+| Saldo de respostas extremas
+Fonte: Comissão Europeia. | Nota: Saldo de respostas extremas à seguinte questão colocada aos consumidores: Nos próximos 12 meses, pensa que lhe vai
+ser possível poupar algum dinheiro? (++) É muito provável, (+) É provável, (-) Não é provável, (--) Não é nada provável. *O valor para 2026 T1 corresponde à
+6 média janeiro-fevereiro.
+2
+0
+2
+o
+ç
+r a O crescimento da FBCF deverá aumentar para 3,8% em 2026 (3,5% em 2025) — impulsionado pela
+M
+o c
+•
+e
+a
+x
+e
+e
+v
+c
+o
+u
+lu
+ç
+ç
+ã
+ã
+o
+o
+d
+d
+o
+a
+s
+F
+f
+B
+u
+C
+n
+F
+d o
+a
+s
+lt e
+d
+r
+o
+a m
+PR
+-s
+R
+e
+—
+ao
+e
+lo
+d
+n
+im
+go
+i n
+d
+u
+o
+i r
+h
+p
+o
+a
+ri
+r
+z
+a
+o n
+1
+t
+,
+e
+9
+,
+%
+c
+,
+o
+e
+m
+m
+o
+m
+d
+é
+o
+d
+s
+i
+e
+a
+t
+,
+o
+e
+r
+m
+p ú
+2
+b
+0
+l
+2
+ic
+7
+o
+– 2
+a
+8
+d
+.
+i
+O
+ss
+s
+ip
+c
+a
+o
+r
+n
+-s
+t
+e
+ri
+,
+b
+e
+u
+n
+to
+q
+s
+u
+p
+an
+a
+t
+r
+o
+a
+im
+ó o investimento privado ganha dinamismo. A evolução da componente pública está significativamente
+n
+o c influenciada pelo perfil das transferências da UE, com a trajetória assumida para a execução do PRR
+E
+m a determinar a evolução em 2026–27, e a transição entre quadros financeiros plurianuais a traduzir-se
+ite
+lo numa estagnação em 2028.7 A FBCF empresarial deverá voltar a apresentar um crescimento fraco em
+B
+la
+•
+2 026 — com o início do ano afetado pelas condições meteorológicas extremas —, acelerando para
+g
+u
+tr
+o
+P
+e d 7 A projeção incorpora a informação disponível sobre a Revisão para a Simplificação do PRR. A nova versão do plano preserva a absorção quase
+o
+c integral das subvenções e empréstimos e reforça mecanismos que permitem utilizar estes montantes para além de 2026 e com menor impacto
+n
+a B orçamental direto.
+12
+
+[Página 15]
+3,6%, em média, em 2027–28. Esta trajetória encontra-se condicionada por um ambiente de elevada
+incerteza, pelo aumento dos custos marginais de produção e pelo agravamento das condições de
+financiamento, num contexto que exige o prosseguimento da transição energética e digital. Por seu
+turno, a FBCF privada em habitação deverá crescer 2,6%, em média, em 2026–28, após aumentos fortes
+em 2024–25 (5,6%, em média). O impulso associado à procura acumulada por satisfazer nos últimos
+anos será contrabalançado pelo abrandamento do rendimento disponível e da população, e pelo
+aumento dos custos de financiamento. Do lado da oferta, persistem obstáculos relacionados com
+os prazos de licenciamento morosos, os custos de construção elevados e a escassez de mão de
+obra.8
+Num quadro de elevada incerteza quanto ao comércio global, as exportações deverão recuperar
+gradualmente, crescendo em linha com a procura externa no médio prazo (Gráfico I.1.6). A fraqueza
+das exportações em 2025, face à evolução da procura externa, foi generalizada às componentes de bens
+e serviços, existindo fatores específicos e temporários que contribuíram para este comportamento. Por
+um lado, as exportações de bens energéticos — que incluem gás natural, coque e produtos petrolíferos
+refinados — diminuíram em 2025, refletindo, em parte, a paragem programada de unidades da refinaria
+nacional. Por outro lado, a evolução da procura externa beneficiou de efeitos de antecipação de
+transações de bens devido à subida anunciada de direitos aduaneiros, que não foram visíveis nas
+exportações portuguesas. No caso dos serviços, o menor dinamismo em 2025 foi extensível às
+exportações de turismo — num quadro de um forte aumento acumulado dos preços deste setor em
+Portugal — e de outros serviços — destacando-se, em termos nominais, o abrandamento dos serviços
+de construção, arquitetura, engenharia, consultoria e investigação e desenvolvimento.9 De acordo com
+os indicadores de conjuntura disponíveis, as exportações de turismo deverão ter mantido um
+comportamento fraco no início de 2026, em parte condicionadas pelas condições meteorológicas
+extremas. No horizonte, as exportações deverão crescer 1,4% em 2026, 2,6% em 2027 e 3,1% em 2028.
+A evolução das exportações em 2025 traduziu-se numa perda de quota de mercado, após a sequência
+de ganhos da última década. Uma análise preliminar da quota de bens nos mercados da UE, em termos
+nominais, sugere que parte desta perda de quota esteve concentrada nos bens energéticos
+e agroalimentares e, em menor grau, no material de transporte e produtos diversos. Em contraste,
+registaram-se ganhos de quota nas exportações de máquinas e de químicos, plástico e borracha.
+Assume-se uma virtual estabilização da quota de mercado das exportações de bens e serviços no
+médio prazo, uma hipótese prudente num enquadramento externo caracterizado pela incerteza
+elevada e aumento da concorrência, em particular da China (Caixa 4 — Direitos aduaneiros dos EUA
+sobre as importações da China: há evidência de redirecionamento do comércio para a UE?). Neste
+quadro, é crucial que o setor exportador português continue a apostar na diversificação dos mercados
+(por produto e geográficos) e no reforço da competitividade. O contexto de tensões geopolíticas
+e a perspetiva de aumento da despesa em defesa a nível europeu poderão também potenciar 8
+2
+–
+a exploração de novos mercados (Caixa 5 — As exportações portuguesas de bens com utilização militar). 6
+2
+0
+2
+As importações deverão aumentar 2,4%, em média, em 2026-28, após crescimentos fortes nos anos :a
+s
+e
+anteriores (4,4% em 2024-25) (Quadro I.1.1). Parte do dinamismo recente poderá refletir um u
+g
+u
+comportamento de precaução por parte das empresas, num quadro de grande incerteza, que se terá tr
+o
+refletido numa maior acumulação de existências em 2025. A apreciação do euro e o crescimento da p
+a
+oferta de produtos mais baratos provenientes de economias asiáticas também poderá ter contribuído
+im
+o
+n
+o
+c
+e
+a
+a
+r
+a
+p
+s
+e
+õ
+8 Ver Tema em destaque “Mercado da habitação em Portugal: uma quantificação das pressões demográficas”, Boletim Económico de dezembro de 2025. ç e
+9 Ver caixa “Exportações de turismo: desenvolvimentos recentes”, Boletim Económico de outubro de 2025.
+jo
+r
+P
+13
+
+[Página 16]
+para um aumento da penetração das importações. No horizonte, assume-se que as importações
+evoluem em linha com a procura global ponderada.
+Gráfico I.1.6 • Evolução das exportações e da procura externa dirigida à economia portuguesa
+| Taxa de variação, em percentagem e contributos, em pontos percentuais
+Fontes: Banco de Portugal, Eurosistema e INE. | Nota: (p) — projetado.
+O excedente da balança corrente e de capital deverá aumentar de 2,7% do PIB em 2025 para
+3,5% em 2026, e reduzir-se para 1,7%, em média, em 2027–28 (Quadro I.1.1). A variação positiva
+em 2026 está essencialmente associada ao aumento das transferências líquidas da UE, que deverão
+atingir um máximo histórico este ano, devido à hipótese para o perfil de absorção dos fundos do
+PRR. A diminuição destas transferências nos anos seguintes — num quadro de transição entre
+quadros plurianuais — contribui para a redução do saldo em 2027–28. O excedente da balança de
+bens e serviços deverá deteriorar-se em 2026, refletindo um efeito de termos de troca negativo —
+num contexto de subida do preço do petróleo — e um menor dinamismo das exportações face às
+importações, recuperando gradualmente nos anos seguintes.
+O perfil da inflação no horizonte de projeção é determinado pela evolução das pressões de origem
+externa (Gráfico I.1.7). O deflator das importações deverá aumentar 4,4% em 2026 e desacelerar para
+2 6 1,2%, em média, em 2027–28, após um período de quedas nos três anos anteriores. A evolução em 2026
+0
+2 — influenciada pelo desenrolar do conflito militar no Médio Oriente — é comum às componentes de
+o
+ç
+r bens energéticos e excluindo energéticos, evidenciando a transmissão dos custos da energia aos preços
+a
+M
+o
+•
+d
+m
+o
+a
+s
+n
+o
+te
+u
+r
+t r
+a
+o s
+tr
+b
+a
+e
+je
+n
+tó
+s
+r
+e
+ia
+s e
+d
+r
+e
+v i
+d
+ço
+e
+s
+s a
+im
+ce
+p
+le
+o
+r
+r
+a
+ta
+çã
+d
+o
+o
+,
+s
+b
+. O
+en
+d
+e
+e
+fi
+f
+c
+la
+ia
+to
+n
+r
+d
+d
+o
+o
+d
+P
+o
+I B
+a b
+—
+ra
+q
+n
+u
+d
+e
+a m
+ap
+e
+r
+n
+o
+t
+x
+o
+im
+d
+a
+o s
+a s
+c
+p
+u
+r
+s
+e
+to
+s
+s
+s õ
+u
+e
+n
+s
+i t
+i
+á
+n
+r
+t
+i
+e
+o
+r
+s
+n a
+d
+s
+o
+—
+tra
+d
+b
+e
+a
+v
+l
+e
+h
+r
+o
+á
+.
+c
+im
+Neste contexto, a inflação deverá aumentar de 2,2% em 2025 para 2,8% em 2026, diminuindo para 2,3%
+ó
+n
+o em 2027 e 2,0% em 2028. Esta volatilidade reflete, em larga medida, as variações projetadas para o preço
+c
+E
+m dos bens energéticos (5,8% em 2026, -0,8% em 2027 e 0,1% em 2028, após -0,2% em 2025). O preço dos
+ite
+bens alimentares deverá abrandar ao longo do horizonte, assistindo-se a uma compensação entre
+lo
+la
+B
+•
+o
+as
+a
+s
+u
+o
+m
+cia
+e
+d
+n
+o
+to
+s à
+d
+s
+a s
+c o
+p
+n
+re
+d
+s
+iç
+s
+õ
+õ
+e
+e
+s
+s
+m
+in
+e
+fla
+te
+c
+o
+io
+r
+n
+o
+i
+l
+s
+ó
+t
+g
+a
+i
+s
+c a
+e
+s
+x t
+a
+e
+d
+r
+v
+n
+e
+a
+r
+s
+s a
+e
+s
+a
+e
+d
+m
+is s
+2
+i
+0
+p
+2
+a
+5
+çã
+e
+o
+n
+d
+o
+e
+in
+fe
+íc
+n
+i
+ó
+o
+m
+de
+e n
+2
+o
+0
+s
+2
+t
+6
+e
+.
+m
+Po
+p
+r
+o
+s
+rá
+e
+r
+u
+io
+t
+s
+u
+,
+r
+e
+n
+m
+o,
+p
+a
+a
+in
+rt
+f
+i
+l
+c
+a
+u
+ç
+l
+ã
+a
+o
+r
+g
+u excluindo bens energéticos e alimentares deverá aumentar de forma mais contida, mas mais persistente,
+tr
+o
+P situando-se em 2,5% em 2026-27 e 2,2% em 2028 (2,3% em 2025), num contexto de transmissão mais
+e
+d lenta dos aumentos dos custos de energia e pressões descendentes devidas ao aumento da
+o
+c n concorrência a nível global.
+a
+B
+14
+
+[Página 17]
+O aumento da inflação em 2026, apesar de temporário, poderá implicar pressões adicionais
+sobre a evolução dos salários no horizonte de projeção. De acordo com os dados de Contas
+Nacionais, os salários por trabalhador cresceram 5,0% em 2025, após 7,5% em 2024 e 9,4% em 2023.
+Não obstante a trajetória de desaceleração, a distribuição da variação das remunerações médias por
+trabalhador continua a exibir uma fração significativa de aumentos salariais de magnitude elevada
+(Gráfico I.1.8). Projetam-se crescimentos dos salários nominais de 4,0% em 2026, 3,9% em 2027 e 3,7%
+em 2028, com a evolução em 2027 a beneficiar de efeitos de compensação pelo aumento da inflação
+no ano anterior.10 Os aumentos salariais no setor público serão superiores, refletindo o efeito do
+acordo plurianual de valorização dos trabalhadores da administração pública, bem como o impacto
+das revisões de carreiras e das regras de progressão na função pública. No setor privado, os salários
+em termos reais deverão crescer em linha com o produto por trabalhador.
+Gráfico I.1.7 • Evolução do IHPC, do deflator do PIB e do deflator das importações | Taxa
+de variação anual, em percentagem e contributos, em pp
+Fontes: Banco de Portugal e INE. | Notas: (p) — projetado. EBE — Excedente bruto de de exploração.
+Os riscos adversos sobre a projeção acentuaram-se desde dezembro, num quadro de elevada
+incerteza a nível global. O balanço de riscos é enviesado em baixa para a atividade e em alta para
+a inflação. O prolongamento ou intensificação do conflito militar no Médio Oriente pode conduzir
+a novas subidas de preços das matérias-primas, aumentar a incerteza global e a volatilidade dos
+mercados financeiros e gerar disrupções nas cadeias de abastecimento. Neste cenário, a confiança 8
+2
+–
+dos agentes económicos deteriora-se, podendo levar ao adiamento ou cancelamento de decisões 6
+2
+0
+de investimento, ao aumento da poupança por motivos de precaução e à exigência de prémios de 2
+:a
+risco mais elevados, reduzindo o preço dos ativos e aumentando os custos de financiamento. s
+e
+u
+Os custos de energia mais elevados podem também prejudicar a competitividade das empresas g
+u
+europeias, enquanto a memória do surto inflacionista recente pode amplificar o efeito destes
+tr
+o
+p
+choques sobre as expetativas de inflação. As tensões comerciais globais constituem outra fonte a im
+relevante de incerteza e risco, podendo a sua intensificação penalizar as exportações portuguesas. o n
+o
+Este risco descendente é particularmente relevante para as empresas da indústria transformadora c e
+a
+a
+r
+a
+p
+s
+e
+õ
+ç
+e
+10 A projeção para os salários nominais incorpora as atualizações anunciadas do salário mínimo de 5,7% em 2026, 5,4% em 2027 e 5,2% em 2028.
+jo
+r
+P
+15
+
+[Página 18]
+(Caixa 6 — Resultados de um inquérito às expetativas das empresas portuguesas para 2026).
+Persistem ainda riscos associados a uma correção abrupta dos mercados financeiros.
+Gráfico I.1.8 • Distribuição das taxas de variação das remunerações médias por trabalhador
+| Densidade Kernel
+Fonte: Microdados da Segurança Social (cálculos do Banco de Portugal). | Nota: Considerou-se, para cada trabalhador, a taxa de variação anual da sua
+remuneração média. Foram considerados os trabalhadores por conta de outrem, em idade ativa (16–74 anos), com morada em Portugal e com 30 dias de
+remuneração na empresa em cada mês, tendo sido excluídos os casos em que a remuneração base é inferior a 80% do salário mínimo nacional. A linha para
+2025 considera as taxas de variação acumulada entre janeiro e setembro.
+A nível interno, o perfil assumido para a absorção dos fundos do PRR poderá não se materializar,
+implicando riscos descendentes para o investimento. Em sentido contrário, o novo programa nacional
+de recuperação e resiliência em resposta à catástrofe climática (PTRR — Portugal Transformação,
+Recuperação e Resiliência), ainda em preparação, comporta riscos ascendentes para a atividade.
+A economia portuguesa poderá também beneficiar caso o aumento do investimento em defesa
+e infraestruturas na UE se traduza, direta ou indiretamente, num maior dinamismo da procura externa;
+ou caso os investimentos em novas tecnologias se materializem em ganhos de produtividade mais
+significativos, ou céleres, do que o implícito na projeção.
+6
+Num contexto de aumento das tensões geopolíticas, reconfiguração do comércio internacional
+2
+0 e evolução demográfica desfavorável, torna-se crucial promover um crescimento sustentado
+2
+o ç da economia, incentivando o investimento e a adoção de novas tecnologias. Tal é determinante
+r
+a
+M para reduzir o diferencial de produtividade face aos parceiros europeus, assegurando ganhos
+o
+• duradouros de bem-estar. Neste processo, a manutenção da trajetória de redução do endividamento
+c
+im público e privado, o reforço das qualificações da população e o incentivo ao aumento do capital físico
+ó
+n e intangível — em particular, através da aposta em tecnologias digitais e inteligência artificial —
+o
+c
+E constituem dimensões relevantes. A criação de condições para que as empresas mais produtivas
+m
+ite possam crescer é também condição necessária para um maior crescimento potencial da economia.
+lo
+B
+la
+•
+g
+u
+tr
+o
+P
+e
+d
+o
+c
+n
+a
+B
+16
+
+[Página 19]
+Caixa 1 • Enquadramento e políticas
+O ataque dos EUA e de Israel ao Irão no final de fevereiro desencadeou uma subida significativa
+dos preços do petróleo e do gás, bem como movimentos de aversão ao risco e aumento da
+volatilidade nos mercados financeiros (Gráfico C1.1). A economia mundial está dependente dos
+fluxos de petróleo e gás natural do Médio Oriente que são, em grande medida, exportados através do
+Estreito de Ormuz. A paralisação do tráfego comercial neste estreito, a par da redução da capacidade
+produtiva e outros constrangimentos operacionais provocados pela guerra, contribuiu para a pressão
+sobre os preços destas matérias-primas.11 O preço do petróleo, que já vinha a aumentar desde o início
+do ano num contexto de tensões crescentes na região, registou uma subida abrupta com o início da
+ofensiva militar, atingindo valores superiores a 100 dólares por barril a 13 de março (95 euros), que
+compara com valores em dezembro de 2025 de 63 dólares (57 euros). O impacto no preço do gás
+europeu foi ainda mais pronunciado, tendo atingido 51 euros por megawatt/hora no dia 13 de março,
+face a 28 euros em dezembro, mas ficou muito aquém do valor atingido em março de 2022 com
+a invasão da Ucrânia pela Rússia (227 euros). Embora os envios de gás natural liquefeito através do
+Estreito e provenientes do Qatar — que suspendeu a produção — se destinem principalmente à Ásia,
+estas perturbações contribuíram para um aperto das condições no mercado global de gás. Nos
+mercados financeiros, o aumento do risco geopolítico e os receios de pressões inflacionistas
+traduziram-se numa subida das taxas de rendibilidade da dívida das principais economias e numa
+apreciação do dólar norte-americano face a um conjunto de moedas beneficiando do seu estatuto de
+ativo de refúgio (tal como o ouro, cujo preço também aumentou). Os índices acionistas desvalorizaram
+a nível global. Existe elevada incerteza quanto à evolução do conflito, o que condiciona a magnitude
+e a duração dos seus efeitos sobre os preços das matérias-primas, os mercados financeiros,
+a confiança dos agentes económicos e, em última instância, a economia global.
+Gráfico C1.1 • Risco geopolítico | Índice 1985-2019 = 100
+8
+2
+Fonte: Caldara, Dario and Matteo Iacoviello (2022), “Measuring Geopolitical Risk”. | Notas: O índice de risco geopolítico mede a frequência de notícias 6 –
+relacionadas com ameaças geopolíticas, obtido a partir da pesquisa automática de texto dos arquivos eletrónicos de dez jornais (Chicago Tribune, the Daily 2 0
+Telegraph, Financial Times, The Globe and Mail, The Guardian, the Los Angeles Times, The New York Times, USA Today, The Wall Street Journal, e The Washington Post). 2
+:a
+O índice é calculado de forma que 100 corresponde à média entre 1985–2019. Valores diários até 13/03/2026. s
+e
+u
+g
+u
+As projeções deste boletim assumem que os preços das matérias-primas energéticas evoluem tr
+o
+p
+em linha com os mercados de futuros à data de 13 de março, o que implica uma revisão em alta a
+im
+significativa face ao Boletim Económico de dezembro, sobretudo em 2026. Em termos médios o
+n
+o
+c
+e
+a
+a
+r
+a
+p
+11 O Irão é o 5.º maior produtor mundial de petróleo e o 3.º maior produtor mundial de gás natural. Pelo Esreito de Ormuz transita aproximadamente s e
+õ
+20% do consumo mundial de petróleo e de gás natural. A região assume também um papel fundamental no fornecimento de fertilizantes para o setor ç e
+jo
+agroalimentar, estando a Arábia Saudita e o Quatar entre os principais exportadores. r
+P
+17
+
+[Página 20]
+anuais, o preço do petróleo situa-se em 70,8 euros em 2026, 61,8 euros em 2027 e 60 euros em
+2028, cerca de 31%, 14% e 9%, respetivamente, acima das hipóteses de dezembro (Quadro C1.1).
+Após atingir um pico no segundo trimestre de 2026, espera-se uma redução gradual ao longo do
+horizonte de projeção (Gráfico C1.2 — Painel A). As projeções de março para o preço do gás
+indicam valores de 46,3 euros em 2026, 36,6 euros em 2027 e 26,4 euros em 2028, ou seja,
+aumentos de 57%, 33% e 6%, respetivamente, face às hipóteses de dezembro. A trajetória do
+preço do gás aponta para uma descida progressiva a partir do terceiro trimestre deste ano e em
+2027 e 2028 (Gráfico C1.2 — Painel B). Os preços das matérias-primas não energéticas foram
+revistos em alta em 2026, apontando para uma queda ligeira neste ano e uma relativa estabilidade
+em 2027–28. Os preços de importação dos concorrentes, que registaram uma redução ligeira em
+2025, deverão recuperar em 2026 — de forma mais marcada do que assumido em dezembro —
+mantendo crescimentos de 2,5% e 1,6% em 2027 e 2028, respetivamente.
+Quadro C1.1 • Hipóteses do exercício de projeção | Euros e percentagem
+BE março 2026 BE dezembro 2025
+2025 2026 2027 2028 2025 2026 2027 2028
+Enquadramento internacional
+PIB mundial tva 3,4 3,1 3,0 3,1 3,2 3,1 3,1 3,0
+PIB da área do euro tva 1,5 0,9 1,3 1,4 1,4 1,2 1,4 1,4
+Comércio mundial tva 4,7 2,4 2,9 3,1 4,1 2,1 3,0 3,0
+Procura externa tva 4,3 2,1 2,6 3,1 4,0 2,4 2,8 2,8
+Preços internacionais
+Preço do petróleo vma 61,3 70,8 61,8 60,0 61,5 54,0 54,1 55,3
+Preço do gás (MWh) vma 36,2 46,3 36,6 26,4 36,5 29,6 27,5 25,0
+Matérias-primas não energéticas tva 1,6 -1,9 0,9 -0,6 1,6 -2,7 0,5 -0,3
+Preço de importação dos concorrentes tva -0,4 2,9 2,5 1,6 -0,3 0,9 2,1 2,1
+Condições monetárias e financeiras
+Taxa de juro de curto prazo (EURIBOR a 3 meses) % 2,2 2,3 2,6 2,7 2,2 2,0 2,1 2,3
+Taxa de juro implícita da dívida pública % 2,2 2,4 2,5 2,6 2,3 2,4 2,5 2,6
+Índice de taxa de câmbio efetiva tva 3,1 0,8 -0,2 0,0 2,8 1,7 0,0 0,0
+Taxa de câmbio euro-dólar vma 1,13 1,16 1,15 1,15 1,13 1,16 1,16 1,16
+Fontes: Banco de Portugal e Eurosistema (cálculos do Banco de Portugal). | Notas: tva — taxa de variação anual, % — em percentagem, vma — valor médio
+anual, MWh — megawatt-hora. As hipóteses para o PIB e comércio mundiais e as projeções para o PIB e inflação da área do euro coincidem com as do
+exercício de projeção do BCE divulgado a 19 de março (“Projeções macroeconómicas para a área do euro elaboradas por especialistas do BCE”, março de
+6
+2 2026), incluindo a informação disponível até 11 de março. As hipóteses técnicas para o preço do petróleo, gás e matérias-primas não energéticas assentam nos
+0
+2 mercados de futuros. No caso do preço do petróleo e gás, as hipóteses correspondem à média dos últimos três dias, com data de fecho a 13 de março.
+o Os preços internacionais são medidos em euros. A evolução da taxa EURIBOR a 3 meses tem por base as expetativas implícitas nos contratos de futuros, com
+ç
+r a data de fecho de 13 de março. A taxa de juro implícita da dívida pública é calculada como o rácio entre a despesa em juros do ano e a média simples do stock
+M
+da dívida no final do ano e no final do ano anterior. Um aumento da taxa de câmbio corresponde a uma apreciação. O índice de taxa de câmbio efetiva do
+o
+• euro é calculado face a um grupo de 41 países parceiros. A hipótese técnica para as taxas de câmbio bilaterais pressupõe a manutenção ao longo do horizonte
+c de projeção dos níveis observados, em média, nos últimos três dias, com data de fecho a 13 de março. O preço de importação dos concorrentes corresponde
+im
+a uma média dos deflatores de exportação dos países dos quais Portugal importa, ponderada pelo peso relativo nas importações portuguesas (para mais
+ó
+n informação, ver “Trade consistency in the context of the Eurosystem projection exercises: an overview”, ECB Ocasional Paper 108, março de 2010). As hipóteses
+o
+c para o preço de importação dos concorrentes e para a procura externa dirigida a Portugal foram estimadas com base nas projeções para a área do euro
+E
+m publicadas pelo BCE no dia 19 de março.
+ite
+lo
+B
+la
+•
+A
+m
+p
+a
+e
+n
+s
+t
+a
+e
+r
+r u
+d
+m
+a i n
+cr
+t
+e
+e
+s
+n
+c
+s
+im
+ifi
+e
+c
+n
+a
+t
+ç
+o
+ã
+r
+o
+o
+d
+b
+a
+u
+s
+s t
+t
+o
+e
+,
+n
+d
+s
+e
+õ
+c
+e
+e
+s
+r c
+g
+a
+e o
+d
+p
+e
+o
+3
+l
+,
+í
+1
+t
+%
+ica
+e
+s
+m
+, a
+2
+a
+0
+t
+2
+i
+6
+v
+–
+id
+28
+a
+,
+d
+a
+e
+p
+e
+ó
+c
+s
+o
+t
+n
+er
+ó
+c
+m
+re
+ic
+s
+a
+ci d
+m
+o
+u
+3
+n
+,4
+d
+%
+ia l
+e
+d
+m
+e v
+2
+e
+02
+rá
+5
+g
+u
+tr (Quadro C1.1). Em 2025, a economia global surpreendeu em alta face às projeções no início do ano.
+o
+P Esta evolução deveu-se a diversos fatores, nomeadamente ao dinamismo do investimento em
+e
+d
+o
+tecnologia, com destaque para a inteligência artificial, à adoção de políticas orçamentais de cariz
+c
+n expansionista e às condições financeiras globalmente acomodatícias, que atenuaram os impactos
+a
+B
+18
+
+[Página 21]
+adversos decorrentes das tensões comerciais. Nos EUA, a aceleração do consumo privado e do
+investimento e a solidez das exportações continuam a suportar a expansão da atividade. Na China,
+o desempenho das exportações mantém-se robusto, enquanto a procura interna permanece fraca
+refletindo debilidades no setor imobiliário. O ponto de partida mais sólido da economia mundial no
+início de 2026 permite absorver parte do impacto do choque energético. Assim, as perspetivas para
+a atividade mundial não se alteraram substancialmente face a dezembro, uma vez que as revisões em
+baixa devidas ao impacto adverso da guerra foram compensadas pela divulgação de dados mais
+positivos do que o esperado.
+Gráfico C1.2 • Hipóteses para os preços do petróleo e gás e para as taxas de juro de curto prazo
+Painel A — Preço do Petróleo | EUR Painel B — Preço do Gás | EUR Painel C — Euribor a 3 meses
+| Percentagem
+Fontes: Painel A — Preço do petróleo: preço do barril Dated Brent. Painel B — Preço do gás: preço do gás natural de referência por megawatt/hora
+para o mercado europeu (TTF Dutch). Painel C — Euribor 3 meses. | Notas: As projeções para o preço do petróleo e do gás são baseadas nos futuros
+destas matérias-primas; em Dez.25 correspondem aos níveis médios observados nas duas semanas anteriores à data de fecho do exercício de projeção
+de dezembro do BCE (26 novembro), em Mar.26, correspondem aos níveis médios observados nos últimos três dias, com data de fecho a 13 de março. As
+projeções para a Euribor a 3 meses são baseadas nas expetativas implícitas nos contratos de futuros nas datas de fecho referidas, ie, 26 de novembro e
+13 de março, respetivamente.
+O comércio mundial, após um crescimento de 4,7% em 2025, deverá desacelerar em 2026 para
+2,4% e recuperar para 3% em 2027–28 (Quadro C1.1). O forte crescimento em 2025 reflete, em
+larga medida, uma antecipação de transações no início do ano em resposta ao anúncio de aumentos
+de taxas aduaneiras pelos EUA, tendo beneficiado também do elevado dinamismo da componente de
+comércio de bens de alta tecnologia, incluindo semicondutores. A procura externa dirigida à economia
+portuguesa aumentou 4,3% neste ano, próximo do crescimento do comércio global. No horizonte de
+projeção, o perfil da procura externa está alinhado com o do comércio mundial, com crescimentos de 2,1%
+em 2026, 2,6% em 2027 e 3,1% em 2028. Estas hipóteses incorporam um cenário de taxas aduaneiras
+8
+inferiores ao considerado nas projeções de dezembro. Tal deve-se ao efeito conjugado de dois fatores: 2
+–
+6
+a decisão do Supremo Tribunal de Justiça que determinou a ilegalidade das tarifas anteriormente impostas 2
+0
+2
+pelos EUA ao abrigo do International Emergency Economic Powers Act e a recente introdução de uma taxa :a
+s
+aduaneira comum de 10% pela Administração norte-americana sobre os produtos importados de e
+u
+g
+todos os parceiros comerciais.12 u
+tr
+o
+p
+As projeções de março do BCE para o crescimento na área do euro foram revistas 0,3 pp em
+a
+im
+baixa em 2026, para 0,9%, e 0,1 pp em alta em 2027, para 1,3%, mantendo-se inalteradas em
+o
+n
+2028 em 1,4%. O crescimento da atividade na área do euro em 2025 (1,5%) ficou acima do projetado o
+c
+e
+a
+a
+r
+a
+p
+s
+e
+õ
+12 Embora a imposição de tarifas aduaneiras sem aprovação do Congresso apenas seja possível durante 150 dias ― de acordo com o ç e
+jo
+enquadramento legal posteriormente anunciado ― assumiu-se que a nova taxa aduaneira comum se mantém em vigor até ao final do horizonte. r
+P
+19
+
+[Página 22]
+pelo BCE/Eurosistema ao longo do ano. O impacto da guerra no Médio Oriente explica a revisão em
+baixa do crescimento em 2026, refletindo a dependência da economia europeia da energia importada.
+A subida dos preços destas matérias-primas deverá refletir-se nos custos de produção ― em
+particular, nos transportes e na indústria — e nas despesas em energia das famílias. O impacto negativo
+sobre o poder de compra das famílias limita a evolução do consumo privado, com a projeção do BCE
+a assumir também efeitos de confiança negativos sobre este agregado e o investimento. A revisão
+contida da atividade assenta na expetativa de que as pressões significativas sobre os preços do
+petróleo e do gás se revelarão temporárias. Deste modo, as projeções para 2027–28 incorporam uma
+aceleração da atividade, que beneficia de um maior dinamismo do investimento e do reforço previsto
+da despesa pública, sobretudo na Alemanha.
+De acordo com as projeções de março do BCE, a inflação na área do euro deverá aumentar de
+2,1% em 2025 para 2,6% em 2026, e convergir para 2,0% em 2027 e 2,1% em 2028. A projeção
+para 2026 foi revista 0,7 pp em alta face a dezembro, refletindo preços da energia mais elevados no
+curto prazo. A inflação excluindo bens alimentares e energéticos deverá situar-se em 2,3% em 2026
+e 2,2% em 2027 — incorporando uma revisão em alta de 0,1 pp e 0,3 pp face a dezembro refletindo
+os efeitos indiretos da subida dos preços da energia — atingindo 2,1% em 2028. Assume-se assim que
+o impacto do choque de oferta associado à subida do preço das matérias-primas energéticas sobre
+a inflação será de curta duração, refletindo o carácter temporário da subida desses preços incorporado
+nos mercados de futuros. Este resultado depende também das expetativas de inflação se manterem
+ancoradas no objetivo de médio prazo do BCE. Um aumento destas expetativas desencadearia efeitos
+de segunda ordem, com os empresários que esperam maior inflação a aumentar os preços dos seus
+produtos e os trabalhadores com expetativas similares a exigirem maiores salários. As expetativas de
+inflação baseadas em swaps registaram um aumento recente nos prazos mais curtos, mas mantêm-se
+ancoradas no objetivo nos prazos longos (Gráfico C1.3).
+Gráfico C1.3 • Expetativas de mercado para a inflação na área do euro |Percentagem
+6
+2
+0
+2
+o
+ç
+r
+a
+M
+o
+•
+c Fonte: LSEG (cálculos do Banco de Portugal). | Nota: Expetativas de inflação com base em swaps, calculadas como a inflação implícita entre diferentes
+im
+taxas à vista.
+ó
+n
+o
+c
+E
+m As hipóteses para a taxa EURIBOR a 3 meses foram revistas em alta face a dezembro e apresentam
+ite um perfil de subida ao longo do horizonte de projeção. Em termos médios anuais, as taxas de juro
+lo
+B de curto prazo na área deverão subir para 2,3% em 2026 (revisão de 0,3 pp face a dezembro)
+la
+•
+e posteriormente para 2,6% em 2027 e 2,7% em 2028 (revisões de 0,5 pp e 0,4 pp, respetivamente)
+g
+u (Quadro C1.1 e Gráfico C1.2 ― Painel C). A taxa de juro implícita da dívida pública portuguesa aumenta
+tr
+o gradualmente no horizonte de projeção, de 2,2% em 2025 para 2,6% em 2028. Em média anual, o euro
+P
+e d apreciou cerca de 3% em termos nominais efetivos em 2025 e, de acordo com as hipóteses técnicas,
+o
+c deverá apreciar 0,8% em 2026 e depreciar 0,2% em 2027.
+n
+a
+B
+20
+
+[Página 23]
+Caixa 2 • Evolução recente do emprego por conta de outrem à luz dos microdados
+da Segurança Social
+Esta caixa analisa a evolução recente do emprego por conta de outrem em Portugal com base nos
+microdados da Segurança Social. Estes dados, com frequência mensal, abrangem o universo
+de trabalhadores por conta de outrem com contribuições reportadas à Segurança Social, cobrindo
+assim praticamente todo o emprego por conta de outrem do setor privado. Incluem também os
+funcionários públicos inscritos na Segurança Social, mas excluem os subscritores da Caixa Geral de
+Aposentações. A informação está disponível para o período entre janeiro de 2010 e setembro de 2025.
+O número de trabalhadores por conta de outrem com remunerações declaradas à Segurança Social
+continuou a aumentar em 2025, atingindo um máximo da série (Gráfico C2.1 — Painel A). No entanto,
+observou-se um abrandamento gradual ao longo de 2025, com a taxa de variação homóloga a fixar-se
+em 2% em setembro (Gráfico C2.1 — Painel B), o que compara com 2,6% nos três primeiros trimestres
+de 2025, e crescimentos médios anuais de 3,4% em 2024 e 5,0% em 2023. A inclusão dos subscritores
+da Caixa Geral de Aposentações resulta num crescimento inferior (1,6% em setembro de 2025, 2,0%
+nos três primeiros trimestres de 2025, 2,8% em 2024 e 4,2% em 2023), refletindo o facto de
+praticamente não existirem novas entradas neste regime, apenas saídas por reforma ou outros
+motivos.
+Gráfico C2.1 • Trabalhadores por conta de outrem com remunerações declaradas à Segurança
+Social
+Painel A — Número | Em milhares Painel B — Taxa de variação homóloga
+| Em percentagem
+Fonte: Microdados da Segurança Social (cálculos do Banco de Portugal) e Caixa Geral de Aposentações (CGA). | Notas: Na Segurança Social, consideram-
+se os trabalhadores por conta de outrem com pelo menos um dia de trabalho no mês, com morada em Portugal e remuneração base positiva. A última
+observação dos gráficos corresponde ao mês de setembro de 2025.
+8
+2
+–
+6
+Um dos elementos centrais da dinâmica do emprego nos últimos anos tem sido o contributo dos 2 0
+2
+trabalhadores com nacionalidade estrangeira, num contexto de redução da população nacional em :a
+s
+idade ativa e de escassez de mão-de-obra em setores específicos da economia.13 Em 2025, o número e u
+g
+u
+de trabalhadores estrangeiros continuou a aumentar de forma significativa, contrastando com tr
+o
+o aumento bastante mais moderado do emprego de trabalhadores nacionais (taxas de variação p
+a
+homóloga de 11,8% e 0,8%, respetivamente, no período de janeiro a setembro). Em resultado,
+im
+o
+n
+a percentagem de trabalhadores estrangeiros no emprego por conta de outrem manteve uma o
+c
+e
+a
+a
+r
+a
+p
+s
+e
+õ
+13 Ver Tema em destaque “Caraterização dos trabalhadores estrangeiros por conta de outrem em Portugal” do Boletim Económico de junho de ç e
+jo
+2024 para uma análise da evolução e caraterização destes trabalhadores. r
+P
+21
+
+[Página 24]
+trajetória ascendente, fixando-se em 17,6%, em média, nos três primeiros trimestres de 2025, o
+que compara com 16,4% em 2024 e 5,9% em 2019.
+O abrandamento do emprego por conta de outrem em 2025 é explicado pelos trabalhadores de
+nacionalidade estrangeira: enquanto o contributo dos trabalhadores nacionais para a variação
+total aumentou ligeiramente (para 0,7 pp nos três primeiros trimestres, após um contributo médio
+anual de 0,3 pp em 2024), o contributo dos trabalhadores estrangeiros situou-se em 1,9 pp, que
+compara com 3,0 pp em 2024 (Gráfico C2.2). Este menor contributo esteve sobretudo associado
+à redução significativa do contributo dos trabalhadores oriundos dos países do Sul da Ásia —
+Índia, Bangladesh, Nepal e Paquistão — que passou de 0,9 pp em 2024 para 0,3 pp no período de
+janeiro a setembro de 2025, observando-se taxas de variação homólogas negativas a partir de
+julho. Verificou-se igualmente uma diminuição do contributo dos trabalhadores provenientes do
+Brasil, de 0,8 pp para 0,3 pp. Estas reduções foram apenas parcialmente compensadas pelo
+aumento do contributo dos trabalhadores dos Países Africanos de Língua Oficial Portuguesa
+(PALOP), que passou de 0,9 pp para 1,1 pp.
+O menor dinamismo do emprego estrangeiro, já observado no ano anterior, reflete a redução do
+saldo migratório de indivíduos com nacionalidade estrangeira após os máximos registados em 2022
+e 2023.14 Esta evolução estará associada às alterações legislativas às regras de imigração e ao menor
+crescimento da atividade económica, em particular nos setores que registaram um forte dinamismo
+na fase da recuperação pós-pandemia.
+Gráfico C2.2 • Taxa de variação homóloga do emprego por conta de outrem e contributos por
+país de nacionalidade| Em percentagem e pontos percentuais
+6
+2
+0
+2
+o
+ç
+r
+a
+M
+o
+•
+c im Fonte: Microdados da Segurança Social (cálculos do Banco de Portugal).
+ó
+n
+o
+c
+E
+m
+ite
+lo
+B
+la
+•
+g
+u
+tr
+o
+P
+e
+d
+o
+c
+n
+a B 14 Ver caixa “Monitorização mensal dos fluxos migratórios de estrangeiros e os seus desafios” do Boletim Económico de dezembro de 2025.
+22
+
+[Página 25]
+Por setor de atividade económica, o abrandamento do emprego nos três primeiros trimestres de
+2025 foi mais expressivo no alojamento e restauração (redução do contributo para a variação total
+de 0,5 pp para 0,2 pp), na agricultura e pesca (de 0,2 pp para -0,1 pp) e no comércio (de 0,5 pp
+para 0,3 pp) (Gráfico C2.3). O contributo da indústria também diminuiu, passando a ser negativo
+(de 0,0 pp para -0,1 pp), enquanto o da construção se manteve positivo, em 0,5 pp. Estes setores
+apresentam salários médios inferiores à média da economia. Em contraste, o contributo da
+administração pública, saúde e educação aumentou de 0,6 pp para 0,8 pp (considerando também
+os subscritores da Caixa Geral de Aposentações, o contributo passaria de 0,3 pp para 0,4 pp).
+Gráfico C2.3 • Taxa de variação homóloga do emprego por conta de outrem e contributos
+por setor de atividade económica | Em percentagem e pontos percentuais
+Fonte: Microdados da Segurança Social (cálculos do Banco de Portugal).
+O cruzamento entre o setor de atividade da empresa e a nacionalidade do trabalhador mostra
+que o maior contributo dos trabalhadores nacionais para a variação do emprego total em 2025,
+face a 2024, esteve associado a uma aceleração do emprego na administração pública, saúde
+e educação e na construção, bem como a uma menor redução nas atividades administrativas
+e serviços de apoio (Gráfico C2.4 — Painel A). No caso dos trabalhadores estrangeiros, a diminuição
+do seu contributo foi generalizada por setor de atividade, destacando-se os setores do alojamento 8 2
+–
+e restauração, da agricultura e pescas, do comércio e da indústria (Gráfico C2.4 — Painel B). 6 2
+0
+2
+Em suma, nos últimos anos, o crescimento do emprego tem sido sustentado, em larga medida, pelos :a
+s
+e
+trabalhadores de nacionalidade estrangeira. Contudo, o seu contributo tem vindo a diminuir e as u
+g
+u
+projeções apresentadas neste Boletim assumem que os fluxos de imigração se continuarão tr
+o
+p
+a reduzir. Neste contexto, e tendo em consideração que a estrutura etária da população permanece
+a
+im
+desfavorável, torna-se essencial que o crescimento económico esteja progressivamente mais
+o
+n
+ancorado em ganhos de produtividade e menos na expansão do emprego. Tal implica reforçar o
+c
+e
+a aposta na qualificação da população, bem como no investimento e na inovação, tirando partido a
+a
+dos progressos na automatização, na digitalização e na inteligência artificial. A sustentabilidade de r a
+p
+aumentos duradouros dos salários reais e do bem-estar depende, em última instância, de um s e
+õ
+crescimento suficientemente robusto da produtividade por trabalhador. ç e
+jo
+r
+P
+23
+
+[Página 26]
+Gráfico C2.4 • Contributos para a taxa de variação homóloga do emprego por conta de outrem
+— por nacionalidade e setor de atividade económica | Em pontos percentuais
+Painel A — Trabalhadores nacionais
+Painel B — Trabalhadores estrangeiros
+6
+2
+0
+2
+o
+ç
+r
+a
+M
+o
+c
+•
+im
+ó Fonte: Microdados da Segurança Social (cálculos do Banco de Portugal).
+n
+o
+c
+E
+m
+ite
+lo
+B
+la
+•
+g
+u
+tr
+o
+P
+e
+d
+o
+c
+n
+a
+B
+24
+
+[Página 27]
+Caixa 3 • Indicadores de acessibilidade à habitação: evolução recente e perspetiva
+regional
+O índice de preços na habitação registou um aumento significativo na última década (cerca de 140%
+entre 2016 e 2025; 80% desde 2019). Entre o primeiro trimestre de 2019 e o primeiro trimestre de
+2025, verificou-se igualmente uma subida da renda mediana por 𝑚2 de cerca de 65%. A evolução mais
+recente destes preços veio acentuar a preocupação com a acessibilidade à habitação. Neste quadro,
+esta caixa atualiza os indicadores de acessibilidade à habitação, via crédito ou arrendamento,
+apresentados no Boletim Económico de outubro de 2023.15 Atendendo à elevada heterogeneidade
+regional dos preços e das rendas, os indicadores são calculados também ao nível do município.16
+A acessibilidade à habitação via crédito pode ser avaliada pelo esforço financeiro de uma família de
+rendimento mediano pagar a prestação de um empréstimo para a compra de uma casa de
+dimensão mediana a um preço mediano. O indicador tenta assim aproximar a situação de um
+agregado familiar representativo que, em cada período, decide comprar casa com recurso a crédito.
+Não capta as circunstâncias específicas de cada agregado familiar, por exemplo, em termos de
+composição, estrutura etária, montante disponível para entrada inicial ou condições efetivamente
+negociadas com as instituições de crédito.
+O indicador corresponde ao rácio entre a prestação de um empréstimo hipotecário e o rendimento
+mediano dos agregados familiares nacionais. Para o rendimento mediano utilizaram-se os dados
+relativos aos agregados fiscais a nível local, que foram conjugados com informação agregada do
+rendimento disponível das famílias em contas nacionais.17 O valor da prestação mensal é dado por:
+M×𝑖
+V= n ,
+[1−(1+𝑖) −𝑛𝑇 ]
+𝑛
+em que 𝑀 corresponde ao montante de empréstimo necessário para adquirir a habitação e 𝑖 denota
+a taxa anual de encargos efetiva global (TAEG) dos novos empréstimos à habitação. O montante do
+empréstimo corresponde a 90% do valor da casa, em linha com o limite máximo fixado pela
+recomendação macroprudencial para a aquisição de uma habitação própria e permanente. Este
+valor corresponde ao de uma casa de área mediana (101 𝑚2), avaliada ao preço mediano por 𝑚2 das
+15 Ver caixa “Medidas de acessibilidade à habitação” do Boletim Económico de outubro de 2023. 8 2
+–
+16 As disparidades regionais na acessibilidade à habitação em Portugal foram abordadas por Rodrigues (coord.) (2022), “O mercado imobiliário 6 2
+0
+em Portugal”, Resumos da Fundação 15, Fundação Francisco Manuel dos Santos, e por Novo et al. (2024), “Análise de indicadores de 2
+:a
+acessibilidade à habitação em Portugal: Perspetiva Regional”, Tema económico 122, Gabinete de Estratégia e Estudos da Economia e do Mar. s
+e
+17 Em concreto, utilizaram-se dados do rendimento bruto deduzido do IRS liquidado dos agregados fiscais, disponíveis para o total do país e u g
+u
+por município, com detalhe para os diversos percentis de rendimento (Fonte: INE, Estatísticas do Rendimento ao nível local). Estes dados são tr
+o
+p
+inferiores ao rendimento disponível das famílias, uma vez que há rendimentos que estão fora do âmbito do IRS ou dispensados de declaração
+a
+em IRS (ver nota técnica da referida publicação). Assim os valores foram ajustados por um fator de escala que permite igualar o "rendimento
+im
+o
+bruto deduzido do IRS liquidado” e o rendimento disponível das famílias de contas nacionais (excluindo as rendas, maioritariamente imputadas, n o
+c
+e os ajustamentos pelos serviços de intermediação financeira indiretamente medidos). Este fator de escala foi aplicado a todos os momentos da e
+a
+distribuição do rendimento, a nível nacional e por município. A hipótese subjacente é a de que a subavaliação é relativamente proporcional para a
+r
+a
+as famílias de diferentes níveis de rendimento. A aplicação deste fator de escala resulta numa distribuição dos rendimentos das famílias p
+s
+consistente com a obtida no Inquérito às Condições de Vida e Rendimento (Fonte: INE). A série de rendimento mediano dos agregados fiscais e
+õ
+está disponível em frequência anual, tendo sido trimestralizada usando o rendimento disponível per capita das Contas Nacionais. As variações ç e
+jo
+desta série foram também usadas para prolongar a do rendimento mediano para o período pós-2023 e para o período anterior a 2015. r
+P
+25
+
+[Página 28]
+transações de habitações.18 Considera-se uma maturidade (𝑇) do empréstimo de 35 anos e 𝑛=12,
+assumindo o pagamento de prestações mensais.
+Entre 2009 e 2021, o indicador manteve-se em níveis inferiores a 30%, i.e., a prestação de um
+empréstimo contraído nesse período para aquisição de uma casa mediana era inferior a 30% do
+rendimento mediano (Gráfico C3.1, painel A). A partir de 2022, observa-se uma deterioração rápida da
+acessibilidade, com o indicador a atingir 53% no último trimestre de 2023. Na análise considerou-se
+que um valor do indicador acima de 40% sinaliza uma sobrecarga para uma família de rendimento
+mediano. Este limiar de 40% é meramente ilustrativo, correspondendo aos padrões convencionais de
+acessibilidade.19 No período recente, o peso da prestação do empréstimo no rendimento da família
+mediana reduziu-se ligeiramente, situando-se em 48% nos três primeiros trimestres de 2025.
+Gráfico C3.1 • Indicador de acessibilidade à habitação via crédito
+Painel A ― Percentagem Painel B ― Taxa de variação acumulada desde 2019 T1
+| Em percentagem, e decomposição, em pontos
+percentuais
+Fontes: Banco de Portugal e INE. | Notas: O indicador de acessibilidade corresponde ao rácio entre a prestação do empréstimo para aquisição de habitação
+e o rendimento mediano dos agregados familiares nacionais. O montante do empréstimo equivale a 90% do preço da casa, que foi obtido considerando o
+valor de uma casa com área de 101 m2 (área mediana das casas existentes no país) ao preço mediano por m2 das habitações transacionadas no período.
+Assume-se a taxa de juro anual de encargos efetiva global (TAEG) dos novos empréstimos à habitação e uma maturidade do empréstimo de 35 anos. Um
+aumento do indicador corresponde a uma deterioração da acessibilidade à habitação.
+6
+2
+0
+2
+o
+ç
+r
+a
+M
+o
+•
+18 A área mediana das casas utiliza a informação dos Censos 2021 sobre o número de alojamentos familiares clássicos de residência habitual
+c
+im
+por escalão de área útil. A mediana foi estimada através de interpolação linear no escalão onde a frequência acumulada atinge 50% do total
+ó
+n (Fonte: INE, O que nos dizem os Censos sobre a habitação, 2023). Os preços medianos por m² correspondem ao valor mediano das vendas de
+o
+c
+E alojamentos familiares nos últimos 12 meses (€/m²) por localização geográfica, disponíveis para o período 2019-2023 (Fonte: INE, Estatísticas
+m
+ite de preços da habitação ao nível local). A série do preço mediano para o país foi prolongada para o período anterior a 2019 usando as taxas de
+lo variação do Índice de Preços na Habitação e, antes de 2018, do Índice Confidencial Imobiliário.
+B
+la
+• 1
+q
+9
+u e
+O
+o
+E u
+rá
+ro
+c
+s
+io
+ta
+e
+t
+n
+d
+t
+e
+r
+f
+e
+in
+a
+e
+s
+a
+d
+"
+e
+t
+s
+a
+p
+x
+e
+a
+s
+d
+as
+e
+a
+so
+n
+b
+u
+r
+a
+e
+is
+c a
+c
+r
+o
+g
+m
+a d
+a
+a s
+h a
+d
+b
+e
+i
+s
+t
+p
+aç
+e
+ã
+s
+o
+as
+e
+e m
+o r
+h
+e
+a
+n
+b
+d
+i
+i
+t
+m
+aç
+e
+ã
+n
+o
+t
+"
+o
+c
+d
+o
+i
+m
+sp
+o
+o
+a
+n í
+p
+ve
+ro
+l
+p
+(d
+or
+e
+ç
+d
+ã
+u
+o
+z i
+d
+d
+a
+a s
+p o
+a
+p
+s
+u
+tr
+la
+a
+ç
+n
+ã
+s
+o
+fe
+q
+rê
+u
+n
+e
+c
+v
+ia
+iv
+s
+e
+s
+e
+o
+m
+cia
+a
+is
+g r
+r
+e
+e
+g
+l
+a
+a
+d
+tiv
+o
+a
+s
+s
+f a
+à
+m
+h
+il
+a
+ia
+b
+r
+it
+e
+a
+s
+ç
+e
+ão
+m
+)
+g
+u tr é superior a 40%, sendo que nestas despesas estão incluídas as despesas relacionadas com a renda, água, eletricidade, gás, condomínio,
+o
+P saneamento, manutenção e pequenas reparações, bem como juros (mas não a amortização de capital) relativos ao crédito à habitação principal
+e
+d e seguros. De acordo com a recomendação macroprudencial do Banco de Portugal, a proporção de rendimento anual dos agregados familiares
+o
+c alocado às despesas com as prestações bancárias não deve exceder 50%, sendo que no cálculo da prestação deve ser considerado o impacto
+n
+a B de um aumento da taxa de juro (de 1,5 pp no caso de contratos a taxa variável ou mista com prazo superior a 10 anos).
+26
+
+[Página 29]
+A deterioração da acessibilidade via crédito pode ser decomposta nos contributos do montante
+do empréstimo, da taxa de juro e do rendimento (Gráfico C3.1, painel B). Entre o início de 2019
+e o final de 2023, o rácio prestação/rendimento duplicou. A prestação mensal aumentou de 350€
+para 855€, refletindo o aumento do montante do empréstimo — de cerca de 96 800€ para cerca
+de 146 400€, associado às pressões sobre os preços — a que se adicionou o impacto do aumento
+das taxas de juro a partir de 2022. No período recente, o contributo da taxa de juro atenuou-se
+ligeiramente, refletindo a convergência das taxas de política monetária para o seu nível de longo
+prazo, mas tal implicou uma melhoria limitada da acessibilidade dado que se continuaram
+a observar aumentos marcados do preço mediano das habitações transacionadas. A deterioração
+da acessibilidade ocorreu não obstante o aumento nominal de cerca de 34% do rendimento
+mediano das famílias portuguesas entre o início de 2019 e o terceiro trimestre de 2025.
+As dificuldades de acesso à habitação não estão distribuídas uniformemente no país. O gráfico C3.2
+apresenta o indicador de acessibilidade à habitação via crédito para os diferentes municípios em 2019
+e 2023 (último ano para o qual existe informação do rendimento a nível local). O indicador foi calculado
+usando a informação relativa ao município para o rendimento mediano (ver nota de pé-de-página 3),
+para a área mediana dos fogos existentes e para o preço mediano das transações de imóveis (a taxa
+de juro e as restantes hipóteses do cálculo são comuns a todos os municípios). Observa-se um
+agravamento generalizado das condições de acesso via crédito à habitação no período. Enquanto
+em 2019 o indicador só ultrapassava o limiar de 40% em 9 municípios, em 2023 encontravam-se nesta
+situação 104 municípios (num total de 294 para os quais existe informação para o cálculo do indicador).
+Os municípios do litoral destacam-se pela menor acessibilidade. Entre os municípios mais populosos,
+destacam-se Lisboa e Porto. No primeiro caso, a prestação mensal para comprar uma casa de área
+mediana aumentou de 907€ em 2019 para 1811€ em 2023, representando uma taxa de esforço
+teórica de 102% para uma família de rendimento mediano. No Porto, a prestação mensal aumentou
+de 550€ em 2019 para 1339€ em 2023, correspondendo a 84% do rendimento mediano dos
+agregados familiares desse município.
+Dado que os resultados apontam para um acesso difícil à habitação para a família de rendimento
+mediano, pode colocar-se a questão “a partir de que percentil da distribuição de rendimento é possível
+comprar uma casa mediana com recurso a crédito sem ultrapassar uma taxa de esforço de 40%?”.
+O gráfico C3.3 apresenta a resposta para os anos de 2019 e 2023, por município, e confirma uma
+marcada redução da acessibilidade, generalizada nos municípios do litoral do país. Por exemplo, nos
+municípios de Lisboa e do Porto, apenas os agregados familiares com rendimento acima do
+percentil 90 e 80, respetivamente, conseguiriam adquirir uma casa mediana a preços medianos,
+8
+mantendo uma prestação inferior a 40% do rendimento. Refira-se que nalguns municípios do Algarve 2
+–
+6
+(assinalados a negro), tendo em conta a distribuição de rendimentos, a quase totalidade dos 2
+0
+2
+agregados familiares residentes não seriam elegíveis para um empréstimo para compra da casa :a
+s
+mediana. Tal refletirá a prevalência de preços demasiado elevados para os rendimentos das famílias e u
+g
+locais, implicando que a compra só é acessível para famílias com poupança acumulada ou não u tr
+o
+residentes no município com rendimentos mais elevados (incluindo residentes no estrangeiro). p
+a
+im
+Ponderando os resultados por município pela população respetiva, em 2019 a casa mediana seria
+o
+n
+acessível — pela regra do rácio prestação/rendimento máximo de 40% — para cerca de 70% dos o
+c
+e
+agregados familiares do país, enquanto em 2023 menos de 37% das famílias conseguiria ter acesso. a
+a
+r
+a
+p
+s
+e
+õ
+ç
+e
+jo
+r
+P
+27
+
+[Página 30]
+Gráfico C3.2 • Indicador de acessibilidade à habitação via crédito — por município | Percentagem
+Painel A — 2019 Painel B — 2023
+Fontes: Banco de Portugal e INE. | Notas: O indicador de acessibilidade corresponde ao rácio entre a prestação do empréstimo para aquisição de habitação
+e o rendimento mediano dos agregados familiares do município. O montante do empréstimo equivale a 90% do preço da casa, que foi obtido considerando
+a área mediana das habitações existentes no município, de acordo com o Censos 2021, e o preço mediano por m2 das habitações transacionadas no município
+em cada ano. Para os municípios a cinzento, não existe informação para o cálculo do indicador. Um aumento do indicador entre 2019 e 2023 corresponde
+a uma deterioração da acessibilidade à habitação.
+Gráfico C3.3 • Percentil de rendimento do agregado familiar com indicador de acessibilidade
+inferior a 40% — por município
+Painel A — 2019 Painel B — 2023
+6
+2
+0
+2
+o
+ç
+r
+a
+M
+o
+•
+c
+im
+ó
+n
+o
+c
+E
+m
+ite
+lo
+B
+la
+•
+g
+u
+tr
+o
+P
+e
+Fontes: Banco de Portugal e INE. | Notas: O indicador de acessibilidade corresponde ao rácio entre a prestação do empréstimo para aquisição de habitação
+d e o rendimento mediano dos agregados familiares. O montante do empréstimo equivale a 90% do preço da casa, que foi obtido considerando a área mediana
+o c das habitações existentes no município, de acordo com o Censos 2021, e o preço mediano por m2 das habitações transacionadas no município em cada ano.
+n
+a Para os municípios a cinzento, não existe informação para o cálculo do indicador.
+B
+28
+
+[Página 31]
+O indicador utilizado assume implicitamente uma correspondência direta entre a família de
+rendimento mediano e o imóvel mediano (i.e., de área mediana e preço mediano por 𝑚2). No entanto,
+o preço mediano pode sobrestimar o preço relevante para a família típica.20 Uma análise de
+sensibilidade com base no percentil 25 da distribuição de preços pode captar um segmento de
+mercado potencialmente mais alinhado com a capacidade financeira da família de rendimento
+mediano. O indicador pode também ser recalculado assumindo uma casa com uma área inferior
+(especificamente a área do percentil 25 das habitações existentes de acordo com o Censos 2021).
+Estas hipóteses alternativas — a aquisição de uma casa de menor dimensão ou num segmento de
+menor custo — podem constituir uma aproximação às circunstâncias de entrada dos jovens no
+mercado de habitação. Os resultados mantêm-se qualitativamente inalterados: embora as taxas de
+esforço teóricas sejam inferiores, registam um aumento significativo entre 2019 e 2023 (Gráfico C3.4).
+Mesmo com a consideração de opções habitacionais mais modestas (implicando menor montante de
+empréstimo), persistem municípios em que o indicador de acessibilidade apresenta valores superiores
+a 40% em 2023: 52 municípios no caso de uma casa de área no percentil 25, 49 no caso de uma casa
+a preço do percentil 25 e 17 no caso de uma casa de área e preço do percentil 25. Tal sugere a robustez
+da conclusão de um aumento das barreiras no acesso à habitação via crédito no período recente.
+O indicador utilizado considera como referência o agregado familiar de rendimento mediano. No
+entanto, uma análise dos novos empréstimos à habitação mostra que estes estão concentrados em
+famílias de rendimento mais elevado.21 Num exercício adicional de sensibilidade, o indicador foi
+recalculado para o agregado familiar do percentil 75 da distribuição de rendimentos (mantendo as
+hipóteses medianas para a área e o preço da casa) (Gráfico C3.4). Como esperado, a taxa de esforço
+assume valores mais favoráveis, mas agrava-se entre 2019 e 2023. A nível regional, em 26 municípios
+o limiar de 40% é ultrapassado, apontando para dificuldades no acesso à habitação mesmo para
+famílias de maior rendimento.
+As famílias têm a opção de arrendar em vez de comprar, mas a evidência aponta para um difícil acesso
+à habitação também por esta via. A acessibilidade à habitação via arrendamento pode ser avaliada pelo rácio
+entre a renda de uma casa mediana — dada pelo produto da área da casa (101 𝑚2) e a renda mediana
+por 𝑚2 dos novos contratos de arrendamento22 — e o rendimento mediano dos agregados familiares
+(Gráfico C3.5, painel A). De acordo com o indicador, a acessibilidade via arrendamento reduziu-se, com
+o peso destes encargos no rendimento mediano a passar de 36% em 2019 para 47% no início de 2025.
+A redução da acessibilidade reflete a subida da renda mediana por 𝑚2 muito superior à do rendimento
+nominal mediano (Gráfico C3.5, painel B).
+8
+2
+–
+6
+2
+0
+2
+:a
+s
+e
+u
+g
+20 A mediana dos preços dos imóveis transacionados é influenciada, por exemplo, pelas compras de não residentes cujos preços se situam na u tr
+o
+cauda superior da distribuição. p
+a
+21 Com base na informação da Central de Responsabilidades de Crédito (CRC) ao nível do empréstimo, verifica-se que o rendimento mediano dos im
+o
+novos devedores é sempre mais elevado do que o rendimento mediano dos agregados familiares nacionais no período 2019-2025, e que a diferença n
+o
+aumentou a partir de 2022-2023. O rendimento mediano dos novos mutuários, que em 2019 se situava entre os percentis 60 e 70 dos rendimentos c e
+a
+dos agregados familiares nacionais, passou em 2023 a situar-se entre os percentis 70 e 75. Este aumento do percentil típico dos novos devedores nos a
+r
+últimos anos sugere que um grupo de potenciais compradores de rendimento mais baixos poderão ter sido excluídos do mercado de habitação pelos a p
+preços e taxas de juro elevados. s e
+õ
+22 Corresponde ao valor mediano das rendas por m² de novos contratos de arrendamento de alojamentos familiares nos últimos 12 meses por ç e
+jo
+localização geográfica (fonte: INE, Estatísticas de Rendas da Habitação ao nível local). r
+P
+29
+
+[Página 32]
+Gráfico C3.4 • Indicador de acessibilidade à habitação — análise de sensibilidade | Percentagem
+Fontes: Banco de Portugal e INE. | Notas: O indicador de acessibilidade corresponde ao rácio entre a prestação do empréstimo para aquisição de habitação
+e o rendimento dos agregados familiares. A análise de sensibilidade considera, por um lado, montantes do empréstimo equivalentes a 90% dos preços das
+casas, obtidos considerando a área mediana e o preço (por m2) do percentil 25 das habitações transacionadas, a área do percentil 25 das habitações existentes
+e a combinação da área e preço do percentil 25, por outro lado, o agregado familiar do percentil 75. A análise apresentada no gráfico foi efetuada utilizando
+os dados para o total do país.
+Gráfico C3.5 • Indicador de acessibilidade à habitação via arrendamento
+Painel A — Percentagem Painel B — Taxa de variação acumulada desde 2019
+| Em percentagem, e decomposição, em pontos
+percentuais
+6
+2
+0
+2
+o
+ç Fontes: Banco de Portugal e INE. | Notas: O indicador de acessibilidade via arrendamento corresponde ao rácio entre a renda e o rendimento mediano dos agregados
+r
+a M familiares nacionais. O montante da renda é obtido considerando uma casa com área de 101 m2 (área mediana das casas existentes no país) e a renda mediana por
+o
+c
+•
+m 2 dos novos contratos de arrendamento no período. Um aumento do indicador corresponde a uma deterioração da acessibilidade à habitação.
+im
+ó
+n Tal como na acessibilidade via crédito, observam-se disparidades regionais no indicador de acesso
+o
+c E à habitação via arrendamento (Gráfico C3.6). Entre 2019 e 2023, verificou-se um agravamento generalizado
+m
+ite das condições de acesso ao arrendamento. No município de Lisboa, a renda mensal mediana era 1001€
+lo
+em 2019 e aumentou para 1274€ em 2023, implicando neste ano um peso no rendimento mediano
+B
+la
+• de 72%, ou seja, sinalizando a extrema dificuldade destas famílias arrendarem uma casa de renda
+g mediana. No município do Porto, a evidência é semelhante: em 2019, a renda mensal mediana era
+u
+tr
+o 794€, aumentando para 1054€ em 2023 (situando-se o indicador de acessibilidade em 66%).
+P
+e
+d Os resultados apresentados apontam para um agravamento das dificuldades de acesso à habitação em
+o
+c n Portugal relativamente transversal em termos regionais, mas particularmente severo nos municípios do
+a
+B
+30
+
+[Página 33]
+litoral de maior densidade populacional, atividade económica e intensidade turística. Verifica-se uma
+correlação elevada entre a acessibilidade via compra e a acessibilidade via arrendamento ao nível
+do município, o que sugere a relevância de fatores comuns, com destaque para uma resposta limitada
+da oferta habitacional. Refira-se que nos municípios com indicadores de acessibilidade mais desfavoráveis
+existe evidência de escassez de oferta de novos fogos face ao aumento da procura por residências
+habituais (associado à variação do número de famílias).23
+Gráfico C3.6 • Indicador de acessibilidade à habitação via arrendamento ― por município
+| Percentagem
+Painel A ― 2019 Painel B ― 2023
+Fontes: Banco de Portugal e INE. | Notas: O indicador de acessibilidade via arrendamento corresponde ao rácio entre a renda e o rendimento mediano dos
+agregados familiares do município. O montante da renda é obtido considerando uma casa com a área mediana das habitações existentes no município, de
+acordo com o Censos 2021, e a renda mediana por m2 dos novos contratos de arrendamento no município em cada ano. Um aumento do indicador entre 2019
+e 2023 corresponde a uma deterioração da acessibilidade à habitação.
+8
+2
+–
+6
+2
+0
+2
+:a
+s
+e
+u
+g
+u
+tr
+o
+p
+a
+im
+o
+n
+o
+c
+e
+a
+a
+r
+a
+p
+s
+e
+õ
+23 Ver Tema em destaque “Mercado da habitação em Portugal: uma quantificação das pressões demográficas” do Boletim Económico de ç e
+jo
+dezembro de 2025. r
+P
+31
+
+[Página 34]
+Caixa 4 • Direitos aduaneiros dos EUA sobre as importações da China: há evidência
+de redirecionamento do comércio para a UE?
+Em 2025, os EUA aumentaram de forma significativa os direitos aduaneiros sobre as suas importações.
+Este aumento foi particularmente acentuado para as importações provenientes da China, na sequência
+da intensificação da guerra comercial entre os dois países. A taxa aduaneira efetiva média sobre as
+importações de bens da China, calculada como o rácio das receitas de direitos aduaneiros sobre
+o valor dos bens importados, aumentou 18,6 pp, de 10,6% em média em 2024 para 29,2% no final
+de 2025. Em fevereiro de 2026, os direitos aduaneiros dos EUA diminuíram, na sequência da decisão
+do Supremo Tribunal que invalidou parte desses direitos, mas mantiveram-se em níveis superiores
+aos observados em 2024.24
+Esta evolução dos direitos aduaneiros criou um diferencial significativo entre as taxas aplicadas pela
+UE e pelos EUA, suscitando a preocupação de que um potencial redirecionamento do comércio de
+bens da China para a UE implicasse uma maior pressão competitiva para as empresas europeias.
+Esta pressão já existia antes do aumento dos direitos aduaneiros por parte dos EUA em 2025, devido
+ao crescimento baixo, e mesmo negativo, do preço das importações de bens provenientes da China
+(Gráfico C4.1 — Painel A).25
+Uma primeira análise com base em dados agregados de comércio internacional mostra que, em 2025,
+o volume das importações de bens da UE provenientes da China cresceu mais do que o das restantes
+importações de bens da UE, tanto extra-UE como intra-UE, traduzindo-se num aumento do peso da
+China no total das importações de bens (Gráfico C4.1 — Painel B). Contudo, este crescimento mais
+elevado pode refletir diversos fatores, incluindo ganhos de competitividade, não traduzindo
+necessariamente um redirecionamento do comércio induzido pelo aumento das barreiras comerciais
+dos EUA. Com efeito, já em 2024, antes do aumento das barreiras, o crescimento do volume de
+importações da UE provenientes da China era superior ao registado para as importações da UE do
+resto do mundo.
+O impacto do aumento dos direitos aduaneiros impostos pelos EUA pode ser destrinçado de outros
+fatores recorrendo a dados de comércio de bens e de direitos aduaneiros mensais ao nível do
+produto. Para o efeito, usou-se a base de dados Trade Data Monitor que fornece dados de comércio
+com uma desagregação fina usando a Nomenclatura Combinada a 6 dígitos para aproximadamente
+6000 produtos diferentes. Com estes dados, avaliou-se se, em 2025, as importações dos EUA
+provenientes da China registaram um crescimento inferior nos bens sujeitos a um maior aumento
+6
+dos direitos aduaneiros. Simultaneamente, avaliou-se se as importações da UE desses mesmos bens
+2
+0 também provenientes da China evidenciaram um crescimento superior, como seria expectável num
+2
+o ç cenário de redirecionamento do comércio associado ao aumento dos direitos aduaneiros. Para
+r
+a
+M o efeito, estimou-se, separadamente para os EUA e para o conjunto dos países da UE, uma regressão
+o
+• que relaciona a taxa de crescimento homóloga das importações de cada bem proveniente da China
+c
+im com a variação da taxa aduaneira aplicada pelos EUA a esse bem quando proveniente da China.
+ó
+n
+o
+c
+E
+m
+ite
+lo
+B
+la
+•
+g
+u
+tr
+o
+P
+e d 24 Ver, por exemplo, Trade War Tracker (2026). www.tradewartracker.com [consult. 25 fev. 2026]
+o c 25 Ver, por exemplo, Al-Haschimi, A., e Spital, T. (2024). “The evolution of China’s growth model: challenges and long-term growth prospects.” Boletim
+n
+a B Económico do BCE, 5, 73-93.
+32
+
+[Página 35]
+Gráfico C4.1 • Preço e volume das importações de bens provenientes da China | Taxa
+de variação, em percentagem
+Painel A — Preço Painel B — Volume
+Fonte: Eurostat (cálculos do Banco de Portugal). | Notas: A taxa de variação em 2025 foi calculada com dados até novembro. O preço corresponde
+ao índice de valor unitário.
+Os resultados apontam para um impacto negativo dos direitos aduaneiros sobre as importações
+dos EUA provenientes da China. Multiplicando a variação média da taxa aduaneira efetiva pela
+estimativa da semi-elasticidade das importações em relação aos direitos aduaneiros obtida na
+regressão, obtém-se que o aumento das tarifas contribuiu para uma contração de 6% do valor e da
+quantidade das importações dos EUA provenientes da China (Gráfico C4.2). Já o impacto estimado
+no valor ou na quantidade das importações da UE provenientes da China não é significativamente
+diferente de zero. Tal sugere que, até ao final de 2025, não terá havido um redirecionamento das
+exportações chinesas para o mercado da UE sistematicamente associado ao aumento dos direitos
+aduaneiros aplicados pelos EUA.
+Embora não se observe evidência significativa de um redirecionamento das exportações chinesas
+para a UE associado ao aumento dos direitos aduaneiros, o risco desse redirecionamento persiste,
+na medida em que estes ajustamentos tendem a materializar-se com algum desfasamento
+temporal, por exemplo devido à existência de contratos pré-estabelecidos e de custos associados
+ao estabelecimento de novas relações comerciais.26 Este risco de redirecionamento poderá ser
+relativamente mais elevado para os países da UE com maior semelhança entre a sua estrutura total
+de importações e a estrutura de importações de bens da China por parte dos EUA (Gráfico C4.3).
+A evolução futura dos direitos aduaneiros e de outras medidas de política comercial aplicados pelos
+EUA e pela UE às importações provenientes da China continuará a afetar os incentivos económicos
+subjacentes ao eventual redirecionamento desses fluxos comerciais.
+8
+2
+–
+6
+2
+0
+2
+:a
+s
+e
+u
+g
+u
+tr
+o
+p
+a
+im
+o
+n
+o
+c
+e
+a
+a
+r
+a
+p
+s
+e
+õ
+26 Ver, por exemplo, Martin, J., Mejean, I., e Parenti, M. (2026). “Relationship stickiness, international trade, and economic uncertainty.” Review ç e
+jo
+of Economics and Statistics, 108 (1), 179-193. r
+P
+33
+
+[Página 36]
+Gráfico C4.2 • Estimativas do impacto em 2025 dos direitos aduaneiros impostos pelos EUA
+nas importações provenientes da China | Percentagem
+Painel A — EUA Painel B — UE
+Fonte: Trade Data Monitor (cálculos do Banco de Portugal). | Nota: O impacto é aproximado pela variação média da taxa aduaneira efetiva em 2025
+multiplicada pela estimativa da semi-elasticidade das importações em relação à tarifa, obtida a partir de uma regressão com dados mensais (até
+novembro de 2025) ao nível do produto, incluindo efeitos fixos mensais. As linhas indicam intervalos de confiança a 95%.
+Gráfico C4.3 • Semelhança entre a composição das importações de bens dos EUA provenientes
+da China e a das importações totais de bens de cada país | Índice
+6
+2 Fonte: Trade Data Monitor (cálculos do Banco de Portugal). | Notas: Índice que mede a semelhança entre a composição das importações de bens dos EUA
+0
+2 provenientes da China e a estrutura das importações totais de bens de cada país em 2024. O índice varia entre 0 (estruturas totalmente distintas) e 1 (estruturas
+o
+ç idênticas) e foi calculado com base na metodologia de Finger, J. M., e Kreinin, M. E. (1979). “A Measure of `Export Similarity' and Its Possible Uses.” The
+r
+a M Economic Journal, 89 (356), 905-912. A classificação de bens segue a Nomenclatura Combinada a 6 dígitos para aproximadamente 6000 produtos. Nos países
+o
+•
+d a UE, o valor mais elevado regista-se na República Checa (0,46), enquanto o mais baixo regista-se em Malta (0,17).
+c
+im
+ó
+n Adicionalmente, a crescente semelhança entre o perfil de especialização da China e o de economias
+o
+c E europeias como a Alemanha, França e Itália poderá intensificar a pressão competitiva sobre as
+m
+ite empresas desses países, não só por via de um aumento das importações, como também por via de
+l B o uma redução da sua quota de mercado das exportações. O perfil de especialização de cada país
+la
+• pode ser aferido com recurso a um índice de vantagem comparativa revelada (índice de Balassa) que
+g avalia, para cada bem, se um país exporta proporcionalmente mais desse bem do que a média
+u
+tr
+o mundial. Uma análise baseada nos índices publicados pela Conferência das Nações Unidas para
+P
+e o Comércio e o Desenvolvimento mostra que, à medida que a China se posiciona progressivamente
+d
+o
+c em segmentos de maior valor acrescentado, tem vindo a aumentar a proporção de bens em que
+n
+a
+B
+34
+
+[Página 37]
+apresenta vantagem comparativa revelada no conjunto de bens em que cada país europeu também
+apresenta tal vantagem (Gráfico C4.4). No caso de Portugal, embora esta sobreposição não tenha
+aumentado, é relativamente elevada, refletindo, por exemplo, a vantagem comparativa revelada
+das duas economias em setores como o vestuário, têxteis, calçado e mobiliário.
+Gráfico C4.4 • Sobreposição das vantagens comparativas reveladas face à China | Percentagem
+Fonte: UNCTADstat (cálculos do Banco de Portugal). | Notas: Rácio entre o número de bens em que tanto a China como o país têm vantagem comparativa
+revelada e o número de bens em que o país tem vantagem comparativa revelada. A classificação de bens segue a Classificação Tipo para o Comércio
+Internacional a 3 dígitos para aproximadamente 260 produtos. O país tem vantagem comparativa revelada num bem quando o índice de Balassa é
+superior a 1, ou seja, quando o país exporta proporcionalmente mais desse bem do que a média mundial.
+Caixa 5 • As exportações portuguesas de bens com utilização militar
+O agravamento das tensões geopolíticas ocorrido nos últimos anos gerou um maior interesse no
+setor da defesa na generalidade dos países. No quadro da NATO, há um acordo político para que os
+países destinem uma maior parcela dos seus orçamentos nacionais à defesa, chegando até cerca
+de 5% do PIB até meados da década de 2030, com pelo menos 3,5% dedicado a necessidades 8
+2
+militares e até 1,5% a outras capacidades relacionadas. 6 –
+2
+0
+2
+Os aumentos previstos da despesa em defesa deverão originar uma maior procura por :a
+s
+equipamentos militares, pelo que estes bens constituirão um segmento dinâmico da procura e
+u
+g
+externa dirigida às empresas portuguesas. Tal justifica uma análise do comércio externo deste tipo u
+tr
+o
+de bens, o que envolve, contudo, algumas dificuldades. Em primeiro lugar, este comércio p
+a
+é fortemente regulado por acordos internacionais, relacionados com embargos e sanções, im
+o
+e obedece frequentemente a autorizações das autoridades nacionais. Em segundo lugar, dada a sua n
+o
+c
+natureza, estes fluxos comerciais estão sujeitos a padrões irregulares de encomendas, e
+a
+particularmente do lado das importações. Em terceiro lugar, é muito difícil apurar com precisão os a
+r
+a
+valores comerciados correspondentes a material militar, pois em muitos casos a sua utilização p
+s
+e
+é dual, ou seja, bens classificados numa mesma nomenclatura detalhada do comércio internacional õ
+ç
+e
+podem ter utilização militar ou civil. jo
+r
+P
+35
+
+[Página 38]
+Nesta análise utilizaram-se dados das exportações portuguesas ao nível da empresa no período
+2004–2025, com uma desagregação a 6 dígitos da Nomenclatura Combinada.27 Partindo
+desta classificação detalhada selecionaram-se bens com utilização militar, que são agregados em
+cinco categorias: equipamento de proteção pessoal, veículos blindados e navios, aeronaves não
+tripuladas (drones), armas de fogo e suas componentes, e munições. Como referido, esta
+classificação deixa de fora outros bens com potencial utilização militar — por exemplo, produtos
+do setor têxtil e do calçado que podem constituir-se como uniformes militares — e, em menor grau,
+poderá incluir bens que não têm essa utilização.
+Em 2024 e 2025, o peso do conjunto de bens considerado como tendo utilização militar no total das
+exportações de bens foi inferior a 1%, embora uma classificação mais lata destes bens, incluindo
+alguns bens dos setores automóvel e de vestuário e calçado, pudesse mais do que duplicar esse
+peso. Apesar do peso reduzido das exportações de bens com utilização militar, o seu crescimento tem
+sido superior ao total, especialmente após 2022 (Gráfico C5.1). O crescimento nominal acumulado
+entre 2022 e 2025 foi cerca de 77%.
+Em termos do tipo de bens com utilização militar, a maior parcela correspondeu a armas de fogo
+e suas componentes, com um peso ligeiramente abaixo de metade do total, seguido do equipamento
+de proteção pessoal, representando aproximadamente um terço do total (Gráfico C5.2). É de assinalar
+o crescimento muito rápido das exportações de aeronaves não tripuladas, que eram inexistentes em
+2021 e passaram a representar 18% e 21% do total das exportações de bens com utilização militar em
+2024 e 2025, respetivamente. No que diz respeito aos países de destino das exportações de bens com
+utilização militar, considerando a média do período 2021–2025, os EUA apresentam-se como
+o principal destino, com um peso de 41%, seguidos pela Bélgica e França com pesos médios de 14%.
+As exportações para a Ucrânia apresentaram um peso de 5% neste período, mas representaram
+perto de 12% em 2025 (Gráfico C5.3).
+Gráfico C5.1 • Evolução das exportações de material com uso militar | Índice 2004 = 100
+6
+2
+0
+2
+o
+ç
+r
+a
+M
+o
+•
+c
+im
+ó
+n
+o
+c
+E
+m
+ite
+lo
+B
+la
+• Fonte: INE (cálculos do Banco de Portugal).
+g
+u
+tr
+o
+P
+e
+d
+o
+c
+n
+a B 27 A informação de exportações para 2025 tem uma natureza preliminar.
+36
+
+[Página 39]
+Gráfico C5.2 • Composição das exportações de material com uso militar | Percentagem
+Fonte: INE (cálculos do Banco de Portugal).
+O número de empresas envolvidas nestas exportações tem registado um aumento nos últimos
+anos, após uma redução marcada no período 2015–2016, e cerca de um terço apresenta uma
+participação de capital estrangeiro superior a 10% do capital total (Gráfico C5.4). O peso das
+exportações das empresas identificadas no período 2014–2025 que exportam os mesmos bens
+com utilização militar e para os mesmos mercados de destino (margem intensiva), mesmo que com
+hiatos temporais, é superior a 90%. No entanto, as exportações destes bens por parte de novas
+empresas ou de empresas já existentes, mas com vendas para novos mercados ou de novos
+produtos (margem extensiva), ganhou relevância no período 2022–2025 (Gráfico C5.5). Por fim, em
+termos da distribuição do peso das exportações deste tipo de bens no total das exportações das
+empresas observa-se uma maior densidade nos valores mais baixos, mas que diminuiu na última
+década. Tal significa que estes bens não são dominantes no portfolio de exportações da maior parte
+das empresas identificadas, mas terão ganho peso no valor total das exportações no período mais
+recente (Gráfico C5.6).
+Gráfico C5.3 • Destinos das exportações Gráfico C5.4 • Número de empresas
+de material com uso militar | Percentagem identificadas como exportadoras de material
+(média 2021–2025) com uso militar 8
+2
+–
+6
+2
+0
+2
+:a
+s
+e
+u
+g
+u
+tr
+o
+p
+a
+im
+o
+n
+o
+c
+e
+a
+a
+r
+a
+p
+s
+e
+õ
+Fonte: INE (cálculos do Banco de Portugal). Fonte: INE (cálculos do Banco de Portugal). ç e
+jo
+r
+P
+37
+
+[Página 40]
+Gráfico C5.5 • Margens intensiva e extensiva Gráfico C5.6 • Distribuição do peso
+na exportação de material com uso militar da exportação com utilização militar no total
+| Milhões de euros das exportações
+Fonte: INE (cálculos do Banco de Portugal). Fonte: INE (cálculos do Banco de Portugal).
+Caixa 6 • Resultados de um inquérito às expetativas das empresas portuguesas para
+2026
+Esta caixa sintetiza alguns dos principais resultados de um inquérito realizado entre novembro
+e dezembro de 2025, no âmbito de uma parceria entre o Banco de Portugal e a Associação Industrial
+Portuguesa (AIP). O inquérito baseou-se num questionário ad hoc, disseminado pela AIP junto
+das empresas na sua base de dados, ao qual responderam 294 empresas, representando
+aproximadamente 24 mil trabalhadores, sendo cerca de metade pertencentes à indústria transformadora.
+Entre outras dimensões, as empresas foram questionadas sobre a evolução esperada em 2026 de
+um conjunto de variáveis associadas à sua atividade como o volume de negócios, o investimento,
+o emprego, o custo das matérias-primas e os preços de venda dos seus produtos. Sublinhe-se
+6
+2 0 que os resultados foram obtidos antes do agravamento recente do conflito no Médio Oriente, que
+2
+o implicou uma deterioração do enquadramento externo.
+ç
+r
+a
+M A maioria das empresas antecipa um aumento do volume de negócios em termos nominais em 2026
+o
+•
+(Gráfico C6.1), estimando-se um crescimento médio de 7,8%28. As perspetivas são, contudo,
+c
+im mais moderadas na indústria transformadora, onde se projeta um crescimento médio de 4,7%.
+ó
+n
+o
+c
+E
+m
+ite
+lo
+B
+la
+•
+g
+u
+tr
+o
+P
+e
+d
+o c 28 As variações médias apresentadas nesta caixa têm por base os valores reportados pelas empresas ponderados pelo respetivo número de trabalhadores.
+n
+a B Às empresas que respondem que a variável em análise não terá alteração em 2026 é atribuída uma variação nula nessa variável.
+38
+
+[Página 41]
+Gráfico C6.1 • Variação esperada do volume de negócios em termos nominais em 2026 | Em
+percentagem das empresas respondentes
+Painel A — Total Painel B — Indústria transformadora
+Fonte: Inquérito às empresas portuguesas AIP/BdP.
+No que respeita ao investimento, mais de metade das empresas não espera alterações em 2026, 38%
+esperam um aumento e 7% uma redução (Gráfico C6.2). Em termos médios, as empresas esperam um
+crescimento nominal do investimento de 6,4%. Na indústria transformadora, embora a percentagem
+de empresas que prevê aumentar o investimento seja superior, o crescimento médio esperado é mais
+contido (1,2%).
+Gráfico C6.2 • Variação esperada do investimento em termos nominais em 2026 | Em
+percentagem das empresas respondentes
+Painel A — Total Painel B — Indústria transformadora
+Fonte: Inquérito às empresas portuguesas AIP/BdP. 8
+2
+6
+–
+2
+0
+Quanto ao emprego, a maioria das empresas não antecipa alterações significativas no número de 2
+:a
+s
+trabalhadores, com apenas 30% a reportar aumentos e 10% reduções (Gráfico C6.3). O crescimento e
+u
+g
+médio esperado é de 2,7%, sendo inferior no caso da indústria transformadora (0,6%). u
+tr
+o
+Relativamente aos custos e preços, a maioria das empresas espera um aumento do custo das p
+a
+matérias-primas e dos bens intermédios em 2026 (Gráfico C6.4), com uma variação média estimada im
+o
+de 3,7%, valor semelhante ao antecipado pelas empresas da indústria transformadora (3,8%). Em n
+o
+c
+paralelo, cerca de 60% das empresas prevê aumentar os preços de venda, maioritariamente em e
+a
+valores inferiores a 5% (Gráfico C6.5). Em termos médios, as empresas esperam aumentar os seus a r
+a
+p
+preços em 2,5%. Embora a percentagem de empresas que antecipa aumentos de preços seja superior
+s
+e
+na indústria transformadora, o aumento médio esperado neste setor é inferior ao observado no õ
+ç
+e
+conjunto das empresas participantes, situando-se em 1,9%. jo
+r
+P
+39
+
+[Página 42]
+40
+6202
+oçraM
+•
+ocimónocE
+miteloB
+•
+lagutroP
+ed
+ocnaB
+Gráfico C6.3 • Variação esperada do emprego em 2026 | Em percentagem das empresas
+respondentes
+Painel A — Total Painel B — Indústria transformadora
+Fonte: Inquérito às empresas portuguesas AIP/BdP.
+Gráfico C6.4 • Variação esperada dos custos das matérias-primas e bens intermédios em 2026
+| Em percentagem das empresas respondentes
+Painel A — Total Painel B — Indústria transformadora
+Fonte: Inquérito às empresas portuguesas AIP/BdP.
+Gráfico C6.5 • Variação esperada dos preços dos produtos em 2026 | Em percentagem das
+empresas respondentes
+Painel A — Total Painel B — Indústria transformadora
+Fonte: Inquérito às empresas portuguesas AIP/BdP.
+Entre os principais desafios para a sua atividade em 2026, o mais destacado pelas empresas é a
+possibilidade de uma desaceleração da atividade económica com impacto na procura dirigida aos
+seus produtos (73% das empresas, 81% na indústria transformadora) (Gráfico C6.6). A escassez
+de mão de obra qualificada e os riscos de perturbação das cadeias de abastecimento são fatores
+
+[Página 43]
+41
+82–6202
+:aseugutrop
+aimonoce
+a
+arap
+seõçejorP
+igualmente relevantes. No caso das empresas da indústria transformadora, é destacado também
+oaumento das tarifas (por 37% das empresas).
+Globalmente, os resultados do inquérito sugeriam perspetivas das empresas relativamente favoráveis
+para 2026, com expetativas de aumento do volume de negócios, do investimento, do emprego e dos
+preços praticados. Não obstante, as empresas sublinhavam a prevalência de riscos para a atividade,
+em linha com os descritos no presente Boletim Económico. A deterioração recente do enquadramento
+internacional deverá ter implicações nas perspetivas empresariais para a atividade e para os preços,
+que importa continuar a monitorizar.
+Gráfico C6.6 • Principais desafios para a atividade económica em 2026 | Em percentagem das
+empresas respondentes
+Fontes: Inquérito às empresas portuguesas AIP/BdP. | Nota: Nesta questão as empresas poderiam escolher até um máximo de três opções.
+
+[Página 45]
+II Tema em destaque
+Uma caraterização da permanência
+dos trabalhadores estrangeiros em Portugal
+
+[Página 47]
+Uma caraterização da permanência
+dos trabalhadores estrangeiros
+em Portugal1
+Introdução
+O papel crescente dos trabalhadores estrangeiros na economia portuguesa tem sido bem reconhecido
+nos últimos anos.2 Em 2025, cerca de 1,13 milhões de estrangeiros estavam registados na Segurança
+Social, sendo quase integralmente trabalhadores por conta de outrem ou trabalhadores independentes
+(Gráfico 1). Este valor compara com 152 mil em 2010. Este aumento reflete uma miríade de trajetórias
+individuais, algumas caraterizadas por permanências muito curtas, outras com perfil intermitente e outras
+de natureza muito persistente. A duração destes percursos tem implicações em várias dimensões,
+incluindo no funcionamento do mercado de trabalho, na acumulação de capital humano específico, no
+financiamento da Segurança Social e no grau de integração dos estrangeiros na sociedade.
+Este Tema em destaque visa apresentar uma primeira caraterização da permanência dos
+trabalhadores estrangeiros em Portugal. A análise baseia-se nos microdados da Segurança Social
+entre janeiro de 2010 e setembro de 2025. Ao longo deste período, é possível identificar o momento
+do registo inicial de cada indivíduo de nacionalidade estrangeira na base de dados, a sequência de
+registos subsequentes e o último registo ativo no sistema. A conjugação desta informação permite
+caraterizar de forma detalhada cada percurso individual junto da Segurança Social. No momento
+inicial de registo, os indivíduos com nacionalidade estrangeira são quase sempre trabalhadores.
+Assim, a análise da permanência de indivíduos estrangeiros nos microdados da Segurança Social
+corresponde à análise da permanência dos trabalhadores estrangeiros.
+Importa sublinhar que estes apuramentos não coincidem com os que seriam obtidos tendo em vista
+uma perspetiva demográfica, por exemplo para avaliar os fluxos de imigração em Portugal.
+As diferenças radicam em razões conceptuais e no perímetro de indivíduos abrangidos. Por um lado,
+a presente análise não tem em conta o estatuto de residência dos indivíduos e não consegue identificar
+as razões subjacentes a uma ausência temporária de registos na base de dados. Por outro lado, os
+indivíduos estrangeiros em Portugal que nunca tiveram registos nos microdados da Segurança Social
+não são abrangidos, com destaque para as crianças, para os reformados que não recebem pensões
+da Segurança Social portuguesa e para outros inativos.
+e
+u
+q
+a
+ts
+e
+d
+1 Preparado por Nuno Alves, Sónia Félix e Ana Catarina Pimenta. m
+e
+2 Ver Banco de Portugal (2024), “Caraterização dos trabalhadores estrangeiros por conta de outrem em Portugal”, Boletim Económico de junho a
+m
+de 2024, e as divulgações estatísticas mensais do INE e do Instituto da Segurança Social. e
+T
+45
+
+[Página 48]
+Gráfico 1 • Número de indivíduos com nacionalidade estrangeira em Portugal por tipo
+de relação com a Segurança Social | Em milhares
+Fonte: Microdados da Segurança Social (cálculos do Banco de Portugal). | Notas: Os trabalhadores por conta de outrem (TCO) incluem os indivíduos
+que exercem atividade por conta de outrem, incluindo aqueles que são simultaneamente trabalhadores independentes (TI) ou membros de órgãos
+estatutários (MOE). Os trabalhadores independentes abrangem os indivíduos com atividade independente, incluindo os que são simultaneamente MOE.
+A categoria Pensionista inclui todos os beneficiários de pensões da Segurança Social e a categoria Prestação corresponde aos indivíduos que apenas
+recebem prestações sociais (excluindo pensões). A identificação dos beneficiários de prestações sociais foi efetuada com base no painel mensal de
+prestações da Segurança Social, enquanto os TCO, TI, MOE e pensionistas foram identificados a partir do painel de qualificações. Consideraram-se todos
+os tipos de pensão e de prestação social. Nos casos de alteração de nacionalidade ao longo do período de observação, foi considerada a primeira
+nacionalidade registada. Consideram-se apenas indivíduos estrangeiros com morada em Portugal. Os valores apresentados correspondem a médias
+mensais. No caso de 2025, referem-se ao período compreendido entre janeiro e setembro.
+Fluxos de entrada de indivíduos com nacionalidade
+estrangeira em Portugal
+Os fluxos de entrada de indivíduos com nacionalidade estrangeira em Portugal são identificados
+a partir do primeiro registo no painel de qualificações dos microdados mensais da Segurança Social.3
+Cada indivíduo é posteriormente seguido até ao último mês em que mantém um vínculo ativo,
+independentemente do tipo de qualificação — seja como trabalhador por conta de outrem, trabalhador
+independente, membro de órgãos estatutários ou beneficiário de pensão ou prestação social.4
+6
+2
+0
+2 O gráfico 2 apresenta as entradas de indivíduos com nacionalidade estrangeira por tipo de relação com
+o
+ç r a Segurança Social no momento do primeiro registo. Entre 2010 e 2024 registaram-se cerca de
+a
+M
+1,4 milhões de entradas, das quais 1,2 milhões ocorreram desde 2018, evidenciando uma aceleração
+o
+•
+significativa dos fluxos de entrada no período mais recente. No total do período, aproximadamente
+c
+im
+1,1 milhões de indivíduos estrangeiros entraram em Portugal como trabalhadores por conta de outrem
+ó
+n o — o que aponta para uma integração inicial no país predominantemente associada a uma relação
+c
+E
+m
+laboral com uma entidade empregadora — enquanto cerca de 284 mil iniciaram a sua ligação
+ite
+lo
+B
+la
+•
+g
+u
+tr 3 O painel de qualificações dos microdados abrange todas as relações ativas com a Segurança Social — relações de trabalho, prestações sociais
+o
+P
+e
+e pensões.
+d
+o
+4 Em Portugal, para efeitos da Segurança Social, um membro de órgão estatutário (MOE) é uma pessoa que exerce funções de administração,
+c
+n direção ou gerência numa entidade coletiva, com base nos respetivos estatutos.
+a
+B
+46
+
+[Página 49]
+à Segurança Social portuguesa como trabalhadores independentes e 37 mil como membros de
+órgãos estatutários.
+Gráfico 2 • Entradas de indivíduos com nacionalidade estrangeira por tipo de relação com
+a Segurança Social e ano de entrada | Em milhares
+Fonte: Microdados da Segurança Social (cálculos do Banco de Portugal).
+Entre 2010 e 2024, aproximadamente 38% das entradas de indivíduos estrangeiros em Portugal
+foram de cidadãos com nacionalidade brasileira, seguindo-se os indivíduos dos países do sul da Ásia
+— Índia, Bangladesh, Nepal e Paquistão — com cerca de 19%, e os dos países africanos de língua
+oficial portuguesa (PALOP), com 14% (Gráfico 3). Os indivíduos oriundos da União Europeia ou do Reino
+Unido representaram cerca de 14% das entradas, enquanto os restantes países de origem registaram
+um peso mais reduzido. Os indivíduos estrangeiros que entraram em Portugal desde 2010 são
+maioritariamente jovens, com idade média próxima dos 33 anos, e do sexo masculino (cerca de 60%)
+(Quadro 1).
+Gráfico 3 • Entradas de indivíduos com nacionalidade estrangeira por país de origem e ano
+de entrada | Em milhares
+e
+u
+q
+a
+ts
+e
+d
+m
+e
+Fonte: Microdados da Segurança Social (cálculos do Banco de Portugal). a m
+e
+T
+47
+
+[Página 50]
+Quadro 1 • Caraterização dos indivíduos estrangeiros por ano de entrada em Portugal
+2010–2014 2015–2019 2020–2024
+Idade (anos)
+Média 33,4 32,8 32,6
+Mediana 31,2 30,6 31,0
+Desvio-padrão 11,2 10,8 9,9
+Percentil 10 20,2 21,0 21,4
+Percentil 90 49,4 48,2 46,4
+Sexo
+Feminino (%) 41,7 38,9 36,6
+Fonte: Microdados da Segurança Social (cálculos do Banco de Portugal).
+No que se refere ao setor de atividade, os microdados da Segurança Social não identificam o setor
+de atividade dos trabalhadores independentes e, em geral, dos membros de órgãos estatutários.
+A análise foca-se, assim, nos trabalhadores por conta de outrem. O gráfico 4 apresenta a distribuição
+das entradas de trabalhadores por conta de outrem em Portugal de acordo com o setor de atividade
+económica das empresas onde iniciaram a sua atividade. Entre 2010 e 2024, cerca de 20% dos
+trabalhadores ingressaram em empresas das atividades administrativas e dos serviços de apoio,
+18% no alojamento e restauração, 15% na agricultura e pesca, e 14% na construção. Por sua vez,
+o comércio representou 10% das entradas e a indústria cerca de 7%.
+Gráfico 4 • Entradas de trabalhadores por conta de outrem com nacionalidade estrangeira
+por setor de atividade económica e ano de entrada | Em milhares
+6
+2
+0
+2
+o
+ç
+r
+a
+M
+o
+•
+Fonte: Microdados da Segurança Social (cálculos do Banco de Portugal). | Nota: Os trabalhadores classificados como serviço doméstico corresponde m
+c
+im aos indivíduos identificados no painel de qualificações da Segurança Social com essa qualificação.
+ó
+n
+o
+c
+E
+m
+ite
+Caraterização da permanência por tipo de relação
+lo
+B
+la
+• com a Segurança Social
+g
+u
+tr
+o A permanência dos trabalhadores com nacionalidade estrangeira em Portugal é definida como
+P
+e o período decorrido entre o primeiro e o último registo ativo do trabalhador na Segurança Social.
+d
+o Sempre que se observa uma interrupção superior a 12 meses sem qualquer registo — isto é, sem
+c
+n
+a contribuições, prestações sociais ou pensões — considera-se que teve lugar uma saída efetiva do
+B
+48
+
+[Página 51]
+sistema. Caso o trabalhador volte a surgir nos registos após esse intervalo, inicia-se um novo período
+de permanência, contabilizado de forma independente. Considerando este critério, cerca de 92%
+dos indivíduos apresentam um único período de permanência. A escolha de um limiar de 12 meses
+permite excluir interrupções temporárias — como emprego sazonal, transições contratuais ou
+estadias temporárias no estrangeiro — evitando classificá-las como saídas definitivas do sistema.
+Tendo sido utilizados dados até setembro de 2025, esta abordagem permite identificar saídas
+efetivas ocorridas até setembro de 2024.5
+Esta metodologia, aliada à riqueza dos dados longitudinais ao nível do trabalhador, permite estimar
+as permanências e decompor essa permanência de acordo com o tipo de ligação ao sistema ao
+longo do tempo. É, assim, possível distinguir entre diferentes formas de integração no mercado de
+trabalho e no sistema de proteção social, captando a diversidade das trajetórias individuais.
+Como a informação nos microdados relativamente ao percurso dos trabalhadores independentes
+é relativamente escassa — incluindo apenas as datas de início e de fim de atividade — a análise que
+se segue foca-se nos trabalhadores por conta de outrem.6 Como referido acima, estes trabalhadores
+representaram 78% do total das entradas de estrangeiros entre 2010 e 2024. O quadro 2 decompõe
+a permanência destes trabalhadores de acordo com o tipo de vínculo ativo com a Segurança Social
+em cada mês — seja como trabalhadores por conta de outrem, trabalhadores independentes ou
+membros de órgãos estatutários — ou em que beneficiaram de uma prestação social ou pensão.
+O período remanescente (“Sem relação com a Segurança Social”) corresponde aos meses em que
+não existe qualquer registo de ligação ativa ao sistema.
+Quadro 2 • Distribuição da permanência dos trabalhadores por conta de outrem com
+nacionalidade estrangeira por tipo de relação com a Segurança Social | Em percentagem
+Trabalho Trabalho Membro Subsídio de Outras Pensão Sem
+por conta i ndepen- de órgão desemprego prestações relação
+de dente estatutário sociais com a
+outrem Segurança
+Social
+País de origem
+Brasil 83,4 7,2 0,7 2,3 0,7 0,0 5,6
+Índia, Bangladesh, Nepal e Paquistão 85,1 2,9 0,6 1,2 0,3 0,0 9,9
+PALOP 86,7 2,5 0,2 1,8 1,9 0,2 6,6
+União Europeia e Reino Unido 88,4 3,5 0,8 1,5 1,0 0,2 4,7
+Rússia, Ucrânia e Moldávia 84,7 4,3 0,5 2,5 2,1 0,5 5,4
+América Latina (excl. Brasil) 92,1 2,5 0,3 1,1 0,4 0,0 3,7
+Norte de África 85,7 5,7 0,4 0,9 0,5 0,0 6,9
+Outro 86,8 4,9 1,0 1,1 0,9 0,1 5,3
+Total 85,6 4,6 0,6 1,7 0,9 0,1 6,5
+Fonte: Microdados da Segurança Social (cálculos do Banco de Portugal). | Notas: A categoria “Sem relação com a Segurança Social” corresponde
+à percentagem da permanência durante a qual o trabalhador não apresenta qualquer vínculo ativo com a Segurança Social. Os trabalhadores por conta
+de outrem recebem simultaneamente uma prestação social em cerca de 2% do tempo total de permanência.
+5 Numa abordagem alternativa, adotando um intervalo mínimo de 24 meses sem qualquer registo para definir uma saída do sistema, cerca de 97% e u
+q
+dos indivíduos apresentam um único período de permanência. Esta abordagem limita, contudo, a identificação de saídas definitivas nos dois últimos a
+ts
+anos da base de dados, por insuficiência de janela de observação. Todos os resultados apresentados são robustos à adoção de qualquer uma destas e
+d
+abordagens. m
+e
+6 Em particular, a base de dados da Segurança Social disponibilizada não contém informação sobre o setor de atividade nem sobre as remunerações a
+m
+dos trabalhadores independentes. e
+T
+49
+
+[Página 52]
+Os trabalhadores por conta de outrem com nacionalidade estrangeira que entraram em Portugal
+desde janeiro de 2010 passaram, em média, cerca de 86% do tempo de permanência no país em
+situação de emprego por conta de outrem. Aproximadamente 5% do tempo correspondeu ao
+exercício de atividade unicamente como trabalhadores independentes e 0,6% ao desempenho de
+funções enquanto membros de órgãos estatutários. O subsídio de desemprego representou cerca de
+1,7% do tempo de permanência, enquanto as outras prestações sociais corresponderam a 0,9%.7
+A fração do tempo em que receberam pensões é residual, refletindo o facto de serem maioritariamente
+jovens e com entrada recente no país. Globalmente, observa-se que estes trabalhadores mantiveram
+um vínculo ativo ao mercado de trabalho na larga maioria da sua permanência em Portugal, não
+apresentando qualquer relação ativa com a Segurança Social em apenas 6,5% desse tempo. Este
+padrão é transversal aos trabalhadores dos diferentes países de origem.
+O gráfico 5 apresenta a repartição dos indivíduos nacionais e estrangeiros com idades entre os 29 e os
+46 anos de acordo com o tipo de relação com a Segurança Social, indicando a percentagem média de
+indivíduos em cada situação no período entre 2010 e 2024. O intervalo etário visa garantir uma maior
+comparabilidade entre os grupos, correspondendo aos percentis 25 e 75 da distribuição etária dos
+indivíduos estrangeiros com ligação à Segurança Social. Observa-se uma percentagem muito
+semelhante de indivíduos nacionais e estrangeiros que participam no mercado de trabalho, embora
+se registe uma maior prevalência de trabalhadores independentes entre os estrangeiros e um peso
+ligeiramente maior de indivíduos que exercem funções enquanto membros de órgãos estatutários.
+Por fim, os trabalhadores nacionais com idades entre os 29 e os 46 anos apresentam, em termos
+comparativos, uma proporção ligeiramente maior de beneficiários de prestações sociais e de pensões
+da Segurança Social.
+Gráfico 5 • Distribuição dos indivíduos nacionais e com nacionalidade estrangeira por tipo
+de ligação à Segurança Social | Percentagem do total de indivíduos com idades entre os 29
+e os 46 anos, por nacionalidade
+6
+2
+0
+2
+o
+ç
+r
+a
+M
+o
+•
+c
+im
+ó
+n
+o
+c
+E
+m Fonte: Microdados da Segurança Social (cálculos do Banco de Portugal). | Notas: Foram considerados os indivíduos com idades entre os 29 e os 46 anos, de
+ite modo a assegurar uma maior comparabilidade entre os dois grupos. Estes limites correspondem aproximadamente aos percentis 25 e 75 da distribuição etária
+lo dos indivíduos estrangeiros com ligação à Segurança Social. Os valores apresentados correspondem à média das percentagens no período entre 2010 e 2024.
+B
+la
+•
+g
+u
+tr
+o P 7 O recurso a prestações sociais é reduzido nos diferentes países de origem. A percentagem do tempo passado a receber subsídio de desemprego
+e
+d varia entre 0,9% entre os trabalhadores do Norte de África e 2,5% entre os provenientes da Rússia, Ucrânia e Moldávia (2,3% no caso dos
+o
+c indivíduos brasileiros). O tempo associado a outras prestações sociais é, em geral, inferior a 1%, variando entre 0,3% entre os trabalhadores do
+n
+a B sul da Ásia e 2,1% entre os provenientes da Rússia, Ucrânia e Moldávia (1,9% no caso dos indivíduos dos PALOP).
+50
+
+[Página 53]
+Uma análise da probabilidade de permanência
+dos trabalhadores com nacionalidade estrangeira
+A caraterização da permanência dos trabalhadores estrangeiros em Portugal requer uma abordagem
+que incorpore explicitamente a dimensão temporal das suas trajetórias após a entrada no país.8 Neste
+contexto, a análise de duração — ou análise de sobrevivência — revela-se particularmente adequada,
+ao permitir estimar a probabilidade de permanência dos indivíduos ao longo do tempo desde
+a sua entrada em Portugal, controlando implicitamente para o momento inicial de observação e
+acomodando a existência de observações censuradas, ou seja, situações em que, no final do período
+em análise, o trabalhador permanece ainda no país. Esta abordagem possibilita, assim, uma descrição
+mais rigorosa e comparável dos padrões de permanência dos trabalhadores estrangeiros.
+Para este efeito, recorre-se ao estimador não paramétrico de Kaplan-Meier, amplamente utilizado em
+análises de duração. Esta metodologia permite calcular uma função de sobrevivência, 𝑆(𝑡), que
+representa a probabilidade de um trabalhador estrangeiro permanecer em Portugal, por, pelo menos,
+𝑡 meses após a sua entrada.9 A curva de Kaplan-Meier (curva de sobrevivência) representa a fração de
+indivíduos ainda presentes no país ao longo do tempo: um declive mais acentuado da curva traduz
+saídas mais rápidas, enquanto uma trajetória mais plana indica ligações mais persistentes.
+O gráfico 6 apresenta a curva de Kaplan-Meier para os trabalhadores por conta de outrem com
+nacionalidade estrangeira que iniciaram a sua ligação à Segurança Social portuguesa entre janeiro de
+2010 e agosto de 2024. Por construção, a função de sobrevivência evidencia uma redução gradual
+da proporção de trabalhadores ainda presentes à medida que o tempo desde a entrada aumenta.
+O gráfico evidencia três ideias principais. Em primeiro lugar, uma fração significativa de trabalhadores
+estrangeiros apresenta permanências muito curtas nos registos da Segurança Social. Cerca de 22%
+dos estrangeiros tem permanências com duração inferior a um ano e cerca de 39% tem permanências
+inferiores a três anos. Em segundo lugar, a mediana de permanência é relativamente elevada. Estima-
+se que cerca de 52% dos trabalhadores estrangeiros permanecem nos registos da Segurança Social
+cinco anos após a entrada e que cerca de metade permanecem mais de 70 meses. Em terceiro lugar,
+a base de dados identifica uma proporção substancial de trabalhadores estrangeiros que têm
+permanências longas no país. Em concreto, aproximadamente 40% destes trabalhadores permanece
+nos registos da Segurança Social ao fim de dez anos. No final do período de observação, cerca de um
+terço dos trabalhadores que entraram em janeiro de 2010 mantinha ainda uma ligação ativa
+à Segurança Social. Estes resultados ilustram que, embora uma parte significativa dos fluxos de entrada
+tenha uma natureza muito transitória, a maior parte dos fluxos de entrada é relativamente persistente.
+8 Note-se que a simples comparação das durações observadas por ano de entrada pode induzir interpretações enviesadas, na medida em que os
+indivíduos que entraram mais cedo terão, por construção, durações acumuladas mais elevadas. Este problema é frequentemente designado na
+e
+literatura de length bias. u
+q
+a
+9 Formalmente, o estimador de Kaplan-Meier é definido como 𝑆̂(𝑡)=∏ (1− 𝑑𝑗), em que 𝑡 corresponde a cada momento em que ts
+𝑗 | 𝑡𝑗≤𝑡 𝑛𝑗 𝑗 e d
+se observam saídas, 𝑑 ao número de saídas no momento 𝑡 e 𝑛 ao número de trabalhadores em risco de saída imediatamente antes de 𝑡. m
+𝑗 𝑗 𝑗 𝑗
+e
+A intuição subjacente a este estimador é simples: a probabilidade de permanecer até ao momento 𝑡 resulta do produto das probabilidades a
+m
+condicionais de não saída em cada momento anterior. e
+T
+51
+
+[Página 54]
+Gráfico 6 • Probabilidade de permanência dos trabalhadores com nacionalidade estrangeira
+desde a sua entrada em Portugal (Curva de Kaplan-Meier) | Em percentagem
+Fonte: Microdados da Segurança Social (cálculos do Banco de Portugal). | Notas: Considera-se uma saída sempre que se observa uma interrupção
+superior a 12 meses consecutivos sem qualquer registo (contribuições, prestações sociais ou pensões) na Segurança Social. Se o trabalhador reentrar,
+inicia-se um novo período de permanência, contabilizado de forma independente. De acordo com este critério, e considerando que a informação está
+disponível até setembro de 2025, a duração máxima observada é de 177 meses — que corresponde aos indivíduos que entraram em Portugal em janeiro
+de 2010 e que permaneceram até setembro de 2024.
+Uma comparação internacional para alguns países da Organização para a Cooperação e Desenvolvimento
+Económico (OCDE) indica que, para os indivíduos de nacionalidade estrangeira que entraram nesses
+países, a taxa de sobrevivência após cinco anos de permanência é em média 54,3%, variando entre
+24,9% nos Países Baixos e 32,8% na Alemanha, e 79,4% no Canadá e 87,5% nos Estados Unidos da
+América.10 Os valores para Portugal apresentados no gráfico 6 aproximam-se da média destes
+países. É importante referir que os valores divulgados no relatório da OCDE e os calculados para
+Portugal não são estritamente comparáveis, uma vez que resultam de fontes de informação
+diferentes e de metodologias de cálculo distintas.
+6
+2
+0
+2
+o
+ç
+r
+a
+M
+o
+•
+c
+im
+ó
+n
+o
+c
+E
+m
+ite
+lo
+B
+la
+•
+g
+u
+tr
+o
+P
+e
+d
+o 10 OECD (2024), “Return, Reintegration and Re-migration: Understanding Return Dynamics and the Role of the Family and Community”, OECD
+c
+n
+a Publishing, Paris.
+B
+52
+
+[Página 55]
+O gráfico 7 apresenta a curva de sobrevivência desagregada em seis painéis, distinguindo os
+trabalhadores de acordo com o sexo, a idade no momento da entrada, a situação parental, o país
+de origem, o setor de atividade económica da empresa de início e o ano de entrada. A situação
+parental é identificada de forma indireta, através do registo de recebimento de subsídio de
+parentalidade e/ou de outras prestações familiares no sistema da Segurança Social em algum
+momento da permanência do trabalhador em Portugal. Os perfis de permanência no país ao longo
+do tempo são semelhantes entre homens e mulheres (Painel A) e entre trabalhadores que entram
+com menos de 30 anos e aqueles com 30 ou mais anos (Painel B). Por seu turno, a identificação de
+uma situação de parentalidade encontra-se associada a uma probabilidade de permanência
+substancialmente mais elevada ao longo de todo o horizonte temporal considerado (Painel C). No
+caso dos trabalhadores estrangeiros com laços parentais, a probabilidade estimada de permanência
+em Portugal cinco anos após a entrada é de 77% — 28 pp acima da probabilidade estimada para os
+trabalhadores em que não há registo de recebimento de subsídio de parentalidade e/ou de outras
+prestações familiares. Este resultado é consistente com a evidência empírica internacional que
+documenta que a existência de vínculos familiares no país de destino tende a reduzir a propensão
+de retorno ou de reemigração, reforçando a permanência no país.
+Por país de origem, observam-se diferenças marcadas na probabilidade de permanência (Painel D).
+Os trabalhadores provenientes dos PALOP apresentam curvas de sobrevivência sistematicamente
+acima da média, enquanto os oriundos da União Europeia e do Reino Unido evidenciam
+probabilidades de permanência mais baixas em todos os horizontes temporais. Os trabalhadores
+brasileiros situam-se numa posição intermédia. Por setor de atividade económica, tendo por base
+a empresa em que o trabalhador iniciou a sua atividade, as diferenças não são muito relevantes.
+Ainda assim, a permanência é relativamente menor na agricultura e relativamente maior no
+alojamento e restauração, refletindo possivelmente diferenças na natureza dos vínculos laborais
+(Painel E). Finalmente, para o mesmo horizonte de observação, os trabalhadores que entraram em
+Portugal nos anos mais recentes apresentam níveis de sobrevivência substancialmente superiores
+aos dos que entraram no início da amostra (Painel F). Sublinhe-se que as entradas em 2010–2014
+corresponderam ao período de assistência económica e financeira. Com uma taxa de desemprego
+em máximos históricos, não surpreende que a duração da permanência dos trabalhadores
+estrangeiros fosse relativamente baixa. Esta observação remete para a importância da posição cíclica
+da economia na determinação da duração da permanência dos trabalhadores estrangeiros. Note-
+se também que os trabalhadores estrangeiros que entraram em Portugal nos anos mais recentes
+representam a grande maioria das entradas dos últimos 15 anos, pelo que dominam a curva de
+Kaplan-Meier nas durações mais curtas.
+e
+u
+q
+a
+ts
+e
+d
+m
+e
+a
+m
+e
+T
+53
+
+[Página 56]
+Gráfico 7 • Probabilidade de permanência dos trabalhadores com nacionalidade estrangeira
+por caraterísticas demográficas e laborais (Curvas de Kaplan-Meier) | Em percentagem
+Painel A — Por sexo
+Painel B — Por idade à entrada
+6 2 Painel C — Por situação parental
+0
+2
+o
+ç
+r
+a
+M
+o
+•
+c
+im
+ó
+n
+o
+c
+E
+m
+ite
+lo
+B
+la
+•
+g
+u
+tr
+o
+P
+e
+d
+o
+c
+n
+a
+B
+54
+
+[Página 57]
+Painel D — Por país de origem
+Painel E — Por setor de atividade económica
+Painel F — Por ano de entrada
+e
+u
+q
+a
+ts
+e
+d
+m
+e
+a
+m
+Fonte: Microdados da Segurança Social (cálculos do Banco de Portugal).
+e
+T
+55
+
+[Página 58]
+A dimensão territorial é explorada considerando a localização da empresa em que o trabalhador
+estrangeiro iniciou a sua atividade em Portugal. As probabilidades estimadas de permanência cinco
+anos após a entrada apresentam alguma heterogeneidade geográfica, mas não muito acentuada
+(Gráfico 8). O gráfico permite identificar uma maior permanência nas zonas litorais, possivelmente
+associada a maiores oportunidades no mercado de trabalho. Entre os principais centros urbanos,
+a probabilidade de permanência situa-se em 49% em Lisboa, 56% no Porto e 58% em Faro. Estes
+valores estão relativamente próximos da média nacional (52%). Esta heterogeneidade geográfica
+deverá estar associada a fatores que condicionam a permanência dos trabalhadores estrangeiros,
+como a composição setorial da atividade económica local e a natureza dos vínculos laborais.
+Gráfico 8 • Probabilidade de permanência dos trabalhadores com nacionalidade estrangeira
+cinco anos após a entrada, por localização da sede da empresa de início
+6
+2
+0
+2
+o
+ç
+r
+a Fonte: Microdados da Segurança Social (cálculos do Banco de Portugal). | Nota: Para mais detalhes sobre os valores por município, consultar aqui.
+M
+o
+•
+c
+im Determinantes da probabilidade de saída:
+ó
+n
+o
+c E evidência de um modelo de duração
+m
+ite
+lo A análise não paramétrica apresentada na secção anterior permitiu caraterizar, de forma descritiva,
+B
+la
+g
+• o
+gr
+s
+u
+p
+p
+a
+o
+d
+s
+r õ
+d
+e
+e
+s
+m
+d
+o
+e
+g
+p
+r
+e
+á
+r
+fi
+m
+co
+a
+s
+n
+,
+ê
+s
+n
+e
+c
+to
+ia
+r
+d
+es
+o s
+d
+t
+e
+r a
+a
+b
+t
+a
+iv
+l
+i
+h
+d
+a
+a
+d
+d
+o
+e
+r e
+e
+s
+m
+es
+u
+t
+n
+ra
+ic
+n
+í
+g
+p
+e
+io
+ir
+s
+o
+.
+s
+C
+e
+o n
+ev
+tu
+id
+d
+e
+o
+n
+,
+c
+e
+ia
+s
+r
+s
+d
+a
+if
+a
+e
+b
+r
+o
+en
+rd
+ç
+a
+a
+g
+s
+e
+re
+m
+le
+n
+va
+ã
+n
+o
+t e
+p
+s
+e r
+e
+m
+nt
+i
+r
+te
+e
+u
+tr identificar o efeito específico de cada dimensão, na medida em que as comparações são efetuadas
+o
+P
+e
+sem controlo simultâneo para outros fatores observáveis. Assim, procede-se de seguida à estimação
+d
+o de um modelo econométrico para a probabilidade de saída dos trabalhadores estrangeiros,
+c
+n controlando por caraterísticas individuais e da empresa, bem como por efeitos temporais.
+a
+B
+56
+
+[Página 59]
+De forma a identificar os determinantes da saída de trabalhadores estrangeiros da base de dados da
+Segurança Social, controlando simultaneamente por múltiplas caraterísticas observáveis, estima-se
+a função de risco de saída recorrendo a um modelo complementary log-log (cloglog), adequado
+à modelização de dados de duração em tempo discreto. A probabilidade condicional de saída pode
+ser escrita como:
+𝑃(𝑆𝑎í𝑑𝑎 =1|𝑆𝑎í𝑑𝑎 =0)=1−exp(−𝑒𝑥𝑝(𝑋 𝛽)),
+𝑖𝑡 𝑖𝑡−1 𝑖𝑡 𝑗
+em que 𝑆𝑎í𝑑𝑎 indica se o indivíduo 𝑖 saiu da base de dados no período 𝑡, condicional a ter permanecido
+𝑖𝑡
+até esse momento. O vetor de determinantes 𝑋 inclui caraterísticas individuais — sexo, idade à entrada,
+𝑖𝑡
+grupo de país de origem, recebimento de prestações associadas à parentalidade, recebimento de
+subsídio de desemprego e (logaritmo do) salário de entrada — bem como caraterísticas da empresa no
+momento de início da relação laboral, designadamente o setor de atividade económica e a localização
+geográfica. A especificação incorpora ainda uma tendência temporal e efeitos fixos mensais, permitindo
+capturar efeitos temporais agregados e sazonais. A dependência temporal é acomodada através da
+inclusão do logaritmo da duração da permanência do trabalhador, permitindo modelizar explicitamente
+a evolução do risco de saída ao longo do tempo. Os erros padrão são agrupados ao nível do trabalhador,
+de forma a considerar a correlação intraindividual das observações ao longo do período de permanência.
+Os resultados da estimação, efetuada para o período entre janeiro de 2010 e setembro de 2024,
+encontram-se no quadro 3. Coeficientes positivos (negativos) indicam que a variável aumenta (diminui)
+a probabilidade de saída, controlando por efeitos fixos do setor e da localização da empresa, bem
+como pela tendência temporal e pela sazonalidade mensal. Os coeficientes relativos aos países
+encontram-se rebaseados face ao grupo de referência (Brasil). De modo a facilitar a leitura dos
+resultados, o quadro inclui também uma coluna com o hazard ratio (ou taxa de risco). O hazard ratio
+indica a variação na taxa de risco de saída de um trabalhador estrangeiro associada a uma caraterística
+específica, mantendo constantes as restantes. Dada a estrutura do modelo cloglog, o hazard ratio
+é calculado através da simples exponenciação dos coeficientes apresentados na primeira coluna.
+Valores do hazard ratio superiores (inferiores) a 1 indicam um aumento (redução) do risco de saída. Por
+exemplo, um hazard ratio de 1,5 significa que essa variável está associada a um risco de saída 50%
+superior. Um hazard ratio de 0,7 significa um risco de saída 30% inferior.
+Os resultados apresentados no quadro 3 confirmam a evidência descritiva anteriormente apresentada.11
+O coeficiente negativo associado ao logaritmo da duração (𝛽̂ =−0,41) indica a presença de dependência
+temporal negativa: a probabilidade de saída é mais elevada nos primeiros anos após a entrada
+e diminui à medida que o tempo de permanência aumenta, sugerindo que a probabilidade de
+retorno ou de reemigração é mais elevada nos primeiros anos após a entrada.12 Observam-se
+também diferenças relevantes de acordo com o país de origem: os trabalhadores oriundos da União
+Europeia e do Reino Unido apresentam um risco de saída mais do que duas vezes superior ao do
+grupo de referência (Brasil) (𝛽̂ =0,77;ℎ𝑎𝑧𝑎𝑟𝑑 𝑟𝑎𝑡𝑖𝑜=2,17), enquanto os provenientes dos países
+do sul da Ásia e dos PALOP evidenciam um risco de saída cerca de 28% inferior.
+A existência de laços parentais surge como um dos determinantes mais fortemente associados
+à permanência, reduzindo substancialmente o risco de saída (𝛽̂ =−1,13;ℎ𝑎𝑧𝑎𝑟𝑑 𝑟𝑎𝑡𝑖𝑜=0,32).
+Os trabalhadores com laços parentais têm assim um risco de saída cerca de 68% inferior
+e
+u
+q
+a
+11 Os coeficientes estimados são qualitativamente robustos à estimação de uma especificação alternativa do modelo complementary log-log com
+ts
+e
+d
+efeitos aleatórios ao nível do trabalhador. m
+e
+12 Uma especificação mais flexível, que substitui o logaritmo da duração por um conjunto de variáveis binárias para cada período de duração, a
+m
+produz resultados similares. e
+T
+57
+
+[Página 60]
+àqueles em que não é possível identificar estes laços, ceteris paribus. Por sua vez, o recebimento
+de subsídio de desemprego aumenta em 55% o risco de saída (𝛽̂ =0,44;ℎ𝑎𝑧𝑎𝑟𝑑 𝑟𝑎𝑡𝑖𝑜=1,55)
+sublinhando a importância da ligação ao mercado de trabalho para a permanência dos
+estrangeiros. Finalmente, salários de entrada mais elevados estão associados a um menor risco
+de saída (𝛽̂ =−0,12;ℎ𝑎𝑧𝑎𝑟𝑑 𝑟𝑎𝑡𝑖𝑜=0,89), sugerindo que melhores condições iniciais no mercado
+de trabalho favorecem uma maior permanência no país.
+Quadro 3 • Determinantes da probabilidade de saída | Modelo complementary log–log
+Variável Coeficiente Hazard ratio
+L ogaritmo da duração (ln t) −0,412*** 0,6 62
+(0,001)
+Feminino 0,080*** 1,083
+(0,0 04)
+País de origem (ref.: Brasil)
+Í ndia, Bangladesh, Nepal e Paquistão −0,323*** 0,7 24
+(0,006)
+P ALOP −0,330*** 0,7 19
+(0,007)
+A mérica Latina (excl. Brasil) −0,084*** 0,9 19
+(0,011)
+U nião Europeia e Reino Unido 0,773*** 2,1 66
+(0,006)
+N orte de África −0,277*** 0,7 58
+(0,019)
+R ússia, Ucrânia e Moldávia 0,418*** 1,5 19
+(0,008)
+Outro 0,060*** 1,062
+(0,008)
+I dade ≥ 30 anos −0,152*** 0,8 59
+(0,004)
+S ubsídio de parentalidade e/ou prestações familiares −1,132*** 0,3 22
+(0,008)
+R ecebe subsídio de desemprego 0,435*** 1,5 45
+(0,008)
+L ogaritmo do salário de entrada −0,116*** 0,8 90
+(0,005)
+Constante 1,072*** --
+(0,058)
+Número de observações 26 755 870 --
+6 Fonte: Microdados da Segurança Social (cálculos do Banco de Portugal). | Notas: *** denota significância estatística a 1%. Incluem-se ainda efeitos fixos
+2
+0 do setor de atividade e da localização da empresa, uma tendência temporal e efeitos fixos mensais (não reportados). O hazard ratio corresponde à
+2
+o exponenciação dos coeficientes estimados e mede a variação proporcional do risco condicional de saída associada a uma alteração unitária na variável
+ç
+r a explicativa, mantendo constantes os restantes fatores. Valores superiores (inferiores) a um indicam um aumento (redução) do risco de saída
+M
+o
+•
+r elativamente ao grupo de referência.
+c
+im
+ó Importa também fazer uma breve referência aos coeficientes estimados não apresentados no quadro.
+n
+o
+c No que se refere aos setores de atividade, por referência à agricultura — setor que apresenta o maior
+E
+m risco de saída —, a generalidade dos restantes setores evidencia probabilidades de saída inferiores,
+ite
+lo sendo essa diferença menor no caso da construção e particularmente marcada nas atividades
+B
+la
+•
+f
+g
+i
+e
+n
+o
+a
+g
+n
+r
+c
+á
+e
+fi
+i
+c
+r
+a
+a
+,
+s
+c
+,
+o
+n
+n
+a
+t r
+e
+o
+l
+l
+e
+a
+t
+n
+r
+d
+ic
+o
+id
+p
+a
+o
+d
+r
+e
+to
+e
+d o
+ág
+s
+u
+o
+a
+s
+,
+r
+e
+es
+n
+ta
+a
+n
+i
+t
+n
+e
+f
+s
+o
+f
+r
+a
+m
+to
+a
+r
+ç
+e
+ã
+s,
+o
+s u
+e
+b
+c
+s
+o
+is
+m
+te
+u
+m
+n i
+a
+c
+l
+a
+g
+ç
+u
+ã
+m
+o
+a
+.
+s
+R
+d
+e
+if
+la
+e
+t
+r
+i
+e
+v
+n
+a
+ç
+m
+as
+e n
+no
+te
+r i
+à
+s c
+d
+o
+i m
+de
+e n
+sa
+s
+í
+ã
+d
+o
+a
+g
+u
+tr entre municípios, embora a maioria dos coeficientes estimados não apresente significância estatística.
+o
+P
+e
+Finalmente, os efeitos fixos mensais sugerem que o risco de saída dos trabalhadores estrangeiros
+d
+o
+é particularmente elevado no mês de dezembro, seguido de agosto, setembro e outubro, o que poderá
+c
+n estar associado à sua representação em algumas atividades económicas com natureza sazonal.
+a
+B
+58
+
+[Página 61]
+Principais mensagens
+O grau de permanência dos trabalhadores estrangeiros tem múltiplas implicações para a economia
+portuguesa e para a definição de políticas públicas. Este Tema em destaque procurou contribuir
+com mais evidência para este debate. Os resultados sugerem que a natureza da permanência dos
+estrangeiros conjuga situações muito distintas. Por um lado, cerca de 40% dos trabalhadores
+estrangeiros apresenta permanências relativamente curtas, inferiores a 3 anos. Por outro lado,
+aproximadamente 40% dos trabalhadores estrangeiros permanece no país por períodos superiores
+a 10 anos.
+A análise identifica duas dimensões que condicionam fortemente a probabilidade de permanência no
+país. Em primeiro lugar, esta permanência está em grande medida associada à participação no
+mercado de trabalho. Mais de 90% da duração total da permanência dos estrangeiros é dedicada
+a trabalho por conta de outrem ou independente, sendo o recurso a prestações sociais residual.
+As perspetivas de emprego determinam o grau da permanência dos estrangeiros. Este facto justifica as
+durações relativamente longas dos trabalhadores estrangeiros que entraram mais recentemente na
+economia portuguesa, pois beneficiaram de um mercado de trabalho muito dinâmico. Justifica também
+o resultado de que os estrangeiros que recebem subsídio de desemprego têm um risco 55% superior de
+sair dos registos da Segurança Social, presumivelmente em busca de melhores oportunidades noutros
+destinos. Uma inversão do ciclo económico tenderá assim a reverter rapidamente o dinamismo das
+entradas e a duração da permanência dos estrangeiros em Portugal.
+Uma segunda dimensão que determina a permanência dos estrangeiros é a presença das suas
+famílias. Na base de dados é possível identificar que a existência de laços parentais diminui o risco de
+saída em cerca de 68%. A presença das famílias é assim fundamental para aumentar a retenção dos
+trabalhadores estrangeiros, facilitando a acumulação de capital humano específico nas empresas em
+que se inserem.
+Globalmente, os resultados sugerem que Portugal ainda está longe dos países com maior grau de
+permanência dos trabalhadores estrangeiros. Políticas que favoreçam vínculos laborais estáveis,
+melhores condições remuneratórias e enquadramentos institucionais que apoiem a parentalidade
+poderão contribuir para aumentar esta retenção. Tal terá implicações relevantes para a dinâmica do
+emprego, a evolução demográfica e a integração dos indivíduos estrangeiros na sociedade portuguesa.
+e
+u
+q
+a
+ts
+e
+d
+m
+e
+a
+m
+e
+T
+59
+
+[Página 63]
+III Políticas em análise
+Um retrato da literacia financeira em Portugal
+
+[Página 65]
+Um retrato da literacia financeira
+em Portugal1
+A literacia financeira é uma competência essencial ao longo da vida, sendo determinante para
+a autonomia dos indivíduos e para a promoção do bem-estar financeiro das famílias. Os conhecimentos
+financeiros têm impacto nas decisões individuais de consumo, crédito e investimento e influenciam, por
+essa via, a distribuição do rendimento, a poupança agregada e a sua afetação. Num contexto marcado
+pela diversificação e complexidade dos produtos financeiros e pela digitalização dos serviços, uma literacia
+financeira adequada assume particular relevância para promover decisões informadas e reduzir os
+impactos de fraudes. O interesse pelo estudo da literacia financeira a nível internacional intensificou-
+se após a crise financeira de 2008, que expôs a vulnerabilidade de muitas famílias e reforçou
+a necessidade de fomentar atitudes prudentes e a escolha de produtos financeiros adequados
+para aumentar a sua resiliência a choques.
+Este Políticas em análise apresenta um diagnóstico dos conhecimentos, atitudes e comportamentos
+financeiros da população portuguesa, identificando as principais lacunas existentes, contribuindo
+assim para melhorar as estratégias de promoção da literacia. Para o efeito utilizam-se dados de duas
+fontes de informação complementares: primeiro, apresentam-se os resultados do 4.º Inquérito
+à Literacia Financeira da População Portuguesa, enquadrado no 2023 International Survey of Adult
+Financial Literacy2, que abrangeu 1510 indivíduos, e, seguidamente, os resultados do módulo do
+PISA 2022 dedicado à literacia financeira dos estudantes de 15 anos, no qual participaram 4075 alunos
+portugueses.
+No conjunto de inquiridos que afirma ter poupado no ano
+anterior, perto de 60% manteve a totalidade da poupança
+na conta à ordem ou em numerário.
+A disseminação de produtos financeiros reflete-se na percentagem de inquiridos que afirmam deter
+diferentes instrumentos (Gráfico 1). Do lado da poupança e da proteção, quase metade dos inquiridos
+detém algum seguro (43,8%), cerca de um terço tem um depósito a prazo (34,2%), um sexto (16,7%)
+detém Planos de Poupança para a Reforma e um sétimo subscreve Certificados de Aforro ou do
+Tesouro (14,2%). No que respeita ao endividamento, um sétimo dos inquiridos (14,1%) tem um crédito
+à habitação e um pouco mais de um sexto (15,8%) tem outro tipo de crédito. Esta exposição
+1 Preparado por Hugo Reis, Sharmin Sazedj e Lara Wemans.
+2 A metodologia deste inquérito foi desenvolvida pela Rede Internacional de Educação Financeira da Organização para a Cooperação e o e s
+ilá
+Desenvolvimento Económico (OCDE/INFE). A sua aplicação a Portugal foi promovida pelos supervisores do setor financeiro (Autoridade de n
+a
+Supervisão de Seguros e Fundos de Pensões, Banco de Portugal e Comissão do Mercado de Valores Mobiliários) e baseou-se numa amostra m
+e
+estratificada por género, idade, localização geográfica, nível de escolaridade e situação laboral, incluindo jovens de 16 e 17 anos, não considerados s
+a
+n
+In
+a
+q
+s
+u
+a
+é
+n
+r
+á
+it
+l
+o
+is
+à
+e s
+L i
+q
+te
+u
+r
+e
+a c
+tê
+ia
+m
+F i
+c
+n
+o
+a
+m
+nc
+o
+e
+f
+i
+o
+ra
+n t
+d
+e
+a
+o
+P
+i
+o
+n
+p
+q
+u
+u
+l
+é
+a
+r
+ç
+i
+ã
+to
+o
+O
+Po
+C
+r
+D
+tu
+E
+g
+/
+u
+IN
+e
+F
+sa
+E
+,
+2
+p
+0
+u
+2
+b
+3
+l
+,
+i c
+q
+a
+u
+d
+e
+o
+i
+e
+n
+m
+clu
+2
+i
+0
+a
+2
+p
+4
+e
+.
+n as adultos. Mais detalhes podem ser consultados no Relatório do 4.º c itílo
+P
+63
+
+[Página 66]
+generalizada a produtos financeiros reforça a importância de aferir se a população dispõe de
+conhecimentos financeiros que permitam escolher as opções que melhor se adequam às suas
+necessidades.
+Apenas 54,8% dos inquiridos refere ter poupado no ano anterior ao do inquérito (Gráfico 2). No
+entanto, entre os que pouparam, uma maioria significativa (59,6%) optou por mantê-la na conta
+à ordem ou em numerário, abdicando de qualquer retorno financeiro. A aplicação da poupança em
+instrumentos financeiros é predominantemente realizada através de produtos de baixo risco, como
+depósitos a prazo ou obrigações, que abrangem 33,1% dos inquiridos que pouparam. Em contraste,
+a utilização de instrumentos financeiros mais complexos, com maior potencial de retorno e maior
+risco, como ações ou fundos de investimento, é residual (7,3%).
+Este padrão de comportamento reflete prudência, mas pode traduzir limitações no conhecimento
+financeiro e na compreensão das caraterísticas dos diferentes instrumentos de poupança
+e investimento.
+Gráfico 9 • Prevalência da detenção de produtos financeiros
+Fonte: 4.º Inquérito à Literacia Financeira da População Portuguesa.
+Gráfico 10 • Aplicação da poupança realizada no ano anterior ao do inquérito
+6
+2
+0
+2
+o
+ç
+r
+a
+M
+o
+•
+c
+im
+ó
+n
+o
+c
+E
+m
+ite
+lo
+B
+la
+•
+g
+u
+tr
+o
+P
+e
+d
+o
+Fonte: OCDE/INFE 2023. | Nota: Os inquiridos classificados como tendo canalizado a poupança para “outras aplicações”, incluem todos os que colocaram
+c pelo menos uma parte da poupança do ano anterior em algum instrumento para além de depósitos a prazo e obrigações.
+n
+a
+B
+64
+
+[Página 67]
+A avaliação global da literacia financeira em Portugal é próxima
+da média da área do euro, apesar do pior desempenho
+ao nível do domínio de conceitos financeiros básicos.
+A literacia financeira não se limita ao domínio de conceitos financeiros básicos. Abrange igualmente
+a capacidade de interpretar informação económica, realizar escolhas informadas no que respeita
+à contratação de crédito e seguros e ao planeamento financeiro, bem como a adoção de hábitos de
+prudência e de uma perspetiva de longo prazo na gestão do dinheiro. Tendo em consideração esta
+definição abrangente, o nível de literacia financeira é medido pela OCDE conjugando as pontuações
+obtidas nas dimensões de conhecimento, comportamentos e atitudes financeiras. O indicador de
+conhecimentos baseia-se nas respostas sobre conceitos financeiros básicos, enquanto o de
+comportamentos reflete a prática de gestão de finanças pessoais e o de atitudes revela em que medida
+os entrevistados assumem uma postura prudente face ao futuro.
+O gráfico 3 apresenta este indicador para Portugal, a média dos países da área do euro participantes
+no inquérito, e os países com melhor e pior desempenho. A Alemanha destaca-se com a pontuação
+média mais elevada (76%), situando-se 13 pp acima da média da área do euro. No extremo oposto
+situa-se a Itália, com uma pontuação de 53,3%, 10 pp abaixo da média. Portugal regista uma pontuação
+de 63,4%, em linha com a média da área do euro.
+No que respeita à composição do indicador, verifica-se que Portugal apresenta um desempenho acima
+da média nos comportamentos, que incluem hábitos de poupança, orçamento e controlo das
+despesas, e nas atitudes, medidas pela valorização da poupança e orientação para o longo prazo. Pelo
+contrário, Portugal apresenta um desempenho abaixo da média na componente do conhecimento
+financeiro.
+Gráfico 11 • Indicador global de desempenho em literacia financeira em Portugal e na área
+do euro
+e
+s
+ilá
+n
+a
+m
+Fonte: OCDE/INFE 2023. | Notas: O valor da área do euro corresponde a uma média simples dos 16 Estados-Membros que participaram no questionário (não e
+participaram a Áustria, Bélgica, Eslováquia e Eslovénia). Na construção do indicador global de literacia financeira, o indicador de comportamentos financeiros s a
+c
+tem um peso de 45%, o de conhecimentos financeiros 35% e o de atitudes 20%. itílo
+P
+65
+
+[Página 68]
+Apenas 13% dos entrevistados em Portugal atingem o nível
+essencial de conhecimentos financeiros, sobretudo devido
+a dificuldades no cálculo de juros e na compreensão
+da relação entre risco e diversificação.
+O conhecimento financeiro é aferido no inquérito recorrendo a sete questões, amplamente utilizadas
+em vários estudos internacionais. Apesar das questões se centrarem em conceitos financeiros
+essenciais, apenas 13% dos inquiridos em Portugal respondeu corretamente às 7 questões, o que
+compara com 17,9% na área do euro3.
+A análise das respostas a cada questão lança algumas pistas sobre as maiores lacunas em termos
+de conhecimento financeiro (Gráfico 4). Mais de metade dos inquiridos não compreende que
+geralmente é possível reduzir o risco de investimento no mercado de capitais se for adquirido um
+conjunto diversificado de ações. Embora quase todos os entrevistados em Portugal (92%)
+reconheçam que, se emprestarem dinheiro e lhes for devolvida a mesma quantia, isso implica que
+os juros pagos são nulos, apenas 40% acertaram no saldo, ao final de um ano, de um depósito
+a prazo de 100 euros com taxa de juro anual de 2% (na ausência de cobrança de comissões
+e impostos). A percentagem de indivíduos que acertam esta questão e também reconhecem que,
+se mantiverem o dinheiro e os juros recebidos neste depósito por cinco anos ele terá mais de
+110 euros, desce para 25%. Considerando apenas os indivíduos que detêm um empréstimo, 61%
+compreendem o conceito de juros simples e 46% dominam o conceito de juros compostos.
+Gráfico 12 • Percentagem de respostas corretas às questões que compõem o indicador
+de conhecimentos financeiros em Portugal e na área do euro
+6
+2
+0
+2
+o
+ç
+r
+a
+M
+o
+•
+c
+im
+ó Fonte: OCDE/INFE 2023. | Notas: As perguntas associadas a cada um dos conceitos são as seguintes: Juros sobre um empréstimo: “Se emprestar 25 euros
+n o a um amigo e ele lhe devolver os 25 euros no dia seguinte, quanto é que ele pagou de juros?”; Definição de inflação: “Inflação elevada significa que o custo de
+c E vida sobe rapidamente.“; Risco e retorno: “Um investimento com um elevado retorno geralmente tem associado um elevado risco.”; Valor do dinheiro no
+m tempo: “(…) Se a taxa de inflação for 2%, daqui a 1 ano vão conseguir comprar” [mais/o mesmo/menos do que hoje]? (com o mesmo montante); Diversificação
+ite de riscos: “Geralmente é possível reduzir o risco de investimento no mercado de capitais se compramos um conjunto diversificado de ações.”; Cálculo de juros
+lo
+simples: “Suponha que coloca 100 euros num depósito a prazo com uma taxa de juro anual de 2%. Quanto é que terá na conta ao fim de um ano?”; Compreende
+B
+la
+• j uros simples e compostos: resposta correta à pergunta de juros simples e à questão: “E ao fim de 5 anos?” [mais/igual/menos de 110 euros].
+g
+u
+tr
+o
+P
+e d 3 O valor da área do euro corresponde a uma média simples dos 14 Estados-Membros que participaram no questionário e não exigem a submissão
+o
+c de um pedido específico de acesso aos microdados deste inquérito para fins de investigação, excluindo assim, para além dos países referidos na nota
+n
+a B ao gráfico 3, os casos de Malta e da Alemanha.
+66
+
+[Página 69]
+Em Portugal, as mulheres, os idosos e os indivíduos com
+menores níveis de escolaridade ou rendimento apresentam
+níveis mais baixos de conhecimento financeiro.
+O gráfico 5 evidencia diferenças sistemáticas nos níveis de conhecimento financeiro em função das
+caraterísticas sociodemográficas dos entrevistados. Observam-se disparidades relevantes associadas
+ao género, à idade, ao nível de escolaridade e ao rendimento, com implicações importantes para
+a equidade e a inclusão financeira.
+No que respeita ao género, os homens apresentam, em média, um nível de conhecimento financeiro
+superior ao das mulheres (64,9% face a 56,8%). A análise por grupo etário revela que os níveis mais
+elevados de conhecimento financeiro se observam nos indivíduos entre os 30 e os 59 anos, período
+em que se concentram tipicamente as decisões financeiras mais determinantes. Os níveis mais baixos
+são registados entre os mais jovens e, sobretudo, entre os indivíduos com 60 ou mais anos. No caso
+dos mais velhos, parte do diferencial está associado a um menor nível de escolaridade.
+Gráfico 13 • Indicador de conhecimentos financeiros por caraterística do entrevistado em
+Portugal
+Fonte: OCDE/INFE 2023. | Nota: As categorias de rendimento líquido mensal do agregado familiar consideradas são as seguintes: baixo até 1000 euros;
+médio entre 1001 e 2500 euros; e elevado mais de 2500 euros.
+Com efeito, a escolaridade surge como um dos fatores mais fortemente associados ao conhecimento
+financeiro. Os indivíduos com níveis de escolaridade mais elevados apresentam resultados
+substancialmente superiores, com uma diferença de 30 pp entre o nível médio obtido pelos
+entrevistados que não terminaram o ensino secundário e aqueles que têm formação superior.
+Por fim, os resultados por nível de rendimento revelam uma associação positiva entre rendimento
+e conhecimento financeiro. Esta associação não decorre apenas da relação positiva entre rendimento e
+s
+e educação, mantendo-se mesmo controlando para o nível de escolaridade. Os indivíduos com ilá
+n
+a
+rendimentos mais elevados apresentam níveis de conhecimento financeiro significativamente m
+e
+superiores, o que pode refletir uma maior exposição a decisões financeiras complexas, mas também
+s
+a
+sugere que níveis mais baixos de conhecimento financeiro podem contribuir para a persistência de c itílo
+P
+67
+
+[Página 70]
+desigualdades económicas. O reforço da integração de conteúdos de literacia financeira ao longo do
+percurso educativo obrigatório pode contribuir para atenuar estas disparidades e promover uma
+maior igualdade de oportunidades.
+Ao nível das atitudes e dos comportamentos financeiros, as diferenças nas pontuações por caraterística
+sociodemográfica são tipicamente menos acentuadas do que as verificadas para o conhecimento
+financeiro, com exceção do comportamento financeiro, no caso dos mais jovens, e da relação entre
+rendimento e atitudes financeiras (Gráfico 6). Os indivíduos entre os 18 e os 29 anos obtêm, em média,
+uma pontuação em comportamentos financeiros 13 pp abaixo da alcançada pelos indivíduos entre os
+30 e os 59 anos. O indicador de atitudes financeiras é mais elevado nos indivíduos que pertencem
+a agregados com menor rendimento, refletindo uma maior preocupação com a sua situação
+financeira no futuro e maior prudência.
+Gráfico 14 • Diferença de pontuação nos indicadores de conhecimentos, comportamentos
+e atitudes financeiras por caraterística do entrevistado em Portugal | Em pontos percentuais
+Fonte: OCDE/INFE 2023. | Nota: As categorias de rendimento líquido mensal do agregado familiar consideradas são as seguintes: baixo até 1000 euros;
+médio entre 1001 e 2500 euros; e elevado mais de 2500 euros. As barras com as cores mais vivas identificam as diferenças estatisticamente significativas
+(valor-p inferior a 5%), a diferença obtida para os comportamentos financeiros dos indivíduos que não têm o ensino secundário não é estatisticamente
+significativa.
+6
+2
+0
+2
+o
+O diferencial de género ao nível do conhecimento financeiro
+ç
+r
+a
+M não decorre de um menor envolvimento das mulheres
+o
+•
+c na gestão financeira quotidiana.
+im
+ó
+n
+o
+c
+E
+m O gráfico 7 evidencia que o diferencial de género no conhecimento financeiro observado em
+ite
+lo Portugal é de magnitude semelhante ao da Alemanha e ligeiramente superior ao observado em
+B
+la
+•
+I
+o
+t á
+d
+l
+i
+i
+f
+a
+e
+.
+r
+A
+en
+p
+c
+ó
+i
+s
+a l
+c
+r
+o
+e
+n
+d
+s
+u
+i
+z
+d
+-
+e
+se
+ra
+a
+r
+p
+a
+e
+s
+n a
+re
+s
+s
+m
+ta
+a
+n
+r
+t
+g
+e
+in
+s
+a
+c
+lm
+ar
+e
+a
+n
+te
+te
+r
+,
+í s
+s
+t
+u
+ic
+g
+a
+e
+s
+r in
+in
+d
+d
+o
+i v
+q
+id
+u
+u
+e
+a
+e
+i
+s
+s
+t a
+e
+d
+s
+e
+o
+s
+c
+v
+io
+an
+ec
+ta
+o
+g
+n
+e
+ó
+m
+m
+d
+ic
+a
+a
+s
+s
+m
+o
+u
+b
+l
+s
+h
+e
+e
+r
+r
+v
+e
+a
+s
+d
+n
+a
+ã
+s
+o
+,
+g
+u
+tr resulta de diferenças entre géneros nos níveis médios de escolaridade ou de rendimento do
+o
+P
+e
+agregado familiar.
+d
+o
+c
+n
+a
+B
+68
+
+[Página 71]
+Em contraste, no domínio dos comportamentos e atitudes financeiras, as diferenças de género são
+substancialmente menores e em alguns casos perdem significância estatística. A ausência de
+disparidades no comportamento financeiro por género sugere níveis comparáveis de envolvimento
+na gestão financeira quotidiana, indicando que as diferenças no conhecimento financeiro não
+decorrem necessariamente de menor participação ou prudência nas decisões financeiras. Neste
+contexto, a redução da disparidade de género observada ao nível do domínio de conceitos financeiros
+indispensáveis à tomada de decisões financeiras informadas poderá contribuir também para atenuar disparidades
+socioeconómicas por género.
+Gráfico 15 • Diferencial de género nos indicadores de conhecimentos, comportamentos
+e atitudes financeiras em Portugal e na área do euro | Em pontos percentuais
+Fonte: OCDE/INFE 2023. | Notas: O diferencial de género está definido como a diferença entre a pontuação média obtida pelas mulheres e a obtida
+pelos homens. O diferencial após considerar as caraterísticas observadas corresponde ao coeficiente da variável género numa regressão onde a variável
+dependente é cada um dos indicadores e as variáveis independentes incluem também as categorias de idade, escolaridade e rendimento apresentadas
+no gráfico 6. As barras e marcadores com as cores mais vivas identificam as diferenças estatisticamente significativas (valor-p inferior a 5%). Não são
+apresentados para a Alemanha os resultados após controlar pelas caraterísticas, porque o acesso aos microdados do inquérito para este país exige a
+submissão de um pedido específico para fins de investigação.
+A utilização generalizada de instrumentos financeiros pelos
+indivíduos de 15 anos evidencia a importância da literacia
+financeira dos jovens.
+A avaliação da literacia financeira dos jovens assume particular relevância num contexto em que
+uma proporção significativa dos estudantes já tem acesso e utiliza instrumentos financeiros no seu
+quotidiano. De acordo com o módulo de literacia financeira do PISA 20224, 38,1% dos jovens de
+e
+s
+ilá
+n
+a
+4 O módulo de literacia financeira é facultativo e foi introduzido no PISA em 2012, tendo Portugal participado pela primeira vez em 2018. m
+e
+Os participantes do PISA são escolhidos aleatoriamente em duas etapas: primeiro são selecionadas as escolas e depois alguns alunos dentro de s
+a
+c
+e
+a
+i
+d
+m
+a
+p
+u
+u
+m
+ta
+a
+çã
+.
+o
+O s
+u t
+r
+i
+e
+liz
+s
+a
+u
+n
+lt
+d
+a
+o
+d o
+1
+s
+0
+s
+v
+ã
+a
+o
+lo
+o
+re
+rg
+s
+a
+p
+n
+la
+iz
+u
+a
+s
+d
+í
+o
+ve
+s
+is
+n u
+p
+m
+ar
+a
+a
+b
+a
+a
+p
+s
+o
+e
+n
+d
+tu
+e
+a
+d
+çã
+a
+o
+d o
+d
+s
+e
+q
+ca
+u
+d
+e
+a
+i n
+e
+c
+s
+l
+t
+u
+u
+i
+d
+o
+a
+s
+n t
+p
+e
+e
+.
+sos amostrais e permite considerar os erros de amostragem c itílo
+P
+69
+
+[Página 72]
+15 anos em Portugal detém uma conta bancária, 27,3% possui um cartão de pagamento e 18,7%
+utiliza uma aplicação financeira no telemóvel (Gráfico 8).
+Para além do acesso, a utilização efetiva destes instrumentos é também expressiva. No ano
+anterior ao do inquérito, 59,6% dos estudantes efetuaram pagamentos com cartão, 33% enviaram
+dinheiro através do telemóvel, 76% realizaram compras online e 55,1% efetuaram pagamentos
+recorrendo a aplicações móveis. Estes resultados indicam que uma parte substancial dos jovens
+já interage com meios de pagamento digitais e toma decisões financeiras de forma autónoma,
+ficando também exposta a situações de fraude.
+Gráfico 16 • Acesso e utilização de instrumentos financeiros pelos estudantes com 15 anos
+em Portugal
+Fonte: OCDE/PISA 2022.
+O nível médio de literacia financeira dos alunos portugueses
+é semelhante ao verificado noutros países, apesar de haver
+6
+2 0 menos estudantes com desempenhos de topo.
+2
+o
+ç
+r
+a
+M
+o
+• Os gráficos 9 e 10 comparam o desempenho em literacia financeira dos alunos de 15 anos em Portugal
+c com o de outros países da União Europeia que participaram no inquérito. A pontuação média dos
+im
+ó alunos portugueses situa-se em níveis semelhantes aos observados na maioria dos países
+n
+o
+c considerados, não se destacando de forma significativa no contexto internacional (Gráfico 9). No que
+E
+m
+respeita à distribuição dos resultados, o percentil 25 e 75 da distribuição estão mais próximos no caso
+ite
+lo português do que na generalidade dos outros países, indicando uma menor dispersão.
+B
+la
+•
+A OCDE classifica os estudantes em várias categorias, consoante as tarefas que estes realizam com
+g
+u sucesso. Nos extremos destas categorias estão os estudantes sem competências básicas para
+tr
+o utilizar adequadamente a informação para tomar decisões que fazem parte do seu dia a dia e os
+P
+e
+d que têm um desempenho de topo, aplicando conceitos complexos, que poderão apenas tornar-se
+o
+c relevantes nas suas vidas a longo prazo. Em Portugal, a percentagem de alunos que não adquiriram
+n
+a
+B
+70
+
+[Página 73]
+competências básicas (15,5%) é comparável à observada noutros países europeus (Gráfico 10).
+Em contraste, a percentagem de alunos com competências de topo é relativamente mais
+reduzida (6,6%), situando-se abaixo da registada na maioria dos países considerados, com exceção
+da Espanha e da Itália. Mesmo entre os alunos sem competências básicas, 74% acredita saber gerir
+o seu dinheiro. Este excesso de confiança aumenta o risco de decisões financeiras pouco
+informadas.
+Gráfico 17 • Desempenho em literacia financeira dos estudantes em Portugal e nos países
+da União Europeia que participaram no inquérito | Em pontos
+Fonte: OCDE/PISA 2022. | Notas: Este módulo é composto por 46 questões que procuram abranger o conceito de literacia financeira de forma ampla,
+incluindo o conhecimento e a compreensão de conceitos financeiros, as competências e a motivação para os aplicar, bem como a participação na vida
+económica. A pontuação é calculada de modo que a média para o conjunto da OCDE seja de 500 pontos e o desvio-padrão de 100 pontos. A Bélgica não
+foi incluída na análise, porque o inquérito foi apenas realizado na comunidade flamenga. (*) É necessária cautela ao interpretar os resultados destes
+países, uma vez que não cumpriram todos os critérios de amostragem.
+Gráfico 18 • Peso dos estudantes sem competências básicas e com competências de topo
+em Portugal e nos países da União Europeia que participaram no inquérito
+e
+s
+ilá
+n
+a
+m
+e
+s
+Fonte: OCDE/PISA 2022. | Notas: A Bélgica não foi incluída na análise, porque o inquérito foi apenas realizado na comunidade flamenga. (*) É necessária a
+c
+cautela ao interpretar os resultados destes países, uma vez que não cumpriram todos os critérios de amostragem. Os estudantes com competências básicas itílo
+são os que não atingem o nível de proficiência 2 e os de competências de topo aqueles que se classificam no nível 5. P
+71
+
+[Página 74]
+Os estudantes de famílias imigrantes e os de contextos
+socioeconómicos desfavorecidos em Portugal têm níveis
+mais baixos de literacia financeira.
+As diferenças no desempenho dos alunos portugueses em literacia financeira resultam sobretudo de
+variações entre alunos dentro da mesma escola, e não de diferenças entre escolas. A decomposição
+da variância dos resultados indica que cerca de 87% da variância total do desempenho em literacia
+financeira é explicada por diferenças intraescola, enquanto apenas 13% é atribuível a diferenças entre
+escolas. Isto significa que a maior parte da heterogeneidade observada se verifica entre alunos que
+frequentam a mesma escola. Este resultado sugere que as caraterísticas individuais e o contexto
+socioeconómico específico de cada aluno desempenham um papel determinante no nível de literacia
+financeira, tal como verificado para os adultos.
+Em termos de género, apesar de a probabilidade de não ter as competências básicas ser igual entre
+rapazes e raparigas (cerca de 15%), os primeiros apresentam com maior frequência desempenhos
+de topo (8,1% face a 5,1%) (Gráfico 11 — Painel A).
+Os estudantes com ambos os pais nascidos no estrangeiro estão simultaneamente mais concentrados
+no grupo sem competências básicas (21,4% face a 13,7% dos restantes estudantes) e menos nos que
+apresentam competências de topo (4,2% face a 7% dos restantes estudantes). As diferenças por
+estatuto socioeconómico das famílias, medido indiretamente pela escolaridade dos pais e o número
+de livros em casa, são igualmente significativas. As probabilidades dos estudantes cujos pais
+não completaram o ensino secundário ou que têm menos de 100 livros em casa não atingirem
+as competências básicas (respetivamente 21,3% e 18,7%) e de apresentarem competências de topo
+(3,2% e 4,3%) são próximas das estimadas para os estudantes que pertencem a uma família
+imigrante (Gráfico 11 — Painel B).
+Gráfico 19 • Peso dos estudantes sem competências básicas e com competências de topo
+em Portugal
+Painel A — Por caraterísticas do estudante Painel B — Por estatuto socioeconómico da família
+6
+2
+0
+2
+o
+ç
+r
+a
+M
+o
+•
+c
+im
+ó
+n
+o
+c
+E
+m
+ite Fonte: OCDE/PISA 2022. | Notas: Painel A — O estudante é classificado como pertencendo a uma família imigrante quando ambos os pais nasceram no
+lo
+estrangeiro. Painel B — Para a variável de educação dos pais, quando estes têm níveis diferentes considera-se o mais elevado. Todas as diferenças por
+B
+la
+• c
+A
+a
+d
+ra
+if
+t
+e
+e
+r
+r
+e
+ís
+n
+t
+ç
+ic
+a
+a
+n
+s
+a
+ã o
+p e
+e
+r
+s
+c
+t
+e
+a
+n
+ti
+t
+s
+a
+t
+g
+ic
+e
+a
+m
+m e
+d
+n
+e
+t e
+n a
+s
+t
+i
+i
+g
+v
+n
+o
+i
+s
+f i
+e
+ca
+i
+t
+m
+iv
+i
+a
+g
+s
+r a
+(
+n
+va
+te
+lo
+s
+r
+c
+-
+o
+p
+m
+in
+c
+fe
+o
+r
+m
+io
+p
+r
+e
+a
+tê
+5
+n
+%
+ci
+)
+a
+,
+s
+e
+d
+x
+e
+ce
+t
+t
+o
+o
+p
+a
+o
+d
+é
+i
+a
+fe
+p
+r
+e
+e
+n
+n
+a
+ça
+s s
+n
+ig
+a
+n
+p
+if
+e
+ic
+r
+a
+ce
+tiv
+n
+a
+ta
+c
+g
+o
+e
+n
+m
+si d
+d
+e
+e
+r a
+ra
+n
+p
+d
+a
+o
+r i
+u
+g
+m
+as
+v
+e
+a l
+r
+o
+a
+r
+p
+-p
+a z
+a
+e
+t
+s
+é
+s
+1
+e
+0
+m
+% .
+c ompetências básicas.
+g
+u
+tr
+o
+P
+e Quando se consideram todas estas caraterísticas em conjunto, o estatuto socioeconómico da família
+d
+o destaca-se claramente como o mais determinante para o nível de literacia dos estudantes. Esta forte
+c
+n
+a associação entre o desempenho dos estudantes e as caraterísticas das famílias em que estão
+B
+72
+
+[Página 75]
+inseridos sinaliza a necessidade de assegurar níveis adequados de literacia financeira para jovens
+dos diferentes contextos sociais.
+As lacunas identificadas, sobretudo em contextos
+socioeconómicos vulneráveis, mostram a necessidade
+de apostar na formação financeira para promover
+a igualdade de oportunidades.
+A análise apresentada evidencia que, embora Portugal registe níveis de literacia financeira próximos
+da média da área do euro, persistem fragilidades relevantes, particularmente ao nível do
+conhecimento financeiro, num contexto em que uma parte significativa da poupança é canalizada
+para instrumentos sem rendibilidade. Estas lacunas são mais pronunciadas nas mulheres e entre
+indivíduos com menores níveis de escolaridade e rendimento. A relação entre o desempenho em
+literacia financeira e o contexto socioeconómico é visível logo aos 15 anos, durante o percurso da
+escolaridade obrigatória.
+A literacia financeira incentiva a poupança, promove comportamentos prudentes e uma utilização
+responsável do crédito, contribuindo para prevenir o endividamento excessivo, reforçar a proteção
+contra fraudes e a capacidade de resposta a choques inesperados. Em contrapartida, a insuficiência
+de conhecimentos financeiros pode constituir uma barreira à progressão socioeconómica dos
+jovens, acentuando desigualdades entre grupos de diferentes contextos familiares e limitando
+o acesso a oportunidades financeiras.
+Neste contexto, a promoção da literacia financeira assume relevância não apenas para o bem-estar
+individual, mas também para a igualdade de oportunidades. Ao fortalecer as competências financeiras
+da população desde a juventude, reforça-se a qualidade das decisões financeiras das famílias
+e consolidam-se as bases de uma economia mais participada e produtiva.
+A literacia financeira tem, por isso, assumido uma importância crescente nas agendas de política pública
+em Portugal, com a definição de estratégias nacionais e a implementação de programas educativos
+dirigidos a diferentes segmentos da população. Neste enquadramento, a avaliação sistemática
+dos resultados das diferentes iniciativas, a sua adaptação às especificidades regionais e a incorporação
+das melhores práticas a nível internacional assume particular relevo, contribuindo para o ajustamento
+e melhoria contínua das estratégias adotadas.
+e
+s
+ilá
+n
+a
+m
+e
+s
+a
+c
+itílo
+P
+73
