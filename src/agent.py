@@ -1,7 +1,7 @@
 from langchain_ollama import ChatOllama
-from langchain.chains import ConversationalRetrievalChain
-from langchain.memory import ConversationBufferWindowMemory
-from langchain.prompts import PromptTemplate
+from langchain_classic.chains import ConversationalRetrievalChain
+from langchain_classic.memory import ConversationBufferWindowMemory
+from langchain_core.prompts import PromptTemplate
 
 LLM_MODEL = "llama3.2"
 

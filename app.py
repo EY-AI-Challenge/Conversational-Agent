@@ -5,7 +5,7 @@ from src.ingestion import ingest, load_vectorstore
 from src.retriever import build_hybrid_retriever
 from src.agent import build_agent, ask
 from langchain_community.document_loaders import PyPDFLoader, TextLoader
-from langchain.schema import Document
+from langchain_core.documents import Document
 import pandas as pd
 
 # ── Configuração da página ─────────────────────────────────────────────────

@@ -1,4 +1,5 @@
-from langchain.retrievers import EnsembleRetriever, BM25Retriever
+from langchain_classic.retrievers import EnsembleRetriever
+from langchain_community.retrievers import BM25Retriever
 from langchain_chroma import Chroma
 
 
