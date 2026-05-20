@@ -57,7 +57,17 @@ def build_agent(retriever):
     return chain
 
 
-def ask(chain, question: str) -> dict:
+def ask(chain, question: str, partner_lookup=None, person_lookup=None) -> dict:
+    if person_lookup is not None:
+        lookup_result = person_lookup.answer(question)
+        if lookup_result is not None:
+            return lookup_result
+
+    if partner_lookup is not None:
+        lookup_result = partner_lookup.answer(question)
+        if lookup_result is not None:
+            return lookup_result
+
     result = chain.invoke({"question": question})
     return {
         "answer": result["answer"],

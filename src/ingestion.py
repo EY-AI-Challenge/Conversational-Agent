@@ -1,4 +1,6 @@
 import pandas as pd
+import re
+import unicodedata
 from pathlib import Path
 from langchain_core.documents import Document
 from langchain_community.document_loaders import PyPDFLoader, TextLoader
@@ -12,6 +14,34 @@ EMBED_MODEL = "nomic-embed-text"
 COLLECTION  = "ey_knowledge"
 
 
+def _strip_accents(text: str) -> str:
+    normalized = unicodedata.normalize("NFKD", text)
+    return "".join(ch for ch in normalized if not unicodedata.combining(ch))
+
+
+def _split_joined_name(text: str) -> str:
+    return re.sub(
+        r"(?<=[a-záàâãéêíóôõúç])(?=[A-ZÁÀÂÃÉÊÍÓÔÕÚÇ])",
+        " ",
+        text,
+    )
+
+
+def source_search_aliases(file_path: Path) -> list[str]:
+    stem = file_path.stem
+    spaced = _split_joined_name(stem)
+    aliases = [stem, spaced, _strip_accents(stem), _strip_accents(spaced)]
+    return list(dict.fromkeys(alias for alias in aliases if alias.strip()))
+
+
+def add_source_search_aliases(doc: Document, file_path: Path) -> None:
+    aliases = source_search_aliases(file_path)
+    if aliases:
+        doc.page_content = (
+            f"{doc.page_content}\n\nAliases de pesquisa: {', '.join(aliases)}"
+        )
+
+
 def load_txts() -> list[Document]:
     docs = []
     for f in DATA_DIR.glob("*.txt"):
@@ -21,6 +51,7 @@ def load_txts() -> list[Document]:
             for doc in loaded:
                 doc.metadata["source"] = f.name
                 doc.metadata["type"]   = "transcript"
+                add_source_search_aliases(doc, f)
             docs.extend(loaded)
             print(f"  ✅ TXT: {f.name}")
         except Exception as e:
@@ -37,6 +68,7 @@ def load_pdfs() -> list[Document]:
             for doc in loaded:
                 doc.metadata["source"] = f.name
                 doc.metadata["type"]   = "pdf"
+                add_source_search_aliases(doc, f)
             docs.extend(loaded)
             print(f"  ✅ PDF: {f.name}")
         except Exception as e:

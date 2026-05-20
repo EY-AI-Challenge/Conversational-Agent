@@ -1,8 +1,10 @@
 import streamlit as st
 from pathlib import Path
-from src.ingestion import ingest, load_vectorstore
+from src.ingestion import add_source_search_aliases, ingest, load_vectorstore
 from src.retriever import build_hybrid_retriever
 from src.agent import build_agent, ask
+from src.partner_lookup import PartnerLookup
+from src.person_lookup import PersonLookup
 from langchain_community.document_loaders import PyPDFLoader, TextLoader
 from langchain_core.documents import Document
 import pandas as pd
@@ -65,13 +67,19 @@ def load_all_docs():
     for f in DATA_DIR.glob("*.txt"):
         try:
             loader = TextLoader(str(f), encoding="utf-8")
-            docs.extend(loader.load())
+            loaded = loader.load()
+            for doc in loaded:
+                add_source_search_aliases(doc, f)
+            docs.extend(loaded)
         except Exception:
             pass
     for f in DATA_DIR.glob("*.pdf"):
         try:
             loader = PyPDFLoader(str(f))
-            docs.extend(loader.load())
+            loaded = loader.load()
+            for doc in loaded:
+                add_source_search_aliases(doc, f)
+            docs.extend(loaded)
         except Exception:
             pass
     for f in DATA_DIR.glob("*.xlsx"):
@@ -101,9 +109,11 @@ def setup_agent():
     docs      = load_all_docs()
     retriever = build_hybrid_retriever(vectorstore, docs)
     agent     = build_agent(retriever)
+    person_lookup = PersonLookup(DATA_DIR)
+    partner_lookup = PartnerLookup(DATA_DIR)
     n_docs    = len(docs)
 
-    return agent, n_docs
+    return agent, person_lookup, partner_lookup, n_docs
 
 
 # ── Sidebar ────────────────────────────────────────────────────────────────
@@ -161,7 +171,7 @@ st.markdown("""
 # ── Inicialização do agente ────────────────────────────────────────────────
 with st.spinner("🔄 A inicializar o agente (primeira vez pode demorar)..."):
     try:
-        agent, n_docs = setup_agent()
+        agent, person_lookup, partner_lookup, n_docs = setup_agent()
         st.success(f"✅ Agente pronto — {n_docs} documentos indexados", icon="✅")
     except Exception as e:
         st.error(f"❌ Erro ao inicializar: {e}")
@@ -213,7 +223,12 @@ if user_input:
     with st.chat_message("assistant"):
         with st.spinner("🔍 A pesquisar nos documentos..."):
             try:
-                result  = ask(agent, user_input)
+                result  = ask(
+                    agent,
+                    user_input,
+                    partner_lookup=partner_lookup,
+                    person_lookup=person_lookup,
+                )
                 answer  = result["answer"]
                 sources = result["sources"]
 
