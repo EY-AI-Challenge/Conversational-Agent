@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic-settings
+python-multipart
+langchain
+langchain-community
+langchain-chroma
+langchain-google-genai
+langchain-text-splitters
+chromadb
+pypdf
+openpyxl
+requests
+beautifulsoup4
