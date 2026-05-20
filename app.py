@@ -10,7 +10,6 @@ import shutil
 # ── Configuração da página ─────────────────────────────────────────────────
 st.set_page_config(
     page_title="EY Knowledge Assistant",
-    page_icon="💼",
     layout="wide",
     initial_sidebar_state="expanded",
 )
@@ -97,25 +96,19 @@ with st.sidebar:
         st.rerun()
 
     st.markdown("---")
-    st.markdown("### 📂 Fontes de conhecimento")
+    st.markdown("###  Fontes de conhecimento")
     pdfs  = list(DATA_DIR.glob("*.pdf"))
     txts  = list(DATA_DIR.glob("*.txt"))
     excels = list(DATA_DIR.glob("*.xlsx"))
-    st.markdown(f"- 📄 **{len(pdfs)}** PDFs (CVs + artigos)")
-    st.markdown(f"- 📝 **{len(txts)}** Transcrições")
-    st.markdown(f"- 📊 **{len(excels)}** Excel (Partners)")
-    st.markdown("- 🌐 **DGEG** Publicações de energia")
+    st.markdown(f"- **{len(pdfs)}** PDFs (CVs + artigos)")
+    st.markdown(f"-  **{len(txts)}** Transcrições")
+    st.markdown(f"- **{len(excels)}** Excel (Partners)")
+    st.markdown("-  **DGEG** Publicações de energia")
 
     st.markdown("---")
-    st.markdown("### 💡 Perguntas exemplo")
+    st.markdown("### Perguntas exemplo")
     example_questions = [
         "Quem é o partner de AI and Data?",
-        "O que é o FraudRadar?",
-        "Que serviços tem a área de Tax?",
-        "Fala-me sobre o Analytics4Vegetation",
-        "Que publicações de energia existem na DGEG?",
-        "O que publica a DGEG sobre estatísticas rápidas das renováveis?",
-        "Quem lidera o Consulting?",
         "Onde fica o escritório da EY?",
     ]
     for q in example_questions:
@@ -124,27 +117,27 @@ with st.sidebar:
 
     st.markdown("---")
     st.markdown("### ⚙️ Configuração")
-    st.markdown("🤖 **LLM:** Ollama (llama3.2)")
-    st.markdown("🔍 **Retriever:** Hybrid BM25 + MMR")
-    st.markdown("💾 **Vector Store:** ChromaDB")
+    st.markdown(" **LLM:** Ollama (llama3.2)")
+    st.markdown(" **Retriever:** Hybrid BM25 + MMR")
+    st.markdown(" **Vector Store:** ChromaDB")
 
 
 # ── Header principal ───────────────────────────────────────────────────────
 st.markdown("""
 <div class="ey-header">
-    <h1>💼 EY Knowledge Assistant</h1>
+    <h1>EY Knowledge Assistant</h1>
     <p>Assistente de conhecimento interno EY Portugal + publicações DGEG</p>
 </div>
 """, unsafe_allow_html=True)
 
 
 # ── Inicialização do agente ────────────────────────────────────────────────
-with st.spinner("🔄 A inicializar o agente (primeira vez pode demorar)..."):
+with st.spinner("A inicializar o agente (primeira vez pode demorar)..."):
     try:
         agent, person_lookup, partner_lookup, n_docs = setup_agent()
-        st.success(f"✅ Agente pronto — {n_docs} documentos indexados", icon="✅")
+        st.success(f" Agente pronto — {n_docs} documentos indexados")
     except Exception as e:
-        st.error(f"❌ Erro ao inicializar: {e}")
+        st.error(f"Erro ao inicializar: {e}")
         st.stop()
 
 
@@ -169,7 +162,7 @@ for msg in st.session_state.messages:
         if msg.get("sources"):
             unique_sources = list(dict.fromkeys(msg["sources"]))
             source_html = "".join(
-                f'<span class="source-tag">📎 {s}</span>'
+                f'<span class="source-tag"> {s}</span>'
                 for s in unique_sources[:5]
             )
             st.markdown(f"<div>{source_html}</div>", unsafe_allow_html=True)
@@ -208,7 +201,7 @@ if user_input:
                 if sources:
                     unique = list(dict.fromkeys(sources))
                     source_html = "".join(
-                        f'<span class="source-tag">📎 {s}</span>'
+                        f'<span class="source-tag"> {s}</span>'
                         for s in unique[:5]
                     )
                     st.markdown(f"<div>{source_html}</div>",
@@ -221,7 +214,7 @@ if user_input:
                 })
 
             except Exception as e:
-                err = f"❌ Erro ao gerar resposta: {e}"
+                err = f" Erro ao gerar resposta: {e}"
                 st.error(err)
                 st.session_state.messages.append({
                     "role": "assistant",
