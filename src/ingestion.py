@@ -1,9 +1,9 @@
 import os
 import pandas as pd
 from pathlib import Path
-from langchain.schema import Document
+from langchain_core.documents import Document
 from langchain_community.document_loaders import PyPDFLoader, TextLoader
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_ollama import OllamaEmbeddings
 from langchain_chroma import Chroma
 
