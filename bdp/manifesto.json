@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "titulo": "Boletim Económico — março 2026",
+    "data": "2026-03",
+    "url_pdf": "https://www.bportugal.pt/sites/default/files/documents/2026-03/Boletim%20Economico_mar%C3%A7o2026.pdf",
+    "ficheiro_pdf": "bdp\\boletim_01_2026-03.pdf",
+    "ficheiro_txt": "bdp\\boletim_01_2026-03.txt",
+    "palavras": 27987,
+    "extraido_em": "2026-05-20T12:54:54.882677"
+  },
+  {
+    "id": 2,
+    "titulo": "Boletim Económico — outubro 2025",
+    "data": "2025-10",
+    "url_pdf": "https://www.bportugal.pt/sites/default/files/documents/2025-10/be_out2025.pdf",
+    "ficheiro_pdf": "bdp\\boletim_02_2025-10.pdf",
+    "ficheiro_txt": "bdp\\boletim_02_2025-10.txt",
+    "palavras": 26135,
+    "extraido_em": "2026-05-20T12:55:04.951837"
+  },
+  {
+    "id": 3,
+    "titulo": "Boletim Económico — março 2025",
+    "data": "2025-03",
+    "url_pdf": "https://www.bportugal.pt/sites/default/files/documents/2025-03/be_mar25.pdf",
+    "ficheiro_pdf": "bdp\\boletim_03_2025-03.pdf",
+    "ficheiro_txt": "bdp\\boletim_03_2025-03.txt",
+    "palavras": 25229,
+    "extraido_em": "2026-05-20T12:55:18.527906"
+  }
+]
