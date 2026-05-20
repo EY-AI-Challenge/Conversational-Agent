@@ -7,11 +7,13 @@ from langchain_community.document_loaders import PyPDFLoader, TextLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_ollama import OllamaEmbeddings
 from langchain_chroma import Chroma
+from src.dgeg_loader import load_dgeg_publications
 
 DATA_DIR = Path("./Data")
 CHROMA_DIR = "./chroma_db"
 EMBED_MODEL = "nomic-embed-text"
 COLLECTION  = "ey_knowledge"
+INDEX_VERSION = "dgeg-publications-v1"
 
 
 def _strip_accents(text: str) -> str:
@@ -97,15 +99,18 @@ def load_excel() -> list[Document]:
     return docs
 
 
-def ingest() -> Chroma:
-    print("\n📂 A carregar documentos...")
-    docs = []
-
+def load_all_documents(include_dgeg: bool = True) -> list[Document]:
     txts   = load_txts()
     pdfs   = load_pdfs()
     excels = load_excel()
+    dgeg   = load_dgeg_publications() if include_dgeg else []
 
-    docs = txts + pdfs + excels
+    return txts + pdfs + excels + dgeg
+
+
+def ingest() -> Chroma:
+    print("\n📂 A carregar documentos...")
+    docs = load_all_documents()
     print(f"\n📊 Total carregado: {len(docs)} documentos")
 
     splitter = RecursiveCharacterTextSplitter(
@@ -125,9 +130,21 @@ def ingest() -> Chroma:
         persist_directory=CHROMA_DIR,
         collection_name=COLLECTION,
     )
+    Path(CHROMA_DIR).mkdir(parents=True, exist_ok=True)
+    Path(CHROMA_DIR, ".index_version").write_text(INDEX_VERSION, encoding="utf-8")
 
     print(f"✅ ChromaDB pronto — {len(chunks)} chunks indexados em '{CHROMA_DIR}'")
     return vectorstore
+
+
+def index_is_current() -> bool:
+    marker = Path(CHROMA_DIR, ".index_version")
+    return (
+        Path(CHROMA_DIR).exists()
+        and any(Path(CHROMA_DIR).iterdir())
+        and marker.exists()
+        and marker.read_text(encoding="utf-8").strip() == INDEX_VERSION
+    )
 
 
 def load_vectorstore() -> Chroma:

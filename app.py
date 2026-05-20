@@ -1,13 +1,11 @@
 import streamlit as st
 from pathlib import Path
-from src.ingestion import add_source_search_aliases, ingest, load_vectorstore
+from src.ingestion import ingest, index_is_current, load_all_documents, load_vectorstore
 from src.retriever import build_hybrid_retriever
 from src.agent import build_agent, ask
 from src.partner_lookup import PartnerLookup
 from src.person_lookup import PersonLookup
-from langchain_community.document_loaders import PyPDFLoader, TextLoader
-from langchain_core.documents import Document
-import pandas as pd
+import shutil
 
 # ── Configuração da página ─────────────────────────────────────────────────
 st.set_page_config(
@@ -63,47 +61,17 @@ CHROMA_DIR = "./chroma_db"
 
 def load_all_docs():
     """Carrega todos os documentos para o BM25 (precisa dos docs raw)."""
-    docs = []
-    for f in DATA_DIR.glob("*.txt"):
-        try:
-            loader = TextLoader(str(f), encoding="utf-8")
-            loaded = loader.load()
-            for doc in loaded:
-                add_source_search_aliases(doc, f)
-            docs.extend(loaded)
-        except Exception:
-            pass
-    for f in DATA_DIR.glob("*.pdf"):
-        try:
-            loader = PyPDFLoader(str(f))
-            loaded = loader.load()
-            for doc in loaded:
-                add_source_search_aliases(doc, f)
-            docs.extend(loaded)
-        except Exception:
-            pass
-    for f in DATA_DIR.glob("*.xlsx"):
-        try:
-            df = pd.read_excel(str(f))
-            for _, row in df.iterrows():
-                text = " | ".join(
-                    f"{col}: {val}" for col, val in row.items() if pd.notna(val)
-                )
-                docs.append(Document(page_content=text,
-                                     metadata={"source": f.name}))
-        except Exception:
-            pass
-    return docs
+    return load_all_documents()
 
 
 @st.cache_resource(show_spinner=False)
 def setup_agent():
     """Inicializa o agente RAG (corre apenas uma vez por sessão)."""
-    chroma_exists = Path(CHROMA_DIR).exists() and any(Path(CHROMA_DIR).iterdir())
-
-    if chroma_exists:
+    if index_is_current():
         vectorstore = load_vectorstore()
     else:
+        if Path(CHROMA_DIR).exists():
+            shutil.rmtree(CHROMA_DIR)
         vectorstore = ingest()
 
     docs      = load_all_docs()
@@ -123,7 +91,6 @@ with st.sidebar:
 
     # Botão de (re)ingestão
     if st.button("🔄 Re-indexar documentos", use_container_width=True):
-        import shutil
         if Path(CHROMA_DIR).exists():
             shutil.rmtree(CHROMA_DIR)
         st.cache_resource.clear()
@@ -137,6 +104,7 @@ with st.sidebar:
     st.markdown(f"- 📄 **{len(pdfs)}** PDFs (CVs + artigos)")
     st.markdown(f"- 📝 **{len(txts)}** Transcrições")
     st.markdown(f"- 📊 **{len(excels)}** Excel (Partners)")
+    st.markdown("- 🌐 **DGEG** Publicações de energia")
 
     st.markdown("---")
     st.markdown("### 💡 Perguntas exemplo")
@@ -145,6 +113,8 @@ with st.sidebar:
         "O que é o FraudRadar?",
         "Que serviços tem a área de Tax?",
         "Fala-me sobre o Analytics4Vegetation",
+        "Que publicações de energia existem na DGEG?",
+        "O que publica a DGEG sobre estatísticas rápidas das renováveis?",
         "Quem lidera o Consulting?",
         "Onde fica o escritório da EY?",
     ]
@@ -163,7 +133,7 @@ with st.sidebar:
 st.markdown("""
 <div class="ey-header">
     <h1>💼 EY Knowledge Assistant</h1>
-    <p>Assistente de conhecimento interno — EY Portugal</p>
+    <p>Assistente de conhecimento interno EY Portugal + publicações DGEG</p>
 </div>
 """, unsafe_allow_html=True)
 
@@ -185,7 +155,8 @@ if "messages" not in st.session_state:
             "role": "assistant",
             "content": "Olá! Sou o assistente de conhecimento da **EY Portugal**. "
                        "Posso ajudá-lo a encontrar informação sobre partners, "
-                       "service lines, projectos e muito mais. Como posso ajudar?",
+                       "service lines, projectos e publicações de energia da DGEG. "
+                       "Como posso ajudar?",
             "sources": []
         }
     ]
@@ -207,7 +178,7 @@ for msg in st.session_state.messages:
 # ── Input do utilizador ────────────────────────────────────────────────────
 # Verifica se há pergunta pendente (vinda do sidebar)
 pending = st.session_state.pop("pending_question", None)
-user_input = st.chat_input("Faça a sua pergunta sobre a EY...") or pending
+user_input = st.chat_input("Faça a sua pergunta sobre a EY ou DGEG...") or pending
 
 if user_input:
     # Mostra mensagem do utilizador

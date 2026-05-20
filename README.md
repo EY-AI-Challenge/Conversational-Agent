@@ -36,6 +36,11 @@ For EY internal information, a dataset on EY information is provided, representi
 - **Excel File** — listing EY’s service lines/subservice lines, along with the name of the responsible partner for each  
 - **PDF Files** — Partner CVs and EY News Articles (from the official website)
 
+Current prototype implementation also indexes the **DGEG energy publications** source:
+- Landing page: https://www.dgeg.gov.pt/pt/estatistica/energia/publicacoes/
+- Related DGEG energy publication/category pages linked from that page
+- Source metadata is stored with each chunk so answers can cite `DGEG - ...`
+
 ---
 
 ## 💼 Consulting Mindset Expectations
